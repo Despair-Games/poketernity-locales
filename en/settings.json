@@ -109,5 +109,8 @@
   "shop": "Shop",
   "checkTeam": "Check Team",
   "confirmDisableTouch": "Are you sure you want to disable Touch Controls?",
-  "defaultConfirmMessage": "Are you sure?"
+  "defaultConfirmMessage": "Are you sure?",
+  "landscape": "Landscape",
+  "portrait": "Portrait",
+  "configure": "Configure"
 }
