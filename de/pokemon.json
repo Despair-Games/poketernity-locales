@@ -1,1084 +1,4330 @@
 {
-  "bulbasaur": "Bisasam",
-  "ivysaur": "Bisaknosp",
-  "venusaur": "Bisaflor",
-  "charmander": "Glumanda",
-  "charmeleon": "Glutexo",
-  "charizard": "Glurak",
-  "squirtle": "Schiggy",
-  "wartortle": "Schillok",
-  "blastoise": "Turtok",
-  "caterpie": "Raupy",
-  "metapod": "Safcon",
-  "butterfree": "Smettbo",
-  "weedle": "Hornliu",
-  "kakuna": "Kokuna",
-  "beedrill": "Bibor",
-  "pidgey": "Taubsi",
-  "pidgeotto": "Tauboga",
-  "pidgeot": "Tauboss",
-  "rattata": "Rattfratz",
-  "raticate": "Rattikarl",
-  "spearow": "Habitak",
-  "fearow": "Ibitak",
-  "ekans": "Rettan",
-  "arbok": "Arbok",
-  "pikachu": "Pikachu",
-  "raichu": "Raichu",
-  "sandshrew": "Sandan",
-  "sandslash": "Sandamer",
-  "nidoran_f": "Nidoran♀",
-  "nidorina": "Nidorina",
-  "nidoqueen": "Nidoqueen",
-  "nidoran_m": "Nidoran♂",
-  "nidorino": "Nidorino",
-  "nidoking": "Nidoking",
-  "clefairy": "Piepi",
-  "clefable": "Pixi",
-  "vulpix": "Vulpix",
-  "ninetales": "Vulnona",
-  "jigglypuff": "Pummeluff",
-  "wigglytuff": "Knuddeluff",
-  "zubat": "Zubat",
-  "golbat": "Golbat",
-  "oddish": "Myrapla",
-  "gloom": "Duflor",
-  "vileplume": "Giflor",
-  "paras": "Paras",
-  "parasect": "Parasek",
-  "venonat": "Bluzuk",
-  "venomoth": "Omot",
-  "diglett": "Digda",
-  "dugtrio": "Digdri",
-  "meowth": "Mauzi",
-  "persian": "Snobilikat",
-  "psyduck": "Enton",
-  "golduck": "Entoron",
-  "mankey": "Menki",
-  "primeape": "Rasaff",
-  "growlithe": "Fukano",
-  "arcanine": "Arkani",
-  "poliwag": "Quapsel",
-  "poliwhirl": "Quaputzi",
-  "poliwrath": "Quappo",
-  "abra": "Abra",
-  "kadabra": "Kadabra",
-  "alakazam": "Simsala",
-  "machop": "Machollo",
-  "machoke": "Maschock",
-  "machamp": "Machomei",
-  "bellsprout": "Knofensa",
-  "weepinbell": "Ultrigaria",
-  "victreebel": "Sarzenia",
-  "tentacool": "Tentacha",
-  "tentacruel": "Tentoxa",
-  "geodude": "Kleinstein",
-  "graveler": "Georok",
-  "golem": "Geowaz",
-  "ponyta": "Ponita",
-  "rapidash": "Gallopa",
-  "slowpoke": "Flegmon",
-  "slowbro": "Lahmus",
-  "magnemite": "Magnetilo",
-  "magneton": "Magneton",
-  "farfetchd": "Porenta",
-  "doduo": "Dodu",
-  "dodrio": "Dodri",
-  "seel": "Jurob",
-  "dewgong": "Jugong",
-  "grimer": "Sleima",
-  "muk": "Sleimok",
-  "shellder": "Muschas",
-  "cloyster": "Austos",
-  "gastly": "Nebulak",
-  "haunter": "Alpollo",
-  "gengar": "Gengar",
-  "onix": "Onix",
-  "drowzee": "Traumato",
-  "hypno": "Hypno",
-  "krabby": "Krabby",
-  "kingler": "Kingler",
-  "voltorb": "Voltobal",
-  "electrode": "Lektrobal",
-  "exeggcute": "Owei",
-  "exeggutor": "Kokowei",
-  "cubone": "Tragosso",
-  "marowak": "Knogga",
-  "hitmonlee": "Kicklee",
-  "hitmonchan": "Nockchan",
-  "lickitung": "Schlurp",
-  "koffing": "Smogon",
-  "weezing": "Smogmog",
-  "rhyhorn": "Rihorn",
-  "rhydon": "Rizeros",
-  "chansey": "Chaneira",
-  "tangela": "Tangela",
-  "kangaskhan": "Kangama",
-  "horsea": "Seeper",
-  "seadra": "Seemon",
-  "goldeen": "Goldini",
-  "seaking": "Golking",
-  "staryu": "Sterndu",
-  "starmie": "Starmie",
-  "mr_mime": "Pantimos",
-  "scyther": "Sichlor",
-  "jynx": "Rossana",
-  "electabuzz": "Elektek",
-  "magmar": "Magmar",
-  "pinsir": "Pinsir",
-  "tauros": "Tauros",
-  "magikarp": "Karpador",
-  "gyarados": "Garados",
-  "lapras": "Lapras",
-  "ditto": "Ditto",
-  "eevee": "Evoli",
-  "vaporeon": "Aquana",
-  "jolteon": "Blitza",
-  "flareon": "Flamara",
-  "porygon": "Porygon",
-  "omanyte": "Amonitas",
-  "omastar": "Amoroso",
-  "kabuto": "Kabuto",
-  "kabutops": "Kabutops",
-  "aerodactyl": "Aerodactyl",
-  "snorlax": "Relaxo",
-  "articuno": "Arktos",
-  "zapdos": "Zapdos",
-  "moltres": "Lavados",
-  "dratini": "Dratini",
-  "dragonair": "Dragonir",
-  "dragonite": "Dragoran",
-  "mewtwo": "Mewtu",
-  "mew": "Mew",
-  "chikorita": "Endivie",
-  "bayleef": "Lorblatt",
-  "meganium": "Meganie",
-  "cyndaquil": "Feurigel",
-  "quilava": "Igelavar",
-  "typhlosion": "Tornupto",
-  "totodile": "Karnimani",
-  "croconaw": "Tyracroc",
-  "feraligatr": "Impergator",
-  "sentret": "Wiesor",
-  "furret": "Wiesenior",
-  "hoothoot": "Hoothoot",
-  "noctowl": "Noctuh",
-  "ledyba": "Ledyba",
-  "ledian": "Ledian",
-  "spinarak": "Webarak",
-  "ariados": "Ariados",
-  "crobat": "Iksbat",
-  "chinchou": "Lampi",
-  "lanturn": "Lanturn",
-  "pichu": "Pichu",
-  "cleffa": "Pii",
-  "igglybuff": "Fluffeluff",
-  "togepi": "Togepi",
-  "togetic": "Togetic",
-  "natu": "Natu",
-  "xatu": "Xatu",
-  "mareep": "Voltilamm",
-  "flaaffy": "Waaty",
-  "ampharos": "Ampharos",
-  "bellossom": "Blubella",
-  "marill": "Marill",
-  "azumarill": "Azumarill",
-  "sudowoodo": "Mogelbaum",
-  "politoed": "Quaxo",
-  "hoppip": "Hoppspross",
-  "skiploom": "Hubelupf",
-  "jumpluff": "Papungha",
-  "aipom": "Griffel",
-  "sunkern": "Sonnkern",
-  "sunflora": "Sonnflora",
-  "yanma": "Yanma",
-  "wooper": "Felino",
-  "quagsire": "Morlord",
-  "espeon": "Psiana",
-  "umbreon": "Nachtara",
-  "murkrow": "Kramurx",
-  "slowking": "Laschoking",
-  "misdreavus": "Traunfugil",
-  "unown": "Icognito",
-  "wobbuffet": "Woingenau",
-  "girafarig": "Girafarig",
-  "pineco": "Tannza",
-  "forretress": "Forstellka",
-  "dunsparce": "Dummisel",
-  "gligar": "Skorgla",
-  "steelix": "Stahlos",
-  "snubbull": "Snubbull",
-  "granbull": "Granbull",
-  "qwilfish": "Baldorfish",
-  "scizor": "Scherox",
-  "shuckle": "Pottrott",
-  "heracross": "Skaraborn",
-  "sneasel": "Sniebel",
-  "teddiursa": "Teddiursa",
-  "ursaring": "Ursaring",
-  "slugma": "Schneckmag",
-  "magcargo": "Magcargo",
-  "swinub": "Quiekel",
-  "piloswine": "Keifel",
-  "corsola": "Corasonn",
-  "remoraid": "Remoraid",
-  "octillery": "Octillery",
-  "delibird": "Botogel",
-  "mantine": "Mantax",
-  "skarmory": "Panzaeron",
-  "houndour": "Hunduster",
-  "houndoom": "Hundemon",
-  "kingdra": "Seedraking",
-  "phanpy": "Phanpy",
-  "donphan": "Donphan",
-  "porygon2": "Porygon2",
-  "stantler": "Damhirplex",
-  "smeargle": "Farbeagle",
-  "tyrogue": "Rabauz",
-  "hitmontop": "Kapoera",
-  "smoochum": "Kussilla",
-  "elekid": "Elekid",
-  "magby": "Magby",
-  "miltank": "Miltank",
-  "blissey": "Heiteira",
-  "raikou": "Raikou",
-  "entei": "Entei",
-  "suicune": "Suicune",
-  "larvitar": "Larvitar",
-  "pupitar": "Pupitar",
-  "tyranitar": "Despotar",
-  "lugia": "Lugia",
-  "ho_oh": "Ho-Oh",
-  "celebi": "Celebi",
-  "treecko": "Geckarbor",
-  "grovyle": "Reptain",
-  "sceptile": "Gewaldro",
-  "torchic": "Flemmli",
-  "combusken": "Jungglut",
-  "blaziken": "Lohgock",
-  "mudkip": "Hydropi",
-  "marshtomp": "Moorabbel",
-  "swampert": "Sumpex",
-  "poochyena": "Fiffyen",
-  "mightyena": "Magnayen",
-  "zigzagoon": "Zigzachs",
-  "linoone": "Geradaks",
-  "wurmple": "Waumpel",
-  "silcoon": "Schaloko",
-  "beautifly": "Papinella",
-  "cascoon": "Panekon",
-  "dustox": "Pudox",
-  "lotad": "Loturzel",
-  "lombre": "Lombrero",
-  "ludicolo": "Kappalores",
-  "seedot": "Samurzel",
-  "nuzleaf": "Blanas",
-  "shiftry": "Tengulist",
-  "taillow": "Schwalbini",
-  "swellow": "Schwalboss",
-  "wingull": "Wingull",
-  "pelipper": "Pelipper",
-  "ralts": "Trasla",
-  "kirlia": "Kirlia",
-  "gardevoir": "Gardevoir",
-  "surskit": "Gehweiher",
-  "masquerain": "Maskeregen",
-  "shroomish": "Knilz",
-  "breloom": "Kapilz",
-  "slakoth": "Bummelz",
-  "vigoroth": "Muntier",
-  "slaking": "Letarking",
-  "nincada": "Nincada",
-  "ninjask": "Ninjask",
-  "shedinja": "Ninjatom",
-  "whismur": "Flurmel",
-  "loudred": "Krakeelo",
-  "exploud": "Krawumms",
-  "makuhita": "Makuhita",
-  "hariyama": "Hariyama",
-  "azurill": "Azurill",
-  "nosepass": "Nasgnet",
-  "skitty": "Eneco",
-  "delcatty": "Enekoro",
-  "sableye": "Zobiris",
-  "mawile": "Flunkifer",
-  "aron": "Stollunior",
-  "lairon": "Stollrak",
-  "aggron": "Stolloss",
-  "meditite": "Meditite",
-  "medicham": "Meditalis",
-  "electrike": "Frizelbliz",
-  "manectric": "Voltenso",
-  "plusle": "Plusle",
-  "minun": "Minun",
-  "volbeat": "Volbeat",
-  "illumise": "Illumise",
-  "roselia": "Roselia",
-  "gulpin": "Schluppuck",
-  "swalot": "Schluckwech",
-  "carvanha": "Kanivanha",
-  "sharpedo": "Tohaido",
-  "wailmer": "Wailmer",
-  "wailord": "Wailord",
-  "numel": "Camaub",
-  "camerupt": "Camerupt",
-  "torkoal": "Qurtel",
-  "spoink": "Spoink",
-  "grumpig": "Groink",
-  "spinda": "Pandir",
-  "trapinch": "Knacklion",
-  "vibrava": "Vibrava",
-  "flygon": "Libelldra",
-  "cacnea": "Tuska",
-  "cacturne": "Noktuska",
-  "swablu": "Wablu",
-  "altaria": "Altaria",
-  "zangoose": "Sengo",
-  "seviper": "Vipitis",
-  "lunatone": "Lunastein",
-  "solrock": "Sonnfel",
-  "barboach": "Schmerbe",
-  "whiscash": "Welsar",
-  "corphish": "Krebscorps",
-  "crawdaunt": "Krebutack",
-  "baltoy": "Puppance",
-  "claydol": "Lepumentas",
-  "lileep": "Liliep",
-  "cradily": "Wielie",
-  "anorith": "Anorith",
-  "armaldo": "Armaldo",
-  "feebas": "Barschwa",
-  "milotic": "Milotic",
-  "castform": "Formeo",
-  "kecleon": "Kecleon",
-  "shuppet": "Shuppet",
-  "banette": "Banette",
-  "duskull": "Zwirrlicht",
-  "dusclops": "Zwirrklop",
-  "tropius": "Tropius",
-  "chimecho": "Palimpalim",
-  "absol": "Absol",
-  "wynaut": "Isso",
-  "snorunt": "Schneppke",
-  "glalie": "Firnontor",
-  "spheal": "Seemops",
-  "sealeo": "Seejong",
-  "walrein": "Walraisa",
-  "clamperl": "Perlu",
-  "huntail": "Aalabyss",
-  "gorebyss": "Saganabyss",
-  "relicanth": "Relicanth",
-  "luvdisc": "Liebiskus",
-  "bagon": "Kindwurm",
-  "shelgon": "Draschel",
-  "salamence": "Brutalanda",
-  "beldum": "Tanhel",
-  "metang": "Metang",
-  "metagross": "Metagross",
-  "regirock": "Regirock",
-  "regice": "Regice",
-  "registeel": "Registeel",
-  "latias": "Latias",
-  "latios": "Latios",
-  "kyogre": "Kyogre",
-  "groudon": "Groudon",
-  "rayquaza": "Rayquaza",
-  "jirachi": "Jirachi",
-  "deoxys": "Deoxys",
-  "turtwig": "Chelast",
-  "grotle": "Chelcarain",
-  "torterra": "Chelterrar",
-  "chimchar": "Panflam",
-  "monferno": "Panpyro",
-  "infernape": "Panferno",
-  "piplup": "Plinfa",
-  "prinplup": "Pliprin",
-  "empoleon": "Impoleon",
-  "starly": "Staralili",
-  "staravia": "Staravia",
-  "staraptor": "Staraptor",
-  "bidoof": "Bidiza",
-  "bibarel": "Bidifas",
-  "kricketot": "Zirpurze",
-  "kricketune": "Zirpeise",
-  "shinx": "Sheinux",
-  "luxio": "Luxio",
-  "luxray": "Luxtra",
-  "budew": "Knospi",
-  "roserade": "Roserade",
-  "cranidos": "Koknodon",
-  "rampardos": "Rameidon",
-  "shieldon": "Schilterus",
-  "bastiodon": "Bollterus",
-  "burmy": "Burmy",
-  "wormadam": "Burmadame",
-  "mothim": "Moterpel",
-  "combee": "Wadribie",
-  "vespiquen": "Honweisel",
-  "pachirisu": "Pachirisu",
-  "buizel": "Bamelin",
-  "floatzel": "Bojelin",
-  "cherubi": "Kikugi",
-  "cherrim": "Kinoso",
-  "shellos": "Schalellos",
-  "gastrodon": "Gastrodon",
-  "ambipom": "Ambidiffel",
-  "drifloon": "Driftlon",
-  "drifblim": "Drifzepeli",
-  "buneary": "Haspiror",
-  "lopunny": "Schlapor",
-  "mismagius": "Traunmagil",
-  "honchkrow": "Kramshef",
-  "glameow": "Charmian",
-  "purugly": "Shnurgarst",
-  "chingling": "Klingplim",
-  "stunky": "Skunkapuh",
-  "skuntank": "Skuntank",
-  "bronzor": "Bronzel",
-  "bronzong": "Bronzong",
-  "bonsly": "Mobai",
-  "mime_jr": "Pantimimi",
-  "happiny": "Wonneira",
-  "chatot": "Plaudagei",
-  "spiritomb": "Kryppuk",
-  "gible": "Kaumalat",
-  "gabite": "Knarksel",
-  "garchomp": "Knackrack",
-  "munchlax": "Mampfaxo",
-  "riolu": "Riolu",
-  "lucario": "Lucario",
-  "hippopotas": "Hippopotas",
-  "hippowdon": "Hippoterus",
-  "skorupi": "Pionskora",
-  "drapion": "Piondragi",
-  "croagunk": "Glibunkel",
-  "toxicroak": "Toxiquak",
-  "carnivine": "Venuflibis",
-  "finneon": "Finneon",
-  "lumineon": "Lumineon",
-  "mantyke": "Mantirps",
-  "snover": "Shnebedeck",
-  "abomasnow": "Rexblisar",
-  "weavile": "Snibunna",
-  "magnezone": "Magnezone",
-  "lickilicky": "Schlurplek",
-  "rhyperior": "Rihornior",
-  "tangrowth": "Tangoloss",
-  "electivire": "Elevoltek",
-  "magmortar": "Magbrant",
-  "togekiss": "Togekiss",
-  "yanmega": "Yanmega",
-  "leafeon": "Folipurba",
-  "glaceon": "Glaziola",
-  "gliscor": "Skorgro",
-  "mamoswine": "Mamutel",
-  "porygon_z": "Porygon-Z",
-  "gallade": "Galagladi",
-  "probopass": "Voluminas",
-  "dusknoir": "Zwirrfinst",
-  "froslass": "Frosdedje",
-  "rotom": "Rotom",
-  "uxie": "Selfe",
-  "mesprit": "Vesprit",
-  "azelf": "Tobutz",
-  "dialga": "Dialga",
-  "palkia": "Palkia",
-  "heatran": "Heatran",
-  "regigigas": "Regigigas",
-  "giratina": "Giratina",
-  "cresselia": "Cresselia",
-  "phione": "Phione",
-  "manaphy": "Manaphy",
-  "darkrai": "Darkrai",
-  "shaymin": "Shaymin",
-  "arceus": "Arceus",
-  "victini": "Victini",
-  "snivy": "Serpifeu",
-  "servine": "Efoserp",
-  "serperior": "Serpiroyal",
-  "tepig": "Floink",
-  "pignite": "Ferkokel",
-  "emboar": "Flambirex",
-  "oshawott": "Ottaro",
-  "dewott": "Zwottronin",
-  "samurott": "Admurai",
-  "patrat": "Nagelotz",
-  "watchog": "Kukmarda",
-  "lillipup": "Yorkleff",
-  "herdier": "Terribark",
-  "stoutland": "Bissbark",
-  "purrloin": "Felilou",
-  "liepard": "Kleoparda",
-  "pansage": "Vegimak",
-  "simisage": "Vegichita",
-  "pansear": "Grillmak",
-  "simisear": "Grillchita",
-  "panpour": "Sodamak",
-  "simipour": "Sodachita",
-  "munna": "Somniam",
-  "musharna": "Somnivora",
-  "pidove": "Dusselgurr",
-  "tranquill": "Navitaub",
-  "unfezant": "Fasasnob",
-  "blitzle": "Elezeba",
-  "zebstrika": "Zebritz",
-  "roggenrola": "Kiesling",
-  "boldore": "Sedimantur",
-  "gigalith": "Brockoloss",
-  "woobat": "Fleknoil",
-  "swoobat": "Fletiamo",
-  "drilbur": "Rotomurf",
-  "excadrill": "Stalobor",
-  "audino": "Ohrdoch",
-  "timburr": "Praktibalk",
-  "gurdurr": "Strepoli",
-  "conkeldurr": "Meistagrif",
-  "tympole": "Schallquap",
-  "palpitoad": "Mebrana",
-  "seismitoad": "Branawarz",
-  "throh": "Jiutesto",
-  "sawk": "Karadonis",
-  "sewaddle": "Strawickl",
-  "swadloon": "Folikon",
-  "leavanny": "Matrifol",
-  "venipede": "Toxiped",
-  "whirlipede": "Rollum",
-  "scolipede": "Cerapendra",
-  "cottonee": "Waumboll",
-  "whimsicott": "Elfun",
-  "petilil": "Lilminip",
-  "lilligant": "Dressella",
-  "basculin": "Barschuft",
-  "sandile": "Ganovil",
-  "krokorok": "Rokkaiman",
-  "krookodile": "Rabigator",
-  "darumaka": "Flampion",
-  "darmanitan": "Flampivian",
-  "maractus": "Maracamba",
-  "dwebble": "Lithomith",
-  "crustle": "Castellith",
-  "scraggy": "Zurrokex",
-  "scrafty": "Irokex",
-  "sigilyph": "Symvolara",
-  "yamask": "Makabaja",
-  "cofagrigus": "Echnatoll",
-  "tirtouga": "Galapaflos",
-  "carracosta": "Karippas",
-  "archen": "Flapteryx",
-  "archeops": "Aeropteryx",
-  "trubbish": "Unratütox",
-  "garbodor": "Deponitox",
-  "zorua": "Zorua",
-  "zoroark": "Zoroark",
-  "minccino": "Picochilla",
-  "cinccino": "Chillabell",
-  "gothita": "Mollimorba",
-  "gothorita": "Hypnomorba",
-  "gothitelle": "Morbitesse",
-  "solosis": "Monozyto",
-  "duosion": "Mitodos",
-  "reuniclus": "Zytomega",
-  "ducklett": "Piccolente",
-  "swanna": "Swaroness",
-  "vanillite": "Gelatini",
-  "vanillish": "Gelatroppo",
-  "vanilluxe": "Gelatwino",
-  "deerling": "Sesokitz",
-  "sawsbuck": "Kronjuwild",
-  "emolga": "Emolga",
-  "karrablast": "Laukaps",
-  "escavalier": "Cavalanzas",
-  "foongus": "Tarnpignon",
-  "amoonguss": "Hutsassa",
-  "frillish": "Quabbel",
-  "jellicent": "Apoquallyp",
-  "alomomola": "Mamolida",
-  "joltik": "Wattzapf",
-  "galvantula": "Voltula",
-  "ferroseed": "Kastadur",
-  "ferrothorn": "Tentantel",
-  "klink": "Klikk",
-  "klang": "Kliklak",
-  "klinklang": "Klikdiklak",
-  "tynamo": "Zapplardin",
-  "eelektrik": "Zapplalek",
-  "eelektross": "Zapplarang",
-  "elgyem": "Pygraulon",
-  "beheeyem": "Megalon",
-  "litwick": "Lichtel",
-  "lampent": "Laternecto",
-  "chandelure": "Skelabra",
-  "axew": "Milza",
-  "fraxure": "Sharfax",
-  "haxorus": "Maxax",
-  "cubchoo": "Petznief",
-  "beartic": "Siberio",
-  "cryogonal": "Frigometri",
-  "shelmet": "Schnuthelm",
-  "accelgor": "Hydragil",
-  "stunfisk": "Flunschlik",
-  "mienfoo": "Lin-Fu",
-  "mienshao": "Wie-Shu",
-  "druddigon": "Shardrago",
-  "golett": "Golbit",
-  "golurk": "Golgantes",
-  "pawniard": "Gladiantri",
-  "bisharp": "Caesurio",
-  "bouffalant": "Bisofank",
-  "rufflet": "Geronimatz",
-  "braviary": "Washakwil",
-  "vullaby": "Skallyk",
-  "mandibuzz": "Grypheldis",
-  "heatmor": "Furnifraß",
-  "durant": "Fermicula",
-  "deino": "Kapuno",
-  "zweilous": "Duodino",
-  "hydreigon": "Trikephalo",
-  "larvesta": "Ignivor",
-  "volcarona": "Ramoth",
-  "cobalion": "Kobalium",
-  "terrakion": "Terrakium",
-  "virizion": "Viridium",
-  "tornadus": "Boreos",
-  "thundurus": "Voltolos",
-  "reshiram": "Reshiram",
-  "zekrom": "Zekrom",
-  "landorus": "Demeteros",
-  "kyurem": "Kyurem",
-  "keldeo": "Keldeo",
-  "meloetta": "Meloetta",
-  "genesect": "Genesect",
-  "chespin": "Igamaro",
-  "quilladin": "Igastarnish",
-  "chesnaught": "Brigaron",
-  "fennekin": "Fynx",
-  "braixen": "Rutena",
-  "delphox": "Fennexis",
-  "froakie": "Froxy",
-  "frogadier": "Amphizel",
-  "greninja": "Quajutsu",
-  "bunnelby": "Scoppel",
-  "diggersby": "Grebbit",
-  "fletchling": "Dartiri",
-  "fletchinder": "Dartignis",
-  "talonflame": "Fiaro",
-  "scatterbug": "Purmel",
-  "spewpa": "Puponcho",
-  "vivillon": "Vivillon",
-  "litleo": "Leufeo",
-  "pyroar": "Pyroleo",
-  "flabebe": "Flabébé",
-  "floette": "Floette",
-  "florges": "Florges",
-  "skiddo": "Mähikel",
-  "gogoat": "Chevrumm",
-  "pancham": "Pam-Pam",
-  "pangoro": "Pandagro",
-  "furfrou": "Coiffwaff",
-  "espurr": "Psiau",
-  "meowstic": "Psiaugon",
-  "honedge": "Gramokles",
-  "doublade": "Duokles",
-  "aegislash": "Durengard",
-  "spritzee": "Parfi",
-  "aromatisse": "Parfinesse",
-  "swirlix": "Flauschling",
-  "slurpuff": "Sabbaione",
-  "inkay": "Iscalar",
-  "malamar": "Calamanero",
-  "binacle": "Bithora",
-  "barbaracle": "Thanathora",
-  "skrelp": "Algitt",
-  "dragalge": "Tandrak",
-  "clauncher": "Scampisto",
-  "clawitzer": "Wummer",
-  "helioptile": "Eguana",
-  "heliolisk": "Elezard",
-  "tyrunt": "Balgoras",
-  "tyrantrum": "Monargoras",
-  "amaura": "Amarino",
-  "aurorus": "Amagarga",
-  "sylveon": "Feelinara",
-  "hawlucha": "Resladero",
-  "dedenne": "Dedenne",
-  "carbink": "Rocara",
-  "goomy": "Viscora",
-  "sliggoo": "Viscargot",
-  "goodra": "Viscogon",
-  "klefki": "Clavion",
-  "phantump": "Paragoni",
-  "trevenant": "Trombork",
-  "pumpkaboo": "Irrbis",
-  "gourgeist": "Pumpdjinn",
-  "bergmite": "Arktip",
-  "avalugg": "Arktilas",
-  "noibat": "eF-eM",
-  "noivern": "UHaFnir",
-  "xerneas": "Xerneas",
-  "yveltal": "Yveltal",
-  "zygarde": "Zygarde",
-  "diancie": "Diancie",
-  "hoopa": "Hoopa",
-  "volcanion": "Volcanion",
-  "rowlet": "Bauz",
-  "dartrix": "Arboretoss",
-  "decidueye": "Silvarro",
-  "litten": "Flamiau",
-  "torracat": "Miezunder",
-  "incineroar": "Fuegro",
-  "popplio": "Robball",
-  "brionne": "Marikeck",
-  "primarina": "Primarene",
-  "pikipek": "Peppeck",
-  "trumbeak": "Trompeck",
-  "toucannon": "Tukanon",
-  "yungoos": "Mangunior",
-  "gumshoos": "Manguspektor",
-  "grubbin": "Mabula",
-  "charjabug": "Akkup",
-  "vikavolt": "Donarion",
-  "crabrawler": "Krabbox",
-  "crabominable": "Krawell",
-  "oricorio": "Choreogel",
-  "cutiefly": "Wommel",
-  "ribombee": "Bandelby",
-  "rockruff": "Wuffels",
-  "lycanroc": "Wolwerock",
-  "wishiwashi": "Lusardin",
-  "mareanie": "Garstella",
-  "toxapex": "Aggrostella",
-  "mudbray": "Pampuli",
-  "mudsdale": "Pampross",
-  "dewpider": "Araqua",
-  "araquanid": "Aranestro",
-  "fomantis": "Imantis",
-  "lurantis": "Mantidea",
-  "morelull": "Bubungus",
-  "shiinotic": "Lamellux",
-  "salandit": "Molunk",
-  "salazzle": "Amfira",
-  "stufful": "Velursi",
-  "bewear": "Kosturso",
-  "bounsweet": "Frubberl",
-  "steenee": "Frubaila",
-  "tsareena": "Fruyal",
-  "comfey": "Curelei",
-  "oranguru": "Kommandutan",
-  "passimian": "Quartermak",
-  "wimpod": "Reißlaus",
-  "golisopod": "Tectass",
-  "sandygast": "Sankabuh",
-  "palossand": "Colossand",
-  "pyukumuku": "Gufa",
-  "type_null": "Typ:Null",
-  "silvally": "Amigento",
-  "minior": "Meteno",
-  "komala": "Koalelu",
-  "turtonator": "Tortunator",
-  "togedemaru": "Togedemaru",
-  "mimikyu": "Mimigma",
-  "bruxish": "Knirfish",
-  "drampa": "Sen-Long",
-  "dhelmise": "Moruda",
-  "jangmo_o": "Miniras",
-  "hakamo_o": "Mediras",
-  "kommo_o": "Grandiras",
-  "tapu_koko": "Kapu-Riki",
-  "tapu_lele": "Kapu-Fala",
-  "tapu_bulu": "Kapu-Toro",
-  "tapu_fini": "Kapu-Kime",
-  "cosmog": "Cosmog",
-  "cosmoem": "Cosmovum",
-  "solgaleo": "Solgaleo",
-  "lunala": "Lunala",
-  "nihilego": "Anego",
-  "buzzwole": "Masskito",
-  "pheromosa": "Schabelle",
-  "xurkitree": "Voltriant",
-  "celesteela": "Kaguron",
-  "kartana": "Katagami",
-  "guzzlord": "Schlingking",
-  "necrozma": "Necrozma",
-  "magearna": "Magearna",
-  "marshadow": "Marshadow",
-  "poipole": "Venicro",
-  "naganadel": "Agoyon",
-  "stakataka": "Muramura",
-  "blacephalon": "Kopplosio",
-  "zeraora": "Zeraora",
-  "meltan": "Meltan",
-  "melmetal": "Melmetal",
-  "grookey": "Chimpep",
-  "thwackey": "Chimstix",
-  "rillaboom": "Gortrom",
-  "scorbunny": "Hopplo",
-  "raboot": "Kickerlo",
-  "cinderace": "Liberlo",
-  "sobble": "Memmeon",
-  "drizzile": "Phlegleon",
-  "inteleon": "Intelleon",
-  "skwovet": "Raffel",
-  "greedent": "Schlaraffel",
-  "rookidee": "Meikro",
-  "corvisquire": "Kranoviz",
-  "corviknight": "Krarmor",
-  "blipbug": "Sensect",
-  "dottler": "Keradar",
-  "orbeetle": "Maritellit",
-  "nickit": "Kleptifux",
-  "thievul": "Gaunux",
-  "gossifleur": "Cottini",
-  "eldegoss": "Cottomi",
-  "wooloo": "Wolly",
-  "dubwool": "Zwollock",
-  "chewtle": "Kamehaps",
-  "drednaw": "Kamalm",
-  "yamper": "Voldi",
-  "boltund": "Bellektro",
-  "rolycoly": "Klonkett",
-  "carkol": "Wagong",
-  "coalossal": "Montecarbo",
-  "applin": "Knapfel",
-  "flapple": "Drapfel",
-  "appletun": "Schlapfel",
-  "silicobra": "Salanga",
-  "sandaconda": "Sanaconda",
-  "cramorant": "Urgl",
-  "arrokuda": "Pikuda",
-  "barraskewda": "Barrakiefa",
-  "toxel": "Toxel",
-  "toxtricity": "Riffex",
-  "sizzlipede": "Thermopod",
-  "centiskorch": "Infernopod",
-  "clobbopus": "Klopptopus",
-  "grapploct": "Kaocto",
-  "sinistea": "Fatalitee",
-  "polteageist": "Mortipot",
-  "hatenna": "Brimova",
-  "hattrem": "Brimano",
-  "hatterene": "Silembrim",
-  "impidimp": "Bähmon",
-  "morgrem": "Pelzebub",
-  "grimmsnarl": "Olangaar",
-  "obstagoon": "Barrikadax",
-  "perrserker": "Mauzinger",
-  "cursola": "Gorgasonn",
-  "sirfetchd": "Lauchzelot",
-  "mr_rime": "Pantifrost",
-  "runerigus": "Oghnatoll",
-  "milcery": "Hokumil",
-  "alcremie": "Pokusan",
-  "falinks": "Legios",
-  "pincurchin": "Britzigel",
-  "snom": "Snomnom",
-  "frosmoth": "Mottineva",
-  "stonjourner": "Humanolith",
-  "eiscue": "Kubuin",
-  "indeedee": "Servol",
-  "morpeko": "Morpeko",
-  "cufant": "Kupfanti",
-  "copperajah": "Patinaraja",
-  "dracozolt": "Lectragon",
-  "arctozolt": "Lecryodon",
-  "dracovish": "Pescragon",
-  "arctovish": "Pescryodon",
-  "duraludon": "Duraludon",
-  "dreepy": "Grolldra",
-  "drakloak": "Phandra",
-  "dragapult": "Katapuldra",
-  "zacian": "Zacian",
-  "zamazenta": "Zamazenta",
-  "eternatus": "Endynalos",
-  "kubfu": "Dakuma",
-  "urshifu": "Wulaosu",
-  "zarude": "Zarude",
-  "regieleki": "Regieleki",
-  "regidrago": "Regidrago",
-  "glastrier": "Polaross",
-  "spectrier": "Phantoross",
-  "calyrex": "Coronospa",
-  "wyrdeer": "Damythir",
-  "kleavor": "Axantor",
-  "ursaluna": "Ursaluna",
-  "basculegion": "Salmagnis",
-  "sneasler": "Snieboss",
-  "overqwil": "Myriador",
-  "enamorus": "Cupidos",
-  "sprigatito": "Felori",
-  "floragato": "Feliospa",
-  "meowscarada": "Maskagato",
-  "fuecoco": "Krokel",
-  "crocalor": "Lokroko",
-  "skeledirge": "Skelokrok",
-  "quaxly": "Kwaks",
-  "quaxwell": "Fuentente",
-  "quaquaval": "Bailonda",
-  "lechonk": "Ferkuli",
-  "oinkologne": "Fragrunz",
-  "tarountula": "Tarundel",
-  "spidops": "Spinsidias",
-  "nymble": "Micrick",
-  "lokix": "Lextremo",
-  "pawmi": "Pamo",
-  "pawmo": "Pamamo",
-  "pawmot": "Pamomamo",
-  "tandemaus": "Zwieps",
-  "maushold": "Famieps",
-  "fidough": "Hefel",
-  "dachsbun": "Backel",
-  "smoliv": "Olini",
-  "dolliv": "Olivinio",
-  "arboliva": "Olithena",
-  "squawkabilly": "Krawalloro",
-  "nacli": "Geosali",
-  "naclstack": "Sedisal",
-  "garganacl": "Saltigant",
-  "charcadet": "Knarbon",
-  "armarouge": "Crimanzo",
-  "ceruledge": "Azugladis",
-  "tadbulb": "Blipp",
-  "bellibolt": "Wampitz",
-  "wattrel": "Voltrel",
-  "kilowattrel": "Voltrean",
-  "maschiff": "Mobtiff",
-  "mabosstiff": "Mastifioso",
-  "shroodle": "Sproxi",
-  "grafaiai": "Affiti",
-  "bramblin": "Weherba",
-  "brambleghast": "Horrerba",
-  "toedscool": "Tentagra",
-  "toedscruel": "Tenterra",
-  "klawf": "Klibbe",
-  "capsakid": "Chilingel",
-  "scovillain": "Halupenjo",
-  "rellor": "Relluk",
-  "rabsca": "Skarabaks",
-  "flittle": "Flattutu",
-  "espathra": "Psiopatra",
-  "tinkatink": "Forgita",
-  "tinkatuff": "Tafforgita",
-  "tinkaton": "Granforgita",
-  "wiglett": "Schligda",
-  "wugtrio": "Schligdri",
-  "bombirdier": "Adebom",
-  "finizen": "Normifin",
-  "palafin": "Delfinator",
-  "varoom": "Knattox",
-  "revavroom": "Knattatox",
-  "cyclizar": "Mopex",
-  "orthworm": "Schlurm",
-  "glimmet": "Lumispross",
-  "glimmora": "Lumiflora",
-  "greavard": "Gruff",
-  "houndstone": "Friedwuff",
-  "flamigo": "Flaminkno",
-  "cetoddle": "Flaniwal",
-  "cetitan": "Kolowal",
-  "veluza": "Agiluza",
-  "dondozo": "Heerashai",
-  "tatsugiri": "Nigiragi",
-  "annihilape": "Epitaff",
-  "clodsire": "Suelord",
-  "farigiraf": "Farigiraf",
-  "dudunsparce": "Dummimisel",
-  "kingambit": "Gladimperio",
-  "great_tusk": "Riesenzahn",
-  "scream_tail": "Brüllschweif",
-  "brute_bonnet": "Wutpilz",
-  "flutter_mane": "Flatterhaar",
-  "slither_wing": "Kriechflügel",
-  "sandy_shocks": "Sandfell",
-  "iron_treads": "Eisenrad",
-  "iron_bundle": "Eisenbündel",
-  "iron_hands": "Eisenhand",
-  "iron_jugulis": "Eisenhals",
-  "iron_moth": "Eisenfalter",
-  "iron_thorns": "Eisendorn",
-  "frigibax": "Frospino",
-  "arctibax": "Cryospino",
-  "baxcalibur": "Espinodon",
-  "gimmighoul": "Gierspenst",
-  "gholdengo": "Monetigo",
-  "wo_chien": "Chongjian",
-  "chien_pao": "Baojian",
-  "ting_lu": "Dinglu",
-  "chi_yu": "Yuyu",
-  "roaring_moon": "Donnersichel",
-  "iron_valiant": "Eisenkrieger",
-  "koraidon": "Koraidon",
-  "miraidon": "Miraidon",
-  "walking_wake": "Windewoge",
-  "iron_leaves": "Eisenblatt",
-  "dipplin": "Sirapfel",
-  "poltchageist": "Mortcha",
-  "sinistcha": "Fatalitcha",
-  "okidogi": "Boninu",
-  "munkidori": "Benesaru",
-  "fezandipiti": "Beatori",
-  "ogerpon": "Ogerpon",
-  "archaludon": "Briduradon",
-  "hydrapple": "Hydrapfel",
-  "gouging_fire": "Keilflamme",
-  "raging_bolt": "Furienblitz",
-  "iron_boulder": "Eisenfels",
-  "iron_crown": "Eisenhaupt",
-  "terapagos": "Terapagos",
-  "pecharunt": "Infamomo",
-  "alola_rattata": "Rattfratz",
-  "alola_raticate": "Rattikarl",
-  "alola_raichu": "Raichu",
-  "alola_sandshrew": "Sandan",
-  "alola_sandslash": "Sandamer",
-  "alola_vulpix": "Vulpix",
-  "alola_ninetales": "Vulnona",
-  "alola_diglett": "Digda",
-  "alola_dugtrio": "Digdri",
-  "alola_meowth": "Mauzi",
-  "alola_persian": "Snobilikat",
-  "alola_geodude": "Kleinstein",
-  "alola_graveler": "Georok",
-  "alola_golem": "Geowaz",
-  "alola_grimer": "Sleima",
-  "alola_muk": "Sleimok",
-  "alola_exeggutor": "Kokowei",
-  "alola_marowak": "Knogga",
-  "eternal_floette": "Floette",
-  "galar_meowth": "Mauzi",
-  "galar_ponyta": "Ponita",
-  "galar_rapidash": "Gallopa",
-  "galar_slowpoke": "Flegmon",
-  "galar_slowbro": "Lahmus",
-  "galar_farfetchd": "Porenta",
-  "galar_weezing": "Smogmog",
-  "galar_mr_mime": "Pantimos",
-  "galar_articuno": "Arktos",
-  "galar_zapdos": "Zapdos",
-  "galar_moltres": "Lavados",
-  "galar_slowking": "Laschoking",
-  "galar_corsola": "Corasonn",
-  "galar_zigzagoon": "Zigzachs",
-  "galar_linoone": "Geradaks",
-  "galar_darumaka": "Flampion",
-  "galar_darmanitan": "Flampivian",
-  "galar_yamask": "Makabaja",
-  "galar_stunfisk": "Flunschlik",
-  "hisui_growlithe": "Fukano",
-  "hisui_arcanine": "Arkani",
-  "hisui_voltorb": "Voltobal",
-  "hisui_electrode": "Lektrobal",
-  "hisui_typhlosion": "Tornupto",
-  "hisui_qwilfish": "Baldorfish",
-  "hisui_sneasel": "Sniebel",
-  "hisui_samurott": "Admurai",
-  "hisui_lilligant": "Dressella",
-  "hisui_zorua": "Zorua",
-  "hisui_zoroark": "Zoroark",
-  "hisui_braviary": "Washakwil",
-  "hisui_sliggoo": "Viscargot",
-  "hisui_goodra": "Viscogon",
-  "hisui_avalugg": "Arktilas",
-  "hisui_decidueye": "Silvarro",
-  "paldea_tauros": "Tauros",
-  "paldea_wooper": "Felino",
-  "bloodmoon_ursaluna": "Ursaluna"
+  "bulbasaur": {
+    "name": "Bisasam",
+    "category": "Seed Pokémon"
+  },
+  "ivysaur": {
+    "name": "Bisaknosp",
+    "category": "Seed Pokémon"
+  },
+  "venusaur": {
+    "name": "Bisaflor",
+    "category": "Seed Pokémon"
+  },
+  "charmander": {
+    "name": "Glumanda",
+    "category": "Lizard Pokémon"
+  },
+  "charmeleon": {
+    "name": "Glutexo",
+    "category": "Flame Pokémon"
+  },
+  "charizard": {
+    "name": "Glurak",
+    "category": "Flame Pokémon"
+  },
+  "squirtle": {
+    "name": "Schiggy",
+    "category": "Tiny Turtle Pokémon"
+  },
+  "wartortle": {
+    "name": "Schillok",
+    "category": "Turtle Pokémon"
+  },
+  "blastoise": {
+    "name": "Turtok",
+    "category": "Shellfish Pokémon"
+  },
+  "caterpie": {
+    "name": "Raupy",
+    "category": "Worm Pokémon"
+  },
+  "metapod": {
+    "name": "Safcon",
+    "category": "Cocoon Pokémon"
+  },
+  "butterfree": {
+    "name": "Smettbo",
+    "category": "Butterfly Pokémon"
+  },
+  "weedle": {
+    "name": "Hornliu",
+    "category": "Hairy Bug Pokémon"
+  },
+  "kakuna": {
+    "name": "Kokuna",
+    "category": "Cocoon Pokémon"
+  },
+  "beedrill": {
+    "name": "Bibor",
+    "category": "Poison Bee Pokémon"
+  },
+  "pidgey": {
+    "name": "Taubsi",
+    "category": "Tiny Bird Pokémon"
+  },
+  "pidgeotto": {
+    "name": "Tauboga",
+    "category": "Bird Pokémon"
+  },
+  "pidgeot": {
+    "name": "Tauboss",
+    "category": "Bird Pokémon"
+  },
+  "rattata": {
+    "name": "Rattfratz",
+    "category": "Mouse Pokémon"
+  },
+  "raticate": {
+    "name": "Rattikarl",
+    "category": "Mouse Pokémon"
+  },
+  "spearow": {
+    "name": "Habitak",
+    "category": "Tiny Bird Pokémon"
+  },
+  "fearow": {
+    "name": "Ibitak",
+    "category": "Beak Pokémon"
+  },
+  "ekans": {
+    "name": "Rettan",
+    "category": "Snake Pokémon"
+  },
+  "arbok": {
+    "name": "Arbok",
+    "category": "Cobra Pokémon"
+  },
+  "pikachu": {
+    "name": "Pikachu",
+    "category": "Mouse Pokémon"
+  },
+  "raichu": {
+    "name": "Raichu",
+    "category": "Mouse Pokémon"
+  },
+  "sandshrew": {
+    "name": "Sandan",
+    "category": "Mouse Pokémon"
+  },
+  "sandslash": {
+    "name": "Sandamer",
+    "category": "Mouse Pokémon"
+  },
+  "nidoran_f": {
+    "name": "Nidoran♀",
+    "category": "Poison Pin Pokémon"
+  },
+  "nidorina": {
+    "name": "Nidorina",
+    "category": "Poison Pin Pokémon"
+  },
+  "nidoqueen": {
+    "name": "Nidoqueen",
+    "category": "Drill Pokémon"
+  },
+  "nidoran_m": {
+    "name": "Nidoran♂",
+    "category": "Poison Pin Pokémon"
+  },
+  "nidorino": {
+    "name": "Nidorino",
+    "category": "Poison Pin Pokémon"
+  },
+  "nidoking": {
+    "name": "Nidoking",
+    "category": "Drill Pokémon"
+  },
+  "clefairy": {
+    "name": "Piepi",
+    "category": "Fairy Pokémon"
+  },
+  "clefable": {
+    "name": "Pixi",
+    "category": "Fairy Pokémon"
+  },
+  "vulpix": {
+    "name": "Vulpix",
+    "category": "Fox Pokémon"
+  },
+  "ninetales": {
+    "name": "Vulnona",
+    "category": "Fox Pokémon"
+  },
+  "jigglypuff": {
+    "name": "Pummeluff",
+    "category": "Balloon Pokémon"
+  },
+  "wigglytuff": {
+    "name": "Knuddeluff",
+    "category": "Balloon Pokémon"
+  },
+  "zubat": {
+    "name": "Zubat",
+    "category": "Bat Pokémon"
+  },
+  "golbat": {
+    "name": "Golbat",
+    "category": "Bat Pokémon"
+  },
+  "oddish": {
+    "name": "Myrapla",
+    "category": "Weed Pokémon"
+  },
+  "gloom": {
+    "name": "Duflor",
+    "category": "Weed Pokémon"
+  },
+  "vileplume": {
+    "name": "Giflor",
+    "category": "Flower Pokémon"
+  },
+  "paras": {
+    "name": "Paras",
+    "category": "Mushroom Pokémon"
+  },
+  "parasect": {
+    "name": "Parasek",
+    "category": "Mushroom Pokémon"
+  },
+  "venonat": {
+    "name": "Bluzuk",
+    "category": "Insect Pokémon"
+  },
+  "venomoth": {
+    "name": "Omot",
+    "category": "Poison Moth Pokémon"
+  },
+  "diglett": {
+    "name": "Digda",
+    "category": "Mole Pokémon"
+  },
+  "dugtrio": {
+    "name": "Digdri",
+    "category": "Mole Pokémon"
+  },
+  "meowth": {
+    "name": "Mauzi",
+    "category": "Scratch Cat Pokémon"
+  },
+  "persian": {
+    "name": "Snobilikat",
+    "category": "Classy Cat Pokémon"
+  },
+  "psyduck": {
+    "name": "Enton",
+    "category": "Duck Pokémon"
+  },
+  "golduck": {
+    "name": "Entoron",
+    "category": "Duck Pokémon"
+  },
+  "mankey": {
+    "name": "Menki",
+    "category": "Pig Monkey Pokémon"
+  },
+  "primeape": {
+    "name": "Rasaff",
+    "category": "Pig Monkey Pokémon"
+  },
+  "growlithe": {
+    "name": "Fukano",
+    "category": "Puppy Pokémon"
+  },
+  "arcanine": {
+    "name": "Arkani",
+    "category": "Legendary Pokémon"
+  },
+  "poliwag": {
+    "name": "Quapsel",
+    "category": "Tadpole Pokémon"
+  },
+  "poliwhirl": {
+    "name": "Quaputzi",
+    "category": "Tadpole Pokémon"
+  },
+  "poliwrath": {
+    "name": "Quappo",
+    "category": "Tadpole Pokémon"
+  },
+  "abra": {
+    "name": "Abra",
+    "category": "Psi Pokémon"
+  },
+  "kadabra": {
+    "name": "Kadabra",
+    "category": "Psi Pokémon"
+  },
+  "alakazam": {
+    "name": "Simsala",
+    "category": "Psi Pokémon"
+  },
+  "machop": {
+    "name": "Machollo",
+    "category": "Superpower Pokémon"
+  },
+  "machoke": {
+    "name": "Maschock",
+    "category": "Superpower Pokémon"
+  },
+  "machamp": {
+    "name": "Machomei",
+    "category": "Superpower Pokémon"
+  },
+  "bellsprout": {
+    "name": "Knofensa",
+    "category": "Flower Pokémon"
+  },
+  "weepinbell": {
+    "name": "Ultrigaria",
+    "category": "Flycatcher Pokémon"
+  },
+  "victreebel": {
+    "name": "Sarzenia",
+    "category": "Flycatcher Pokémon"
+  },
+  "tentacool": {
+    "name": "Tentacha",
+    "category": "Jellyfish Pokémon"
+  },
+  "tentacruel": {
+    "name": "Tentoxa",
+    "category": "Jellyfish Pokémon"
+  },
+  "geodude": {
+    "name": "Kleinstein",
+    "category": "Rock Pokémon"
+  },
+  "graveler": {
+    "name": "Georok",
+    "category": "Rock Pokémon"
+  },
+  "golem": {
+    "name": "Geowaz",
+    "category": "Megaton Pokémon"
+  },
+  "ponyta": {
+    "name": "Ponita",
+    "category": "Fire Horse Pokémon"
+  },
+  "rapidash": {
+    "name": "Gallopa",
+    "category": "Fire Horse Pokémon"
+  },
+  "slowpoke": {
+    "name": "Flegmon",
+    "category": "Dopey Pokémon"
+  },
+  "slowbro": {
+    "name": "Lahmus",
+    "category": "Hermit Crab Pokémon"
+  },
+  "magnemite": {
+    "name": "Magnetilo",
+    "category": "Magnet Pokémon"
+  },
+  "magneton": {
+    "name": "Magneton",
+    "category": "Magnet Pokémon"
+  },
+  "farfetchd": {
+    "name": "Porenta",
+    "category": "Wild Duck Pokémon"
+  },
+  "doduo": {
+    "name": "Dodu",
+    "category": "Twin Bird Pokémon"
+  },
+  "dodrio": {
+    "name": "Dodri",
+    "category": "Triple Bird Pokémon"
+  },
+  "seel": {
+    "name": "Jurob",
+    "category": "Sea Lion Pokémon"
+  },
+  "dewgong": {
+    "name": "Jugong",
+    "category": "Sea Lion Pokémon"
+  },
+  "grimer": {
+    "name": "Sleima",
+    "category": "Sludge Pokémon"
+  },
+  "muk": {
+    "name": "Sleimok",
+    "category": "Sludge Pokémon"
+  },
+  "shellder": {
+    "name": "Muschas",
+    "category": "Bivalve Pokémon"
+  },
+  "cloyster": {
+    "name": "Austos",
+    "category": "Bivalve Pokémon"
+  },
+  "gastly": {
+    "name": "Nebulak",
+    "category": "Gas Pokémon"
+  },
+  "haunter": {
+    "name": "Alpollo",
+    "category": "Gas Pokémon"
+  },
+  "gengar": {
+    "name": "Gengar",
+    "category": "Shadow Pokémon"
+  },
+  "onix": {
+    "name": "Onix",
+    "category": "Rock Snake Pokémon"
+  },
+  "drowzee": {
+    "name": "Traumato",
+    "category": "Hypnosis Pokémon"
+  },
+  "hypno": {
+    "name": "Hypno",
+    "category": "Hypnosis Pokémon"
+  },
+  "krabby": {
+    "name": "Krabby",
+    "category": "River Crab Pokémon"
+  },
+  "kingler": {
+    "name": "Kingler",
+    "category": "Pincer Pokémon"
+  },
+  "voltorb": {
+    "name": "Voltobal",
+    "category": "Ball Pokémon"
+  },
+  "electrode": {
+    "name": "Lektrobal",
+    "category": "Ball Pokémon"
+  },
+  "exeggcute": {
+    "name": "Owei",
+    "category": "Egg Pokémon"
+  },
+  "exeggutor": {
+    "name": "Kokowei",
+    "category": "Coconut Pokémon"
+  },
+  "cubone": {
+    "name": "Tragosso",
+    "category": "Lonely Pokémon"
+  },
+  "marowak": {
+    "name": "Knogga",
+    "category": "Bone Keeper Pokémon"
+  },
+  "hitmonlee": {
+    "name": "Kicklee",
+    "category": "Kicking Pokémon"
+  },
+  "hitmonchan": {
+    "name": "Nockchan",
+    "category": "Punching Pokémon"
+  },
+  "lickitung": {
+    "name": "Schlurp",
+    "category": "Licking Pokémon"
+  },
+  "koffing": {
+    "name": "Smogon",
+    "category": "Poison Gas Pokémon"
+  },
+  "weezing": {
+    "name": "Smogmog",
+    "category": "Poison Gas Pokémon"
+  },
+  "rhyhorn": {
+    "name": "Rihorn",
+    "category": "Spikes Pokémon"
+  },
+  "rhydon": {
+    "name": "Rizeros",
+    "category": "Drill Pokémon"
+  },
+  "chansey": {
+    "name": "Chaneira",
+    "category": "Egg Pokémon"
+  },
+  "tangela": {
+    "name": "Tangela",
+    "category": "Vine Pokémon"
+  },
+  "kangaskhan": {
+    "name": "Kangama",
+    "category": "Parent Pokémon"
+  },
+  "horsea": {
+    "name": "Seeper",
+    "category": "Dragon Pokémon"
+  },
+  "seadra": {
+    "name": "Seemon",
+    "category": "Dragon Pokémon"
+  },
+  "goldeen": {
+    "name": "Goldini",
+    "category": "Goldfish Pokémon"
+  },
+  "seaking": {
+    "name": "Golking",
+    "category": "Goldfish Pokémon"
+  },
+  "staryu": {
+    "name": "Sterndu",
+    "category": "Star Shape Pokémon"
+  },
+  "starmie": {
+    "name": "Starmie",
+    "category": "Mysterious Pokémon"
+  },
+  "mr_mime": {
+    "name": "Pantimos",
+    "category": "Barrier Pokémon"
+  },
+  "scyther": {
+    "name": "Sichlor",
+    "category": "Mantis Pokémon"
+  },
+  "jynx": {
+    "name": "Rossana",
+    "category": "Human Shape Pokémon"
+  },
+  "electabuzz": {
+    "name": "Elektek",
+    "category": "Electric Pokémon"
+  },
+  "magmar": {
+    "name": "Magmar",
+    "category": "Spitfire Pokémon"
+  },
+  "pinsir": {
+    "name": "Pinsir",
+    "category": "Stag Beetle Pokémon"
+  },
+  "tauros": {
+    "name": "Tauros",
+    "category": "Wild Bull Pokémon"
+  },
+  "magikarp": {
+    "name": "Karpador",
+    "category": "Fish Pokémon"
+  },
+  "gyarados": {
+    "name": "Garados",
+    "category": "Atrocious Pokémon"
+  },
+  "lapras": {
+    "name": "Lapras",
+    "category": "Transport Pokémon"
+  },
+  "ditto": {
+    "name": "Ditto",
+    "category": "Transform Pokémon"
+  },
+  "eevee": {
+    "name": "Evoli",
+    "category": "Evolution Pokémon"
+  },
+  "vaporeon": {
+    "name": "Aquana",
+    "category": "Bubble Jet Pokémon"
+  },
+  "jolteon": {
+    "name": "Blitza",
+    "category": "Lightning Pokémon"
+  },
+  "flareon": {
+    "name": "Flamara",
+    "category": "Flame Pokémon"
+  },
+  "porygon": {
+    "name": "Porygon",
+    "category": "Virtual Pokémon"
+  },
+  "omanyte": {
+    "name": "Amonitas",
+    "category": "Spiral Pokémon"
+  },
+  "omastar": {
+    "name": "Amoroso",
+    "category": "Spiral Pokémon"
+  },
+  "kabuto": {
+    "name": "Kabuto",
+    "category": "Shellfish Pokémon"
+  },
+  "kabutops": {
+    "name": "Kabutops",
+    "category": "Shellfish Pokémon"
+  },
+  "aerodactyl": {
+    "name": "Aerodactyl",
+    "category": "Fossil Pokémon"
+  },
+  "snorlax": {
+    "name": "Relaxo",
+    "category": "Sleeping Pokémon"
+  },
+  "articuno": {
+    "name": "Arktos",
+    "category": "Freeze Pokémon"
+  },
+  "zapdos": {
+    "name": "Zapdos",
+    "category": "Electric Pokémon"
+  },
+  "moltres": {
+    "name": "Lavados",
+    "category": "Flame Pokémon"
+  },
+  "dratini": {
+    "name": "Dratini",
+    "category": "Dragon Pokémon"
+  },
+  "dragonair": {
+    "name": "Dragonir",
+    "category": "Dragon Pokémon"
+  },
+  "dragonite": {
+    "name": "Dragoran",
+    "category": "Dragon Pokémon"
+  },
+  "mewtwo": {
+    "name": "Mewtu",
+    "category": "Genetic Pokémon"
+  },
+  "mew": {
+    "name": "Mew",
+    "category": "New Species Pokémon"
+  },
+  "chikorita": {
+    "name": "Endivie",
+    "category": "Leaf Pokémon"
+  },
+  "bayleef": {
+    "name": "Lorblatt",
+    "category": "Leaf Pokémon"
+  },
+  "meganium": {
+    "name": "Meganie",
+    "category": "Herb Pokémon"
+  },
+  "cyndaquil": {
+    "name": "Feurigel",
+    "category": "Fire Mouse Pokémon"
+  },
+  "quilava": {
+    "name": "Igelavar",
+    "category": "Volcano Pokémon"
+  },
+  "typhlosion": {
+    "name": "Tornupto",
+    "category": "Volcano Pokémon"
+  },
+  "totodile": {
+    "name": "Karnimani",
+    "category": "Big Jaw Pokémon"
+  },
+  "croconaw": {
+    "name": "Tyracroc",
+    "category": "Big Jaw Pokémon"
+  },
+  "feraligatr": {
+    "name": "Impergator",
+    "category": "Big Jaw Pokémon"
+  },
+  "sentret": {
+    "name": "Wiesor",
+    "category": "Scout Pokémon"
+  },
+  "furret": {
+    "name": "Wiesenior",
+    "category": "Long Body Pokémon"
+  },
+  "hoothoot": {
+    "name": "Hoothoot",
+    "category": "Owl Pokémon"
+  },
+  "noctowl": {
+    "name": "Noctuh",
+    "category": "Owl Pokémon"
+  },
+  "ledyba": {
+    "name": "Ledyba",
+    "category": "Five Star Pokémon"
+  },
+  "ledian": {
+    "name": "Ledian",
+    "category": "Five Star Pokémon"
+  },
+  "spinarak": {
+    "name": "Webarak",
+    "category": "String Spit Pokémon"
+  },
+  "ariados": {
+    "name": "Ariados",
+    "category": "Long Leg Pokémon"
+  },
+  "crobat": {
+    "name": "Iksbat",
+    "category": "Bat Pokémon"
+  },
+  "chinchou": {
+    "name": "Lampi",
+    "category": "Angler Pokémon"
+  },
+  "lanturn": {
+    "name": "Lanturn",
+    "category": "Light Pokémon"
+  },
+  "pichu": {
+    "name": "Pichu",
+    "category": "Tiny Mouse Pokémon"
+  },
+  "cleffa": {
+    "name": "Pii",
+    "category": "Star Shape Pokémon"
+  },
+  "igglybuff": {
+    "name": "Fluffeluff",
+    "category": "Balloon Pokémon"
+  },
+  "togepi": {
+    "name": "Togepi",
+    "category": "Spike Ball Pokémon"
+  },
+  "togetic": {
+    "name": "Togetic",
+    "category": "Happiness Pokémon"
+  },
+  "natu": {
+    "name": "Natu",
+    "category": "Tiny Bird Pokémon"
+  },
+  "xatu": {
+    "name": "Xatu",
+    "category": "Mystic Pokémon"
+  },
+  "mareep": {
+    "name": "Voltilamm",
+    "category": "Wool Pokémon"
+  },
+  "flaaffy": {
+    "name": "Waaty",
+    "category": "Wool Pokémon"
+  },
+  "ampharos": {
+    "name": "Ampharos",
+    "category": "Light Pokémon"
+  },
+  "bellossom": {
+    "name": "Blubella",
+    "category": "Flower Pokémon"
+  },
+  "marill": {
+    "name": "Marill",
+    "category": "Aqua Mouse Pokémon"
+  },
+  "azumarill": {
+    "name": "Azumarill",
+    "category": "Aqua Rabbit Pokémon"
+  },
+  "sudowoodo": {
+    "name": "Mogelbaum",
+    "category": "Imitation Pokémon"
+  },
+  "politoed": {
+    "name": "Quaxo",
+    "category": "Frog Pokémon"
+  },
+  "hoppip": {
+    "name": "Hoppspross",
+    "category": "Cottonweed Pokémon"
+  },
+  "skiploom": {
+    "name": "Hubelupf",
+    "category": "Cottonweed Pokémon"
+  },
+  "jumpluff": {
+    "name": "Papungha",
+    "category": "Cottonweed Pokémon"
+  },
+  "aipom": {
+    "name": "Griffel",
+    "category": "Long Tail Pokémon"
+  },
+  "sunkern": {
+    "name": "Sonnkern",
+    "category": "Seed Pokémon"
+  },
+  "sunflora": {
+    "name": "Sonnflora",
+    "category": "Sun Pokémon"
+  },
+  "yanma": {
+    "name": "Yanma",
+    "category": "Clear Wing Pokémon"
+  },
+  "wooper": {
+    "name": "Felino",
+    "category": "Water Fish Pokémon"
+  },
+  "quagsire": {
+    "name": "Morlord",
+    "category": "Water Fish Pokémon"
+  },
+  "espeon": {
+    "name": "Psiana",
+    "category": "Sun Pokémon"
+  },
+  "umbreon": {
+    "name": "Nachtara",
+    "category": "Moonlight Pokémon"
+  },
+  "murkrow": {
+    "name": "Kramurx",
+    "category": "Darkness Pokémon"
+  },
+  "slowking": {
+    "name": "Laschoking",
+    "category": "Royal Pokémon"
+  },
+  "misdreavus": {
+    "name": "Traunfugil",
+    "category": "Screech Pokémon"
+  },
+  "unown": {
+    "name": "Icognito",
+    "category": "Symbol Pokémon"
+  },
+  "wobbuffet": {
+    "name": "Woingenau",
+    "category": "Patient Pokémon"
+  },
+  "girafarig": {
+    "name": "Girafarig",
+    "category": "Long Neck Pokémon"
+  },
+  "pineco": {
+    "name": "Tannza",
+    "category": "Bagworm Pokémon"
+  },
+  "forretress": {
+    "name": "Forstellka",
+    "category": "Bagworm Pokémon"
+  },
+  "dunsparce": {
+    "name": "Dummisel",
+    "category": "Land Snake Pokémon"
+  },
+  "gligar": {
+    "name": "Skorgla",
+    "category": "Fly Scorpion Pokémon"
+  },
+  "steelix": {
+    "name": "Stahlos",
+    "category": "Iron Snake Pokémon"
+  },
+  "snubbull": {
+    "name": "Snubbull",
+    "category": "Fairy Pokémon"
+  },
+  "granbull": {
+    "name": "Granbull",
+    "category": "Fairy Pokémon"
+  },
+  "qwilfish": {
+    "name": "Baldorfish",
+    "category": "Balloon Pokémon"
+  },
+  "scizor": {
+    "name": "Scherox",
+    "category": "Pincer Pokémon"
+  },
+  "shuckle": {
+    "name": "Pottrott",
+    "category": "Mold Pokémon"
+  },
+  "heracross": {
+    "name": "Skaraborn",
+    "category": "Single Horn Pokémon"
+  },
+  "sneasel": {
+    "name": "Sniebel",
+    "category": "Sharp Claw Pokémon"
+  },
+  "teddiursa": {
+    "name": "Teddiursa",
+    "category": "Little Bear Pokémon"
+  },
+  "ursaring": {
+    "name": "Ursaring",
+    "category": "Hibernator Pokémon"
+  },
+  "slugma": {
+    "name": "Schneckmag",
+    "category": "Lava Pokémon"
+  },
+  "magcargo": {
+    "name": "Magcargo",
+    "category": "Lava Pokémon"
+  },
+  "swinub": {
+    "name": "Quiekel",
+    "category": "Pig Pokémon"
+  },
+  "piloswine": {
+    "name": "Keifel",
+    "category": "Swine Pokémon"
+  },
+  "corsola": {
+    "name": "Corasonn",
+    "category": "Coral Pokémon"
+  },
+  "remoraid": {
+    "name": "Remoraid",
+    "category": "Jet Pokémon"
+  },
+  "octillery": {
+    "name": "Octillery",
+    "category": "Jet Pokémon"
+  },
+  "delibird": {
+    "name": "Botogel",
+    "category": "Delivery Pokémon"
+  },
+  "mantine": {
+    "name": "Mantax",
+    "category": "Kite Pokémon"
+  },
+  "skarmory": {
+    "name": "Panzaeron",
+    "category": "Armor Bird Pokémon"
+  },
+  "houndour": {
+    "name": "Hunduster",
+    "category": "Dark Pokémon"
+  },
+  "houndoom": {
+    "name": "Hundemon",
+    "category": "Dark Pokémon"
+  },
+  "kingdra": {
+    "name": "Seedraking",
+    "category": "Dragon Pokémon"
+  },
+  "phanpy": {
+    "name": "Phanpy",
+    "category": "Long Nose Pokémon"
+  },
+  "donphan": {
+    "name": "Donphan",
+    "category": "Armor Pokémon"
+  },
+  "porygon2": {
+    "name": "Porygon2",
+    "category": "Virtual Pokémon"
+  },
+  "stantler": {
+    "name": "Damhirplex",
+    "category": "Big Horn Pokémon"
+  },
+  "smeargle": {
+    "name": "Farbeagle",
+    "category": "Painter Pokémon"
+  },
+  "tyrogue": {
+    "name": "Rabauz",
+    "category": "Scuffle Pokémon"
+  },
+  "hitmontop": {
+    "name": "Kapoera",
+    "category": "Handstand Pokémon"
+  },
+  "smoochum": {
+    "name": "Kussilla",
+    "category": "Kiss Pokémon"
+  },
+  "elekid": {
+    "name": "Elekid",
+    "category": "Electric Pokémon"
+  },
+  "magby": {
+    "name": "Magby",
+    "category": "Live Coal Pokémon"
+  },
+  "miltank": {
+    "name": "Miltank",
+    "category": "Milk Cow Pokémon"
+  },
+  "blissey": {
+    "name": "Heiteira",
+    "category": "Happiness Pokémon"
+  },
+  "raikou": {
+    "name": "Raikou",
+    "category": "Thunder Pokémon"
+  },
+  "entei": {
+    "name": "Entei",
+    "category": "Volcano Pokémon"
+  },
+  "suicune": {
+    "name": "Suicune",
+    "category": "Aurora Pokémon"
+  },
+  "larvitar": {
+    "name": "Larvitar",
+    "category": "Rock Skin Pokémon"
+  },
+  "pupitar": {
+    "name": "Pupitar",
+    "category": "Hard Shell Pokémon"
+  },
+  "tyranitar": {
+    "name": "Despotar",
+    "category": "Armor Pokémon"
+  },
+  "lugia": {
+    "name": "Lugia",
+    "category": "Diving Pokémon"
+  },
+  "ho_oh": {
+    "name": "Ho-Oh",
+    "category": "Rainbow Pokémon"
+  },
+  "celebi": {
+    "name": "Celebi",
+    "category": "Time Travel Pokémon"
+  },
+  "treecko": {
+    "name": "Geckarbor",
+    "category": "Wood Gecko Pokémon"
+  },
+  "grovyle": {
+    "name": "Reptain",
+    "category": "Wood Gecko Pokémon"
+  },
+  "sceptile": {
+    "name": "Gewaldro",
+    "category": "Forest Pokémon"
+  },
+  "torchic": {
+    "name": "Flemmli",
+    "category": "Chick Pokémon"
+  },
+  "combusken": {
+    "name": "Jungglut",
+    "category": "Young Fowl Pokémon"
+  },
+  "blaziken": {
+    "name": "Lohgock",
+    "category": "Blaze Pokémon"
+  },
+  "mudkip": {
+    "name": "Hydropi",
+    "category": "Mud Fish Pokémon"
+  },
+  "marshtomp": {
+    "name": "Moorabbel",
+    "category": "Mud Fish Pokémon"
+  },
+  "swampert": {
+    "name": "Sumpex",
+    "category": "Mud Fish Pokémon"
+  },
+  "poochyena": {
+    "name": "Fiffyen",
+    "category": "Bite Pokémon"
+  },
+  "mightyena": {
+    "name": "Magnayen",
+    "category": "Bite Pokémon"
+  },
+  "zigzagoon": {
+    "name": "Zigzachs",
+    "category": "Tiny Raccoon Pokémon"
+  },
+  "linoone": {
+    "name": "Geradaks",
+    "category": "Rushing Pokémon"
+  },
+  "wurmple": {
+    "name": "Waumpel",
+    "category": "Worm Pokémon"
+  },
+  "silcoon": {
+    "name": "Schaloko",
+    "category": "Cocoon Pokémon"
+  },
+  "beautifly": {
+    "name": "Papinella",
+    "category": "Butterfly Pokémon"
+  },
+  "cascoon": {
+    "name": "Panekon",
+    "category": "Cocoon Pokémon"
+  },
+  "dustox": {
+    "name": "Pudox",
+    "category": "Poison Moth Pokémon"
+  },
+  "lotad": {
+    "name": "Loturzel",
+    "category": "Water Weed Pokémon"
+  },
+  "lombre": {
+    "name": "Lombrero",
+    "category": "Jolly Pokémon"
+  },
+  "ludicolo": {
+    "name": "Kappalores",
+    "category": "Carefree Pokémon"
+  },
+  "seedot": {
+    "name": "Samurzel",
+    "category": "Acorn Pokémon"
+  },
+  "nuzleaf": {
+    "name": "Blanas",
+    "category": "Wily Pokémon"
+  },
+  "shiftry": {
+    "name": "Tengulist",
+    "category": "Wicked Pokémon"
+  },
+  "taillow": {
+    "name": "Schwalbini",
+    "category": "Tiny Swallow Pokémon"
+  },
+  "swellow": {
+    "name": "Schwalboss",
+    "category": "Swallow Pokémon"
+  },
+  "wingull": {
+    "name": "Wingull",
+    "category": "Seagull Pokémon"
+  },
+  "pelipper": {
+    "name": "Pelipper",
+    "category": "Water Bird Pokémon"
+  },
+  "ralts": {
+    "name": "Trasla",
+    "category": "Feeling Pokémon"
+  },
+  "kirlia": {
+    "name": "Kirlia",
+    "category": "Emotion Pokémon"
+  },
+  "gardevoir": {
+    "name": "Gardevoir",
+    "category": "Embrace Pokémon"
+  },
+  "surskit": {
+    "name": "Gehweiher",
+    "category": "Pond Skater Pokémon"
+  },
+  "masquerain": {
+    "name": "Maskeregen",
+    "category": "Eyeball Pokémon"
+  },
+  "shroomish": {
+    "name": "Knilz",
+    "category": "Mushroom Pokémon"
+  },
+  "breloom": {
+    "name": "Kapilz",
+    "category": "Mushroom Pokémon"
+  },
+  "slakoth": {
+    "name": "Bummelz",
+    "category": "Slacker Pokémon"
+  },
+  "vigoroth": {
+    "name": "Muntier",
+    "category": "Wild Monkey Pokémon"
+  },
+  "slaking": {
+    "name": "Letarking",
+    "category": "Lazy Pokémon"
+  },
+  "nincada": {
+    "name": "Nincada",
+    "category": "Trainee Pokémon"
+  },
+  "ninjask": {
+    "name": "Ninjask",
+    "category": "Ninja Pokémon"
+  },
+  "shedinja": {
+    "name": "Ninjatom",
+    "category": "Shed Pokémon"
+  },
+  "whismur": {
+    "name": "Flurmel",
+    "category": "Whisper Pokémon"
+  },
+  "loudred": {
+    "name": "Krakeelo",
+    "category": "Big Voice Pokémon"
+  },
+  "exploud": {
+    "name": "Krawumms",
+    "category": "Loud Noise Pokémon"
+  },
+  "makuhita": {
+    "name": "Makuhita",
+    "category": "Guts Pokémon"
+  },
+  "hariyama": {
+    "name": "Hariyama",
+    "category": "Arm Thrust Pokémon"
+  },
+  "azurill": {
+    "name": "Azurill",
+    "category": "Polka Dot Pokémon"
+  },
+  "nosepass": {
+    "name": "Nasgnet",
+    "category": "Compass Pokémon"
+  },
+  "skitty": {
+    "name": "Eneco",
+    "category": "Kitten Pokémon"
+  },
+  "delcatty": {
+    "name": "Enekoro",
+    "category": "Prim Pokémon"
+  },
+  "sableye": {
+    "name": "Zobiris",
+    "category": "Darkness Pokémon"
+  },
+  "mawile": {
+    "name": "Flunkifer",
+    "category": "Deceiver Pokémon"
+  },
+  "aron": {
+    "name": "Stollunior",
+    "category": "Iron Armor Pokémon"
+  },
+  "lairon": {
+    "name": "Stollrak",
+    "category": "Iron Armor Pokémon"
+  },
+  "aggron": {
+    "name": "Stolloss",
+    "category": "Iron Armor Pokémon"
+  },
+  "meditite": {
+    "name": "Meditite",
+    "category": "Meditate Pokémon"
+  },
+  "medicham": {
+    "name": "Meditalis",
+    "category": "Meditate Pokémon"
+  },
+  "electrike": {
+    "name": "Frizelbliz",
+    "category": "Lightning Pokémon"
+  },
+  "manectric": {
+    "name": "Voltenso",
+    "category": "Discharge Pokémon"
+  },
+  "plusle": {
+    "name": "Plusle",
+    "category": "Cheering Pokémon"
+  },
+  "minun": {
+    "name": "Minun",
+    "category": "Cheering Pokémon"
+  },
+  "volbeat": {
+    "name": "Volbeat",
+    "category": "Firefly Pokémon"
+  },
+  "illumise": {
+    "name": "Illumise",
+    "category": "Firefly Pokémon"
+  },
+  "roselia": {
+    "name": "Roselia",
+    "category": "Thorn Pokémon"
+  },
+  "gulpin": {
+    "name": "Schluppuck",
+    "category": "Stomach Pokémon"
+  },
+  "swalot": {
+    "name": "Schluckwech",
+    "category": "Poison Bag Pokémon"
+  },
+  "carvanha": {
+    "name": "Kanivanha",
+    "category": "Savage Pokémon"
+  },
+  "sharpedo": {
+    "name": "Tohaido",
+    "category": "Brutal Pokémon"
+  },
+  "wailmer": {
+    "name": "Wailmer",
+    "category": "Ball Whale Pokémon"
+  },
+  "wailord": {
+    "name": "Wailord",
+    "category": "Float Whale Pokémon"
+  },
+  "numel": {
+    "name": "Camaub",
+    "category": "Numb Pokémon"
+  },
+  "camerupt": {
+    "name": "Camerupt",
+    "category": "Eruption Pokémon"
+  },
+  "torkoal": {
+    "name": "Qurtel",
+    "category": "Coal Pokémon"
+  },
+  "spoink": {
+    "name": "Spoink",
+    "category": "Bounce Pokémon"
+  },
+  "grumpig": {
+    "name": "Groink",
+    "category": "Manipulate Pokémon"
+  },
+  "spinda": {
+    "name": "Pandir",
+    "category": "Spot Panda Pokémon"
+  },
+  "trapinch": {
+    "name": "Knacklion",
+    "category": "Ant Pit Pokémon"
+  },
+  "vibrava": {
+    "name": "Vibrava",
+    "category": "Vibration Pokémon"
+  },
+  "flygon": {
+    "name": "Libelldra",
+    "category": "Mystic Pokémon"
+  },
+  "cacnea": {
+    "name": "Tuska",
+    "category": "Cactus Pokémon"
+  },
+  "cacturne": {
+    "name": "Noktuska",
+    "category": "Scarecrow Pokémon"
+  },
+  "swablu": {
+    "name": "Wablu",
+    "category": "Cotton Bird Pokémon"
+  },
+  "altaria": {
+    "name": "Altaria",
+    "category": "Humming Pokémon"
+  },
+  "zangoose": {
+    "name": "Sengo",
+    "category": "Cat Ferret Pokémon"
+  },
+  "seviper": {
+    "name": "Vipitis",
+    "category": "Fang Snake Pokémon"
+  },
+  "lunatone": {
+    "name": "Lunastein",
+    "category": "Meteorite Pokémon"
+  },
+  "solrock": {
+    "name": "Sonnfel",
+    "category": "Meteorite Pokémon"
+  },
+  "barboach": {
+    "name": "Schmerbe",
+    "category": "Whiskers Pokémon"
+  },
+  "whiscash": {
+    "name": "Welsar",
+    "category": "Whiskers Pokémon"
+  },
+  "corphish": {
+    "name": "Krebscorps",
+    "category": "Ruffian Pokémon"
+  },
+  "crawdaunt": {
+    "name": "Krebutack",
+    "category": "Rogue Pokémon"
+  },
+  "baltoy": {
+    "name": "Puppance",
+    "category": "Clay Doll Pokémon"
+  },
+  "claydol": {
+    "name": "Lepumentas",
+    "category": "Clay Doll Pokémon"
+  },
+  "lileep": {
+    "name": "Liliep",
+    "category": "Sea Lily Pokémon"
+  },
+  "cradily": {
+    "name": "Wielie",
+    "category": "Barnacle Pokémon"
+  },
+  "anorith": {
+    "name": "Anorith",
+    "category": "Old Shrimp Pokémon"
+  },
+  "armaldo": {
+    "name": "Armaldo",
+    "category": "Plate Pokémon"
+  },
+  "feebas": {
+    "name": "Barschwa",
+    "category": "Fish Pokémon"
+  },
+  "milotic": {
+    "name": "Milotic",
+    "category": "Tender Pokémon"
+  },
+  "castform": {
+    "name": "Formeo",
+    "category": "Weather Pokémon"
+  },
+  "kecleon": {
+    "name": "Kecleon",
+    "category": "Color Swap Pokémon"
+  },
+  "shuppet": {
+    "name": "Shuppet",
+    "category": "Puppet Pokémon"
+  },
+  "banette": {
+    "name": "Banette",
+    "category": "Marionette Pokémon"
+  },
+  "duskull": {
+    "name": "Zwirrlicht",
+    "category": "Requiem Pokémon"
+  },
+  "dusclops": {
+    "name": "Zwirrklop",
+    "category": "Beckon Pokémon"
+  },
+  "tropius": {
+    "name": "Tropius",
+    "category": "Fruit Pokémon"
+  },
+  "chimecho": {
+    "name": "Palimpalim",
+    "category": "Wind Chime Pokémon"
+  },
+  "absol": {
+    "name": "Absol",
+    "category": "Disaster Pokémon"
+  },
+  "wynaut": {
+    "name": "Isso",
+    "category": "Bright Pokémon"
+  },
+  "snorunt": {
+    "name": "Schneppke",
+    "category": "Snow Hat Pokémon"
+  },
+  "glalie": {
+    "name": "Firnontor",
+    "category": "Face Pokémon"
+  },
+  "spheal": {
+    "name": "Seemops",
+    "category": "Clap Pokémon"
+  },
+  "sealeo": {
+    "name": "Seejong",
+    "category": "Ball Roll Pokémon"
+  },
+  "walrein": {
+    "name": "Walraisa",
+    "category": "Ice Break Pokémon"
+  },
+  "clamperl": {
+    "name": "Perlu",
+    "category": "Bivalve Pokémon"
+  },
+  "huntail": {
+    "name": "Aalabyss",
+    "category": "Deep Sea Pokémon"
+  },
+  "gorebyss": {
+    "name": "Saganabyss",
+    "category": "South Sea Pokémon"
+  },
+  "relicanth": {
+    "name": "Relicanth",
+    "category": "Longevity Pokémon"
+  },
+  "luvdisc": {
+    "name": "Liebiskus",
+    "category": "Rendezvous Pokémon"
+  },
+  "bagon": {
+    "name": "Kindwurm",
+    "category": "Rock Head Pokémon"
+  },
+  "shelgon": {
+    "name": "Draschel",
+    "category": "Endurance Pokémon"
+  },
+  "salamence": {
+    "name": "Brutalanda",
+    "category": "Dragon Pokémon"
+  },
+  "beldum": {
+    "name": "Tanhel",
+    "category": "Iron Ball Pokémon"
+  },
+  "metang": {
+    "name": "Metang",
+    "category": "Iron Claw Pokémon"
+  },
+  "metagross": {
+    "name": "Metagross",
+    "category": "Iron Leg Pokémon"
+  },
+  "regirock": {
+    "name": "Regirock",
+    "category": "Rock Peak Pokémon"
+  },
+  "regice": {
+    "name": "Regice",
+    "category": "Iceberg Pokémon"
+  },
+  "registeel": {
+    "name": "Registeel",
+    "category": "Iron Pokémon"
+  },
+  "latias": {
+    "name": "Latias",
+    "category": "Eon Pokémon"
+  },
+  "latios": {
+    "name": "Latios",
+    "category": "Eon Pokémon"
+  },
+  "kyogre": {
+    "name": "Kyogre",
+    "category": "Sea Basin Pokémon"
+  },
+  "groudon": {
+    "name": "Groudon",
+    "category": "Continent Pokémon"
+  },
+  "rayquaza": {
+    "name": "Rayquaza",
+    "category": "Sky High Pokémon"
+  },
+  "jirachi": {
+    "name": "Jirachi",
+    "category": "Wish Pokémon"
+  },
+  "deoxys": {
+    "name": "Deoxys",
+    "category": "DNA Pokémon"
+  },
+  "turtwig": {
+    "name": "Chelast",
+    "category": "Tiny Leaf Pokémon"
+  },
+  "grotle": {
+    "name": "Chelcarain",
+    "category": "Grove Pokémon"
+  },
+  "torterra": {
+    "name": "Chelterrar",
+    "category": "Continent Pokémon"
+  },
+  "chimchar": {
+    "name": "Panflam",
+    "category": "Chimp Pokémon"
+  },
+  "monferno": {
+    "name": "Panpyro",
+    "category": "Playful Pokémon"
+  },
+  "infernape": {
+    "name": "Panferno",
+    "category": "Flame Pokémon"
+  },
+  "piplup": {
+    "name": "Plinfa",
+    "category": "Penguin Pokémon"
+  },
+  "prinplup": {
+    "name": "Pliprin",
+    "category": "Penguin Pokémon"
+  },
+  "empoleon": {
+    "name": "Impoleon",
+    "category": "Emperor Pokémon"
+  },
+  "starly": {
+    "name": "Staralili",
+    "category": "Starling Pokémon"
+  },
+  "staravia": {
+    "name": "Staravia",
+    "category": "Starling Pokémon"
+  },
+  "staraptor": {
+    "name": "Staraptor",
+    "category": "Predator Pokémon"
+  },
+  "bidoof": {
+    "name": "Bidiza",
+    "category": "Plump Mouse Pokémon"
+  },
+  "bibarel": {
+    "name": "Bidifas",
+    "category": "Beaver Pokémon"
+  },
+  "kricketot": {
+    "name": "Zirpurze",
+    "category": "Cricket Pokémon"
+  },
+  "kricketune": {
+    "name": "Zirpeise",
+    "category": "Cricket Pokémon"
+  },
+  "shinx": {
+    "name": "Sheinux",
+    "category": "Flash Pokémon"
+  },
+  "luxio": {
+    "name": "Luxio",
+    "category": "Spark Pokémon"
+  },
+  "luxray": {
+    "name": "Luxtra",
+    "category": "Gleam Eyes Pokémon"
+  },
+  "budew": {
+    "name": "Knospi",
+    "category": "Bud Pokémon"
+  },
+  "roserade": {
+    "name": "Roserade",
+    "category": "Bouquet Pokémon"
+  },
+  "cranidos": {
+    "name": "Koknodon",
+    "category": "Head Butt Pokémon"
+  },
+  "rampardos": {
+    "name": "Rameidon",
+    "category": "Head Butt Pokémon"
+  },
+  "shieldon": {
+    "name": "Schilterus",
+    "category": "Shield Pokémon"
+  },
+  "bastiodon": {
+    "name": "Bollterus",
+    "category": "Shield Pokémon"
+  },
+  "burmy": {
+    "name": "Burmy",
+    "category": "Bagworm Pokémon"
+  },
+  "wormadam": {
+    "name": "Burmadame",
+    "category": "Bagworm Pokémon"
+  },
+  "mothim": {
+    "name": "Moterpel",
+    "category": "Moth Pokémon"
+  },
+  "combee": {
+    "name": "Wadribie",
+    "category": "Tiny Bee Pokémon"
+  },
+  "vespiquen": {
+    "name": "Honweisel",
+    "category": "Beehive Pokémon"
+  },
+  "pachirisu": {
+    "name": "Pachirisu",
+    "category": "EleSquirrel Pokémon"
+  },
+  "buizel": {
+    "name": "Bamelin",
+    "category": "Sea Weasel Pokémon"
+  },
+  "floatzel": {
+    "name": "Bojelin",
+    "category": "Sea Weasel Pokémon"
+  },
+  "cherubi": {
+    "name": "Kikugi",
+    "category": "Cherry Pokémon"
+  },
+  "cherrim": {
+    "name": "Kinoso",
+    "category": "Blossom Pokémon"
+  },
+  "shellos": {
+    "name": "Schalellos",
+    "category": "Sea Slug Pokémon"
+  },
+  "gastrodon": {
+    "name": "Gastrodon",
+    "category": "Sea Slug Pokémon"
+  },
+  "ambipom": {
+    "name": "Ambidiffel",
+    "category": "Long Tail Pokémon"
+  },
+  "drifloon": {
+    "name": "Driftlon",
+    "category": "Balloon Pokémon"
+  },
+  "drifblim": {
+    "name": "Drifzepeli",
+    "category": "Blimp Pokémon"
+  },
+  "buneary": {
+    "name": "Haspiror",
+    "category": "Rabbit Pokémon"
+  },
+  "lopunny": {
+    "name": "Schlapor",
+    "category": "Rabbit Pokémon"
+  },
+  "mismagius": {
+    "name": "Traunmagil",
+    "category": "Magical Pokémon"
+  },
+  "honchkrow": {
+    "name": "Kramshef",
+    "category": "Big Boss Pokémon"
+  },
+  "glameow": {
+    "name": "Charmian",
+    "category": "Catty Pokémon"
+  },
+  "purugly": {
+    "name": "Shnurgarst",
+    "category": "Tiger Cat Pokémon"
+  },
+  "chingling": {
+    "name": "Klingplim",
+    "category": "Bell Pokémon"
+  },
+  "stunky": {
+    "name": "Skunkapuh",
+    "category": "Skunk Pokémon"
+  },
+  "skuntank": {
+    "name": "Skuntank",
+    "category": "Skunk Pokémon"
+  },
+  "bronzor": {
+    "name": "Bronzel",
+    "category": "Bronze Pokémon"
+  },
+  "bronzong": {
+    "name": "Bronzong",
+    "category": "Bronze Bell Pokémon"
+  },
+  "bonsly": {
+    "name": "Mobai",
+    "category": "Bonsai Pokémon"
+  },
+  "mime_jr": {
+    "name": "Pantimimi",
+    "category": "Mime Pokémon"
+  },
+  "happiny": {
+    "name": "Wonneira",
+    "category": "Playhouse Pokémon"
+  },
+  "chatot": {
+    "name": "Plaudagei",
+    "category": "Music Note Pokémon"
+  },
+  "spiritomb": {
+    "name": "Kryppuk",
+    "category": "Forbidden Pokémon"
+  },
+  "gible": {
+    "name": "Kaumalat",
+    "category": "Land Shark Pokémon"
+  },
+  "gabite": {
+    "name": "Knarksel",
+    "category": "Cave Pokémon"
+  },
+  "garchomp": {
+    "name": "Knackrack",
+    "category": "Mach Pokémon"
+  },
+  "munchlax": {
+    "name": "Mampfaxo",
+    "category": "Big Eater Pokémon"
+  },
+  "riolu": {
+    "name": "Riolu",
+    "category": "Emanation Pokémon"
+  },
+  "lucario": {
+    "name": "Lucario",
+    "category": "Aura Pokémon"
+  },
+  "hippopotas": {
+    "name": "Hippopotas",
+    "category": "Hippo Pokémon"
+  },
+  "hippowdon": {
+    "name": "Hippoterus",
+    "category": "Heavyweight Pokémon"
+  },
+  "skorupi": {
+    "name": "Pionskora",
+    "category": "Scorpion Pokémon"
+  },
+  "drapion": {
+    "name": "Piondragi",
+    "category": "Ogre Scorpion Pokémon"
+  },
+  "croagunk": {
+    "name": "Glibunkel",
+    "category": "Toxic Mouth Pokémon"
+  },
+  "toxicroak": {
+    "name": "Toxiquak",
+    "category": "Toxic Mouth Pokémon"
+  },
+  "carnivine": {
+    "name": "Venuflibis",
+    "category": "Bug Catcher Pokémon"
+  },
+  "finneon": {
+    "name": "Finneon",
+    "category": "Wing Fish Pokémon"
+  },
+  "lumineon": {
+    "name": "Lumineon",
+    "category": "Neon Pokémon"
+  },
+  "mantyke": {
+    "name": "Mantirps",
+    "category": "Kite Pokémon"
+  },
+  "snover": {
+    "name": "Shnebedeck",
+    "category": "Frost Tree Pokémon"
+  },
+  "abomasnow": {
+    "name": "Rexblisar",
+    "category": "Frost Tree Pokémon"
+  },
+  "weavile": {
+    "name": "Snibunna",
+    "category": "Sharp Claw Pokémon"
+  },
+  "magnezone": {
+    "name": "Magnezone",
+    "category": "Magnet Area Pokémon"
+  },
+  "lickilicky": {
+    "name": "Schlurplek",
+    "category": "Licking Pokémon"
+  },
+  "rhyperior": {
+    "name": "Rihornior",
+    "category": "Drill Pokémon"
+  },
+  "tangrowth": {
+    "name": "Tangoloss",
+    "category": "Vine Pokémon"
+  },
+  "electivire": {
+    "name": "Elevoltek",
+    "category": "Thunderbolt Pokémon"
+  },
+  "magmortar": {
+    "name": "Magbrant",
+    "category": "Blast Pokémon"
+  },
+  "togekiss": {
+    "name": "Togekiss",
+    "category": "Jubilee Pokémon"
+  },
+  "yanmega": {
+    "name": "Yanmega",
+    "category": "Ogre Darner Pokémon"
+  },
+  "leafeon": {
+    "name": "Folipurba",
+    "category": "Verdant Pokémon"
+  },
+  "glaceon": {
+    "name": "Glaziola",
+    "category": "Fresh Snow Pokémon"
+  },
+  "gliscor": {
+    "name": "Skorgro",
+    "category": "Fang Scorpion Pokémon"
+  },
+  "mamoswine": {
+    "name": "Mamutel",
+    "category": "Twin Tusk Pokémon"
+  },
+  "porygon_z": {
+    "name": "Porygon-Z",
+    "category": "Virtual Pokémon"
+  },
+  "gallade": {
+    "name": "Galagladi",
+    "category": "Blade Pokémon"
+  },
+  "probopass": {
+    "name": "Voluminas",
+    "category": "Compass Pokémon"
+  },
+  "dusknoir": {
+    "name": "Zwirrfinst",
+    "category": "Gripper Pokémon"
+  },
+  "froslass": {
+    "name": "Frosdedje",
+    "category": "Snow Land Pokémon"
+  },
+  "rotom": {
+    "name": "Rotom",
+    "category": "Plasma Pokémon"
+  },
+  "uxie": {
+    "name": "Selfe",
+    "category": "Knowledge Pokémon"
+  },
+  "mesprit": {
+    "name": "Vesprit",
+    "category": "Emotion Pokémon"
+  },
+  "azelf": {
+    "name": "Tobutz",
+    "category": "Willpower Pokémon"
+  },
+  "dialga": {
+    "name": "Dialga",
+    "category": "Temporal Pokémon"
+  },
+  "palkia": {
+    "name": "Palkia",
+    "category": "Spatial Pokémon"
+  },
+  "heatran": {
+    "name": "Heatran",
+    "category": "Lava Dome Pokémon"
+  },
+  "regigigas": {
+    "name": "Regigigas",
+    "category": "Colossal Pokémon"
+  },
+  "giratina": {
+    "name": "Giratina",
+    "category": "Renegade Pokémon"
+  },
+  "cresselia": {
+    "name": "Cresselia",
+    "category": "Lunar Pokémon"
+  },
+  "phione": {
+    "name": "Phione",
+    "category": "Sea Drifter Pokémon"
+  },
+  "manaphy": {
+    "name": "Manaphy",
+    "category": "Seafaring Pokémon"
+  },
+  "darkrai": {
+    "name": "Darkrai",
+    "category": "Pitch-Black Pokémon"
+  },
+  "shaymin": {
+    "name": "Shaymin",
+    "category": "Gratitude Pokémon"
+  },
+  "arceus": {
+    "name": "Arceus",
+    "category": "Alpha Pokémon"
+  },
+  "victini": {
+    "name": "Victini",
+    "category": "Victory Pokémon"
+  },
+  "snivy": {
+    "name": "Serpifeu",
+    "category": "Grass Snake Pokémon"
+  },
+  "servine": {
+    "name": "Efoserp",
+    "category": "Grass Snake Pokémon"
+  },
+  "serperior": {
+    "name": "Serpiroyal",
+    "category": "Regal Pokémon"
+  },
+  "tepig": {
+    "name": "Floink",
+    "category": "Fire Pig Pokémon"
+  },
+  "pignite": {
+    "name": "Ferkokel",
+    "category": "Fire Pig Pokémon"
+  },
+  "emboar": {
+    "name": "Flambirex",
+    "category": "Mega Fire Pig Pokémon"
+  },
+  "oshawott": {
+    "name": "Ottaro",
+    "category": "Sea Otter Pokémon"
+  },
+  "dewott": {
+    "name": "Zwottronin",
+    "category": "Discipline Pokémon"
+  },
+  "samurott": {
+    "name": "Admurai",
+    "category": "Formidable Pokémon"
+  },
+  "patrat": {
+    "name": "Nagelotz",
+    "category": "Scout Pokémon"
+  },
+  "watchog": {
+    "name": "Kukmarda",
+    "category": "Lookout Pokémon"
+  },
+  "lillipup": {
+    "name": "Yorkleff",
+    "category": "Puppy Pokémon"
+  },
+  "herdier": {
+    "name": "Terribark",
+    "category": "Loyal Dog Pokémon"
+  },
+  "stoutland": {
+    "name": "Bissbark",
+    "category": "Big-Hearted Pokémon"
+  },
+  "purrloin": {
+    "name": "Felilou",
+    "category": "Devious Pokémon"
+  },
+  "liepard": {
+    "name": "Kleoparda",
+    "category": "Cruel Pokémon"
+  },
+  "pansage": {
+    "name": "Vegimak",
+    "category": "Grass Monkey Pokémon"
+  },
+  "simisage": {
+    "name": "Vegichita",
+    "category": "Thorn Monkey Pokémon"
+  },
+  "pansear": {
+    "name": "Grillmak",
+    "category": "High Temp Pokémon"
+  },
+  "simisear": {
+    "name": "Grillchita",
+    "category": "Ember Pokémon"
+  },
+  "panpour": {
+    "name": "Sodamak",
+    "category": "Spray Pokémon"
+  },
+  "simipour": {
+    "name": "Sodachita",
+    "category": "Geyser Pokémon"
+  },
+  "munna": {
+    "name": "Somniam",
+    "category": "Dream Eater Pokémon"
+  },
+  "musharna": {
+    "name": "Somnivora",
+    "category": "Drowsing Pokémon"
+  },
+  "pidove": {
+    "name": "Dusselgurr",
+    "category": "Tiny Pigeon Pokémon"
+  },
+  "tranquill": {
+    "name": "Navitaub",
+    "category": "Wild Pigeon Pokémon"
+  },
+  "unfezant": {
+    "name": "Fasasnob",
+    "category": "Proud Pokémon"
+  },
+  "blitzle": {
+    "name": "Elezeba",
+    "category": "Electrified Pokémon"
+  },
+  "zebstrika": {
+    "name": "Zebritz",
+    "category": "Thunderbolt Pokémon"
+  },
+  "roggenrola": {
+    "name": "Kiesling",
+    "category": "Mantle Pokémon"
+  },
+  "boldore": {
+    "name": "Sedimantur",
+    "category": "Ore Pokémon"
+  },
+  "gigalith": {
+    "name": "Brockoloss",
+    "category": "Compressed Pokémon"
+  },
+  "woobat": {
+    "name": "Fleknoil",
+    "category": "Bat Pokémon"
+  },
+  "swoobat": {
+    "name": "Fletiamo",
+    "category": "Courting Pokémon"
+  },
+  "drilbur": {
+    "name": "Rotomurf",
+    "category": "Mole Pokémon"
+  },
+  "excadrill": {
+    "name": "Stalobor",
+    "category": "Subterrene Pokémon"
+  },
+  "audino": {
+    "name": "Ohrdoch",
+    "category": "Hearing Pokémon"
+  },
+  "timburr": {
+    "name": "Praktibalk",
+    "category": "Muscular Pokémon"
+  },
+  "gurdurr": {
+    "name": "Strepoli",
+    "category": "Muscular Pokémon"
+  },
+  "conkeldurr": {
+    "name": "Meistagrif",
+    "category": "Muscular Pokémon"
+  },
+  "tympole": {
+    "name": "Schallquap",
+    "category": "Tadpole Pokémon"
+  },
+  "palpitoad": {
+    "name": "Mebrana",
+    "category": "Vibration Pokémon"
+  },
+  "seismitoad": {
+    "name": "Branawarz",
+    "category": "Vibration Pokémon"
+  },
+  "throh": {
+    "name": "Jiutesto",
+    "category": "Judo Pokémon"
+  },
+  "sawk": {
+    "name": "Karadonis",
+    "category": "Karate Pokémon"
+  },
+  "sewaddle": {
+    "name": "Strawickl",
+    "category": "Sewing Pokémon"
+  },
+  "swadloon": {
+    "name": "Folikon",
+    "category": "Leaf-Wrapped Pokémon"
+  },
+  "leavanny": {
+    "name": "Matrifol",
+    "category": "Nurturing Pokémon"
+  },
+  "venipede": {
+    "name": "Toxiped",
+    "category": "Centipede Pokémon"
+  },
+  "whirlipede": {
+    "name": "Rollum",
+    "category": "Curlipede Pokémon"
+  },
+  "scolipede": {
+    "name": "Cerapendra",
+    "category": "Megapede Pokémon"
+  },
+  "cottonee": {
+    "name": "Waumboll",
+    "category": "Cotton Puff Pokémon"
+  },
+  "whimsicott": {
+    "name": "Elfun",
+    "category": "Windveiled Pokémon"
+  },
+  "petilil": {
+    "name": "Lilminip",
+    "category": "Bulb Pokémon"
+  },
+  "lilligant": {
+    "name": "Dressella",
+    "category": "Flowering Pokémon"
+  },
+  "basculin": {
+    "name": "Barschuft",
+    "category": "Hostile Pokémon"
+  },
+  "sandile": {
+    "name": "Ganovil",
+    "category": "Desert Croc Pokémon"
+  },
+  "krokorok": {
+    "name": "Rokkaiman",
+    "category": "Desert Croc Pokémon"
+  },
+  "krookodile": {
+    "name": "Rabigator",
+    "category": "Intimidation Pokémon"
+  },
+  "darumaka": {
+    "name": "Flampion",
+    "category": "Zen Charm Pokémon"
+  },
+  "darmanitan": {
+    "name": "Flampivian",
+    "category": "Blazing Pokémon"
+  },
+  "maractus": {
+    "name": "Maracamba",
+    "category": "Cactus Pokémon"
+  },
+  "dwebble": {
+    "name": "Lithomith",
+    "category": "Rock Inn Pokémon"
+  },
+  "crustle": {
+    "name": "Castellith",
+    "category": "Stone Home Pokémon"
+  },
+  "scraggy": {
+    "name": "Zurrokex",
+    "category": "Shedding Pokémon"
+  },
+  "scrafty": {
+    "name": "Irokex",
+    "category": "Hoodlum Pokémon"
+  },
+  "sigilyph": {
+    "name": "Symvolara",
+    "category": "Avianoid Pokémon"
+  },
+  "yamask": {
+    "name": "Makabaja",
+    "category": "Spirit Pokémon"
+  },
+  "cofagrigus": {
+    "name": "Echnatoll",
+    "category": "Coffin Pokémon"
+  },
+  "tirtouga": {
+    "name": "Galapaflos",
+    "category": "Prototurtle Pokémon"
+  },
+  "carracosta": {
+    "name": "Karippas",
+    "category": "Prototurtle Pokémon"
+  },
+  "archen": {
+    "name": "Flapteryx",
+    "category": "First Bird Pokémon"
+  },
+  "archeops": {
+    "name": "Aeropteryx",
+    "category": "First Bird Pokémon"
+  },
+  "trubbish": {
+    "name": "Unratütox",
+    "category": "Trash Bag Pokémon"
+  },
+  "garbodor": {
+    "name": "Deponitox",
+    "category": "Trash Heap Pokémon"
+  },
+  "zorua": {
+    "name": "Zorua",
+    "category": "Tricky Fox Pokémon"
+  },
+  "zoroark": {
+    "name": "Zoroark",
+    "category": "Illusion Fox Pokémon"
+  },
+  "minccino": {
+    "name": "Picochilla",
+    "category": "Chinchilla Pokémon"
+  },
+  "cinccino": {
+    "name": "Chillabell",
+    "category": "Scarf Pokémon"
+  },
+  "gothita": {
+    "name": "Mollimorba",
+    "category": "Fixation Pokémon"
+  },
+  "gothorita": {
+    "name": "Hypnomorba",
+    "category": "Manipulate Pokémon"
+  },
+  "gothitelle": {
+    "name": "Morbitesse",
+    "category": "Astral Body Pokémon"
+  },
+  "solosis": {
+    "name": "Monozyto",
+    "category": "Cell Pokémon"
+  },
+  "duosion": {
+    "name": "Mitodos",
+    "category": "Mitosis Pokémon"
+  },
+  "reuniclus": {
+    "name": "Zytomega",
+    "category": "Multiplying Pokémon"
+  },
+  "ducklett": {
+    "name": "Piccolente",
+    "category": "Water Bird Pokémon"
+  },
+  "swanna": {
+    "name": "Swaroness",
+    "category": "White Bird Pokémon"
+  },
+  "vanillite": {
+    "name": "Gelatini",
+    "category": "Fresh Snow Pokémon"
+  },
+  "vanillish": {
+    "name": "Gelatroppo",
+    "category": "Icy Snow Pokémon"
+  },
+  "vanilluxe": {
+    "name": "Gelatwino",
+    "category": "Snowstorm Pokémon"
+  },
+  "deerling": {
+    "name": "Sesokitz",
+    "category": "Season Pokémon"
+  },
+  "sawsbuck": {
+    "name": "Kronjuwild",
+    "category": "Season Pokémon"
+  },
+  "emolga": {
+    "name": "Emolga",
+    "category": "Sky Squirrel Pokémon"
+  },
+  "karrablast": {
+    "name": "Laukaps",
+    "category": "Clamping Pokémon"
+  },
+  "escavalier": {
+    "name": "Cavalanzas",
+    "category": "Cavalry Pokémon"
+  },
+  "foongus": {
+    "name": "Tarnpignon",
+    "category": "Mushroom Pokémon"
+  },
+  "amoonguss": {
+    "name": "Hutsassa",
+    "category": "Mushroom Pokémon"
+  },
+  "frillish": {
+    "name": "Quabbel",
+    "category": "Floating Pokémon"
+  },
+  "jellicent": {
+    "name": "Apoquallyp",
+    "category": "Floating Pokémon"
+  },
+  "alomomola": {
+    "name": "Mamolida",
+    "category": "Caring Pokémon"
+  },
+  "joltik": {
+    "name": "Wattzapf",
+    "category": "Attaching Pokémon"
+  },
+  "galvantula": {
+    "name": "Voltula",
+    "category": "EleSpider Pokémon"
+  },
+  "ferroseed": {
+    "name": "Kastadur",
+    "category": "Thorn Seed Pokémon"
+  },
+  "ferrothorn": {
+    "name": "Tentantel",
+    "category": "Thorn Pod Pokémon"
+  },
+  "klink": {
+    "name": "Klikk",
+    "category": "Gear Pokémon"
+  },
+  "klang": {
+    "name": "Kliklak",
+    "category": "Gear Pokémon"
+  },
+  "klinklang": {
+    "name": "Klikdiklak",
+    "category": "Gear Pokémon"
+  },
+  "tynamo": {
+    "name": "Zapplardin",
+    "category": "EleFish Pokémon"
+  },
+  "eelektrik": {
+    "name": "Zapplalek",
+    "category": "EleFish Pokémon"
+  },
+  "eelektross": {
+    "name": "Zapplarang",
+    "category": "EleFish Pokémon"
+  },
+  "elgyem": {
+    "name": "Pygraulon",
+    "category": "Cerebral Pokémon"
+  },
+  "beheeyem": {
+    "name": "Megalon",
+    "category": "Cerebral Pokémon"
+  },
+  "litwick": {
+    "name": "Lichtel",
+    "category": "Candle Pokémon"
+  },
+  "lampent": {
+    "name": "Laternecto",
+    "category": "Lamp Pokémon"
+  },
+  "chandelure": {
+    "name": "Skelabra",
+    "category": "Luring Pokémon"
+  },
+  "axew": {
+    "name": "Milza",
+    "category": "Tusk Pokémon"
+  },
+  "fraxure": {
+    "name": "Sharfax",
+    "category": "Axe Jaw Pokémon"
+  },
+  "haxorus": {
+    "name": "Maxax",
+    "category": "Axe Jaw Pokémon"
+  },
+  "cubchoo": {
+    "name": "Petznief",
+    "category": "Chill Pokémon"
+  },
+  "beartic": {
+    "name": "Siberio",
+    "category": "Freezing Pokémon"
+  },
+  "cryogonal": {
+    "name": "Frigometri",
+    "category": "Crystallizing Pokémon"
+  },
+  "shelmet": {
+    "name": "Schnuthelm",
+    "category": "Snail Pokémon"
+  },
+  "accelgor": {
+    "name": "Hydragil",
+    "category": "Shell Out Pokémon"
+  },
+  "stunfisk": {
+    "name": "Flunschlik",
+    "category": "Trap Pokémon"
+  },
+  "mienfoo": {
+    "name": "Lin-Fu",
+    "category": "Martial Arts Pokémon"
+  },
+  "mienshao": {
+    "name": "Wie-Shu",
+    "category": "Martial Arts Pokémon"
+  },
+  "druddigon": {
+    "name": "Shardrago",
+    "category": "Cave Pokémon"
+  },
+  "golett": {
+    "name": "Golbit",
+    "category": "Automaton Pokémon"
+  },
+  "golurk": {
+    "name": "Golgantes",
+    "category": "Automaton Pokémon"
+  },
+  "pawniard": {
+    "name": "Gladiantri",
+    "category": "Sharp Blade Pokémon"
+  },
+  "bisharp": {
+    "name": "Caesurio",
+    "category": "Sword Blade Pokémon"
+  },
+  "bouffalant": {
+    "name": "Bisofank",
+    "category": "Bash Buffalo Pokémon"
+  },
+  "rufflet": {
+    "name": "Geronimatz",
+    "category": "Eaglet Pokémon"
+  },
+  "braviary": {
+    "name": "Washakwil",
+    "category": "Valiant Pokémon"
+  },
+  "vullaby": {
+    "name": "Skallyk",
+    "category": "Diapered Pokémon"
+  },
+  "mandibuzz": {
+    "name": "Grypheldis",
+    "category": "Bone Vulture Pokémon"
+  },
+  "heatmor": {
+    "name": "Furnifraß",
+    "category": "Anteater Pokémon"
+  },
+  "durant": {
+    "name": "Fermicula",
+    "category": "Iron Ant Pokémon"
+  },
+  "deino": {
+    "name": "Kapuno",
+    "category": "Irate Pokémon"
+  },
+  "zweilous": {
+    "name": "Duodino",
+    "category": "Hostile Pokémon"
+  },
+  "hydreigon": {
+    "name": "Trikephalo",
+    "category": "Brutal Pokémon"
+  },
+  "larvesta": {
+    "name": "Ignivor",
+    "category": "Torch Pokémon"
+  },
+  "volcarona": {
+    "name": "Ramoth",
+    "category": "Sun Pokémon"
+  },
+  "cobalion": {
+    "name": "Kobalium",
+    "category": "Iron Will Pokémon"
+  },
+  "terrakion": {
+    "name": "Terrakium",
+    "category": "Cavern Pokémon"
+  },
+  "virizion": {
+    "name": "Viridium",
+    "category": "Grassland Pokémon"
+  },
+  "tornadus": {
+    "name": "Boreos",
+    "category": "Cyclone Pokémon"
+  },
+  "thundurus": {
+    "name": "Voltolos",
+    "category": "Bolt Strike Pokémon"
+  },
+  "reshiram": {
+    "name": "Reshiram",
+    "category": "Vast White Pokémon"
+  },
+  "zekrom": {
+    "name": "Zekrom",
+    "category": "Deep Black Pokémon"
+  },
+  "landorus": {
+    "name": "Demeteros",
+    "category": "Abundance Pokémon"
+  },
+  "kyurem": {
+    "name": "Kyurem",
+    "category": "Boundary Pokémon"
+  },
+  "keldeo": {
+    "name": "Keldeo",
+    "category": "Colt Pokémon"
+  },
+  "meloetta": {
+    "name": "Meloetta",
+    "category": "Melody Pokémon"
+  },
+  "genesect": {
+    "name": "Genesect",
+    "category": "Paleozoic Pokémon"
+  },
+  "chespin": {
+    "name": "Igamaro",
+    "category": "Spiny Nut Pokémon"
+  },
+  "quilladin": {
+    "name": "Igastarnish",
+    "category": "Spiny Armor Pokémon"
+  },
+  "chesnaught": {
+    "name": "Brigaron",
+    "category": "Spiny Armor Pokémon"
+  },
+  "fennekin": {
+    "name": "Fynx",
+    "category": "Fox Pokémon"
+  },
+  "braixen": {
+    "name": "Rutena",
+    "category": "Fox Pokémon"
+  },
+  "delphox": {
+    "name": "Fennexis",
+    "category": "Fox Pokémon"
+  },
+  "froakie": {
+    "name": "Froxy",
+    "category": "Bubble Frog Pokémon"
+  },
+  "frogadier": {
+    "name": "Amphizel",
+    "category": "Bubble Frog Pokémon"
+  },
+  "greninja": {
+    "name": "Quajutsu",
+    "category": "Ninja Pokémon"
+  },
+  "bunnelby": {
+    "name": "Scoppel",
+    "category": "Digging Pokémon"
+  },
+  "diggersby": {
+    "name": "Grebbit",
+    "category": "Digging Pokémon"
+  },
+  "fletchling": {
+    "name": "Dartiri",
+    "category": "Tiny Robin Pokémon"
+  },
+  "fletchinder": {
+    "name": "Dartignis",
+    "category": "Ember Pokémon"
+  },
+  "talonflame": {
+    "name": "Fiaro",
+    "category": "Scorching Pokémon"
+  },
+  "scatterbug": {
+    "name": "Purmel",
+    "category": "Scatterdust Pokémon"
+  },
+  "spewpa": {
+    "name": "Puponcho",
+    "category": "Scatterdust Pokémon"
+  },
+  "vivillon": {
+    "name": "Vivillon",
+    "category": "Scale Pokémon"
+  },
+  "litleo": {
+    "name": "Leufeo",
+    "category": "Lion Cub Pokémon"
+  },
+  "pyroar": {
+    "name": "Pyroleo",
+    "category": "Royal Pokémon"
+  },
+  "flabebe": {
+    "name": "Flabébé",
+    "category": "Single Bloom Pokémon"
+  },
+  "floette": {
+    "name": "Floette",
+    "category": "Single Bloom Pokémon"
+  },
+  "florges": {
+    "name": "Florges",
+    "category": "Garden Pokémon"
+  },
+  "skiddo": {
+    "name": "Mähikel",
+    "category": "Mount Pokémon"
+  },
+  "gogoat": {
+    "name": "Chevrumm",
+    "category": "Mount Pokémon"
+  },
+  "pancham": {
+    "name": "Pam-Pam",
+    "category": "Playful Pokémon"
+  },
+  "pangoro": {
+    "name": "Pandagro",
+    "category": "Daunting Pokémon"
+  },
+  "furfrou": {
+    "name": "Coiffwaff",
+    "category": "Poodle Pokémon"
+  },
+  "espurr": {
+    "name": "Psiau",
+    "category": "Restraint Pokémon"
+  },
+  "meowstic": {
+    "name": "Psiaugon",
+    "category": "Constraint Pokémon"
+  },
+  "honedge": {
+    "name": "Gramokles",
+    "category": "Sword Pokémon"
+  },
+  "doublade": {
+    "name": "Duokles",
+    "category": "Sword Pokémon"
+  },
+  "aegislash": {
+    "name": "Durengard",
+    "category": "Royal Sword Pokémon"
+  },
+  "spritzee": {
+    "name": "Parfi",
+    "category": "Perfume Pokémon"
+  },
+  "aromatisse": {
+    "name": "Parfinesse",
+    "category": "Fragrance Pokémon"
+  },
+  "swirlix": {
+    "name": "Flauschling",
+    "category": "Cotton Candy Pokémon"
+  },
+  "slurpuff": {
+    "name": "Sabbaione",
+    "category": "Meringue Pokémon"
+  },
+  "inkay": {
+    "name": "Iscalar",
+    "category": "Revolving Pokémon"
+  },
+  "malamar": {
+    "name": "Calamanero",
+    "category": "Overturning Pokémon"
+  },
+  "binacle": {
+    "name": "Bithora",
+    "category": "Two-Handed Pokémon"
+  },
+  "barbaracle": {
+    "name": "Thanathora",
+    "category": "Collective Pokémon"
+  },
+  "skrelp": {
+    "name": "Algitt",
+    "category": "Mock Kelp Pokémon"
+  },
+  "dragalge": {
+    "name": "Tandrak",
+    "category": "Mock Kelp Pokémon"
+  },
+  "clauncher": {
+    "name": "Scampisto",
+    "category": "Water Gun Pokémon"
+  },
+  "clawitzer": {
+    "name": "Wummer",
+    "category": "Howitzer Pokémon"
+  },
+  "helioptile": {
+    "name": "Eguana",
+    "category": "Generator Pokémon"
+  },
+  "heliolisk": {
+    "name": "Elezard",
+    "category": "Generator Pokémon"
+  },
+  "tyrunt": {
+    "name": "Balgoras",
+    "category": "Royal Heir Pokémon"
+  },
+  "tyrantrum": {
+    "name": "Monargoras",
+    "category": "Despot Pokémon"
+  },
+  "amaura": {
+    "name": "Amarino",
+    "category": "Tundra Pokémon"
+  },
+  "aurorus": {
+    "name": "Amagarga",
+    "category": "Tundra Pokémon"
+  },
+  "sylveon": {
+    "name": "Feelinara",
+    "category": "Intertwining Pokémon"
+  },
+  "hawlucha": {
+    "name": "Resladero",
+    "category": "Wrestling Pokémon"
+  },
+  "dedenne": {
+    "name": "Dedenne",
+    "category": "Antenna Pokémon"
+  },
+  "carbink": {
+    "name": "Rocara",
+    "category": "Jewel Pokémon"
+  },
+  "goomy": {
+    "name": "Viscora",
+    "category": "Soft Tissue Pokémon"
+  },
+  "sliggoo": {
+    "name": "Viscargot",
+    "category": "Soft Tissue Pokémon"
+  },
+  "goodra": {
+    "name": "Viscogon",
+    "category": "Dragon Pokémon"
+  },
+  "klefki": {
+    "name": "Clavion",
+    "category": "Key Ring Pokémon"
+  },
+  "phantump": {
+    "name": "Paragoni",
+    "category": "Stump Pokémon"
+  },
+  "trevenant": {
+    "name": "Trombork",
+    "category": "Elder Tree Pokémon"
+  },
+  "pumpkaboo": {
+    "name": "Irrbis",
+    "category": "Pumpkin Pokémon"
+  },
+  "gourgeist": {
+    "name": "Pumpdjinn",
+    "category": "Pumpkin Pokémon"
+  },
+  "bergmite": {
+    "name": "Arktip",
+    "category": "Ice Chunk Pokémon"
+  },
+  "avalugg": {
+    "name": "Arktilas",
+    "category": "Iceberg Pokémon"
+  },
+  "noibat": {
+    "name": "eF-eM",
+    "category": "Sound Wave Pokémon"
+  },
+  "noivern": {
+    "name": "UHaFnir",
+    "category": "Sound Wave Pokémon"
+  },
+  "xerneas": {
+    "name": "Xerneas",
+    "category": "Life Pokémon"
+  },
+  "yveltal": {
+    "name": "Yveltal",
+    "category": "Destruction Pokémon"
+  },
+  "zygarde": {
+    "name": "Zygarde",
+    "category": "Order Pokémon"
+  },
+  "diancie": {
+    "name": "Diancie",
+    "category": "Jewel Pokémon"
+  },
+  "hoopa": {
+    "name": "Hoopa",
+    "category": "Mischief Pokémon"
+  },
+  "volcanion": {
+    "name": "Volcanion",
+    "category": "Steam Pokémon"
+  },
+  "rowlet": {
+    "name": "Bauz",
+    "category": "Grass Quill Pokémon"
+  },
+  "dartrix": {
+    "name": "Arboretoss",
+    "category": "Blade Quill Pokémon"
+  },
+  "decidueye": {
+    "name": "Silvarro",
+    "category": "Arrow Quill Pokémon"
+  },
+  "litten": {
+    "name": "Flamiau",
+    "category": "Fire Cat Pokémon"
+  },
+  "torracat": {
+    "name": "Miezunder",
+    "category": "Fire Cat Pokémon"
+  },
+  "incineroar": {
+    "name": "Fuegro",
+    "category": "Heel Pokémon"
+  },
+  "popplio": {
+    "name": "Robball",
+    "category": "Sea Lion Pokémon"
+  },
+  "brionne": {
+    "name": "Marikeck",
+    "category": "Pop Star Pokémon"
+  },
+  "primarina": {
+    "name": "Primarene",
+    "category": "Soloist Pokémon"
+  },
+  "pikipek": {
+    "name": "Peppeck",
+    "category": "Woodpecker Pokémon"
+  },
+  "trumbeak": {
+    "name": "Trompeck",
+    "category": "Bugle Beak Pokémon"
+  },
+  "toucannon": {
+    "name": "Tukanon",
+    "category": "Cannon Pokémon"
+  },
+  "yungoos": {
+    "name": "Mangunior",
+    "category": "Loitering Pokémon"
+  },
+  "gumshoos": {
+    "name": "Manguspektor",
+    "category": "Stakeout Pokémon"
+  },
+  "grubbin": {
+    "name": "Mabula",
+    "category": "Larva Pokémon"
+  },
+  "charjabug": {
+    "name": "Akkup",
+    "category": "Battery Pokémon"
+  },
+  "vikavolt": {
+    "name": "Donarion",
+    "category": "Stag Beetle Pokémon"
+  },
+  "crabrawler": {
+    "name": "Krabbox",
+    "category": "Boxing Pokémon"
+  },
+  "crabominable": {
+    "name": "Krawell",
+    "category": "Woolly Crab Pokémon"
+  },
+  "oricorio": {
+    "name": "Choreogel",
+    "category": "Dancing Pokémon"
+  },
+  "cutiefly": {
+    "name": "Wommel",
+    "category": "Bee Fly Pokémon"
+  },
+  "ribombee": {
+    "name": "Bandelby",
+    "category": "Bee Fly Pokémon"
+  },
+  "rockruff": {
+    "name": "Wuffels",
+    "category": "Puppy Pokémon"
+  },
+  "lycanroc": {
+    "name": "Wolwerock",
+    "category": "Wolf Pokémon"
+  },
+  "wishiwashi": {
+    "name": "Lusardin",
+    "category": "Small Fry Pokémon"
+  },
+  "mareanie": {
+    "name": "Garstella",
+    "category": "Brutal Star Pokémon"
+  },
+  "toxapex": {
+    "name": "Aggrostella",
+    "category": "Brutal Star Pokémon"
+  },
+  "mudbray": {
+    "name": "Pampuli",
+    "category": "Donkey Pokémon"
+  },
+  "mudsdale": {
+    "name": "Pampross",
+    "category": "Draft Horse Pokémon"
+  },
+  "dewpider": {
+    "name": "Araqua",
+    "category": "Water Bubble Pokémon"
+  },
+  "araquanid": {
+    "name": "Aranestro",
+    "category": "Water Bubble Pokémon"
+  },
+  "fomantis": {
+    "name": "Imantis",
+    "category": "Sickle Grass Pokémon"
+  },
+  "lurantis": {
+    "name": "Mantidea",
+    "category": "Bloom Sickle Pokémon"
+  },
+  "morelull": {
+    "name": "Bubungus",
+    "category": "Illuminating Pokémon"
+  },
+  "shiinotic": {
+    "name": "Lamellux",
+    "category": "Illuminating Pokémon"
+  },
+  "salandit": {
+    "name": "Molunk",
+    "category": "Toxic Lizard Pokémon"
+  },
+  "salazzle": {
+    "name": "Amfira",
+    "category": "Toxic Lizard Pokémon"
+  },
+  "stufful": {
+    "name": "Velursi",
+    "category": "Flailing Pokémon"
+  },
+  "bewear": {
+    "name": "Kosturso",
+    "category": "Strong Arm Pokémon"
+  },
+  "bounsweet": {
+    "name": "Frubberl",
+    "category": "Fruit Pokémon"
+  },
+  "steenee": {
+    "name": "Frubaila",
+    "category": "Fruit Pokémon"
+  },
+  "tsareena": {
+    "name": "Fruyal",
+    "category": "Fruit Pokémon"
+  },
+  "comfey": {
+    "name": "Curelei",
+    "category": "Posy Picker Pokémon"
+  },
+  "oranguru": {
+    "name": "Kommandutan",
+    "category": "Sage Pokémon"
+  },
+  "passimian": {
+    "name": "Quartermak",
+    "category": "Teamwork Pokémon"
+  },
+  "wimpod": {
+    "name": "Reißlaus",
+    "category": "Turn Tail Pokémon"
+  },
+  "golisopod": {
+    "name": "Tectass",
+    "category": "Hard Scale Pokémon"
+  },
+  "sandygast": {
+    "name": "Sankabuh",
+    "category": "Sand Heap Pokémon"
+  },
+  "palossand": {
+    "name": "Colossand",
+    "category": "Sand Castle Pokémon"
+  },
+  "pyukumuku": {
+    "name": "Gufa",
+    "category": "Sea Cucumber Pokémon"
+  },
+  "type_null": {
+    "name": "Typ:Null",
+    "category": "Synthetic Pokémon"
+  },
+  "silvally": {
+    "name": "Amigento",
+    "category": "Synthetic Pokémon"
+  },
+  "minior": {
+    "name": "Meteno",
+    "category": "Meteor Pokémon"
+  },
+  "komala": {
+    "name": "Koalelu",
+    "category": "Drowsing Pokémon"
+  },
+  "turtonator": {
+    "name": "Tortunator",
+    "category": "Blast Turtle Pokémon"
+  },
+  "togedemaru": {
+    "name": "Togedemaru",
+    "category": "Roly-Poly Pokémon"
+  },
+  "mimikyu": {
+    "name": "Mimigma",
+    "category": "Disguise Pokémon"
+  },
+  "bruxish": {
+    "name": "Knirfish",
+    "category": "Gnash Teeth Pokémon"
+  },
+  "drampa": {
+    "name": "Sen-Long",
+    "category": "Placid Pokémon"
+  },
+  "dhelmise": {
+    "name": "Moruda",
+    "category": "Sea Creeper Pokémon"
+  },
+  "jangmo_o": {
+    "name": "Miniras",
+    "category": "Scaly Pokémon"
+  },
+  "hakamo_o": {
+    "name": "Mediras",
+    "category": "Scaly Pokémon"
+  },
+  "kommo_o": {
+    "name": "Grandiras",
+    "category": "Scaly Pokémon"
+  },
+  "tapu_koko": {
+    "name": "Kapu-Riki",
+    "category": "Land Spirit Pokémon"
+  },
+  "tapu_lele": {
+    "name": "Kapu-Fala",
+    "category": "Land Spirit Pokémon"
+  },
+  "tapu_bulu": {
+    "name": "Kapu-Toro",
+    "category": "Land Spirit Pokémon"
+  },
+  "tapu_fini": {
+    "name": "Kapu-Kime",
+    "category": "Land Spirit Pokémon"
+  },
+  "cosmog": {
+    "name": "Cosmog",
+    "category": "Nebula Pokémon"
+  },
+  "cosmoem": {
+    "name": "Cosmovum",
+    "category": "Protostar Pokémon"
+  },
+  "solgaleo": {
+    "name": "Solgaleo",
+    "category": "Sunne Pokémon"
+  },
+  "lunala": {
+    "name": "Lunala",
+    "category": "Moone Pokémon"
+  },
+  "nihilego": {
+    "name": "Anego",
+    "category": "Parasite Pokémon"
+  },
+  "buzzwole": {
+    "name": "Masskito",
+    "category": "Swollen Pokémon"
+  },
+  "pheromosa": {
+    "name": "Schabelle",
+    "category": "Lissome Pokémon"
+  },
+  "xurkitree": {
+    "name": "Voltriant",
+    "category": "Glowing Pokémon"
+  },
+  "celesteela": {
+    "name": "Kaguron",
+    "category": "Launch Pokémon"
+  },
+  "kartana": {
+    "name": "Katagami",
+    "category": "Drawn Sword Pokémon"
+  },
+  "guzzlord": {
+    "name": "Schlingking",
+    "category": "Junkivore Pokémon"
+  },
+  "necrozma": {
+    "name": "Necrozma",
+    "category": "Prism Pokémon"
+  },
+  "magearna": {
+    "name": "Magearna",
+    "category": "Artificial Pokémon"
+  },
+  "marshadow": {
+    "name": "Marshadow",
+    "category": "Gloomdweller Pokémon"
+  },
+  "poipole": {
+    "name": "Venicro",
+    "category": "Poison Pin Pokémon"
+  },
+  "naganadel": {
+    "name": "Agoyon",
+    "category": "Poison Pin Pokémon"
+  },
+  "stakataka": {
+    "name": "Muramura",
+    "category": "Rampart Pokémon"
+  },
+  "blacephalon": {
+    "name": "Kopplosio",
+    "category": "Fireworks Pokémon"
+  },
+  "zeraora": {
+    "name": "Zeraora",
+    "category": "Thunderclap Pokémon"
+  },
+  "meltan": {
+    "name": "Meltan",
+    "category": "Hex Nut Pokémon"
+  },
+  "melmetal": {
+    "name": "Melmetal",
+    "category": "Hex Nut Pokémon"
+  },
+  "grookey": {
+    "name": "Chimpep",
+    "category": "Chimp Pokémon"
+  },
+  "thwackey": {
+    "name": "Chimstix",
+    "category": "Beat Pokémon"
+  },
+  "rillaboom": {
+    "name": "Gortrom",
+    "category": "Drummer Pokémon"
+  },
+  "scorbunny": {
+    "name": "Hopplo",
+    "category": "Rabbit Pokémon"
+  },
+  "raboot": {
+    "name": "Kickerlo",
+    "category": "Rabbit Pokémon"
+  },
+  "cinderace": {
+    "name": "Liberlo",
+    "category": "Striker Pokémon"
+  },
+  "sobble": {
+    "name": "Memmeon",
+    "category": "Water Lizard Pokémon"
+  },
+  "drizzile": {
+    "name": "Phlegleon",
+    "category": "Water Lizard Pokémon"
+  },
+  "inteleon": {
+    "name": "Intelleon",
+    "category": "Secret Agent Pokémon"
+  },
+  "skwovet": {
+    "name": "Raffel",
+    "category": "Cheeky Pokémon"
+  },
+  "greedent": {
+    "name": "Schlaraffel",
+    "category": "Greedy Pokémon"
+  },
+  "rookidee": {
+    "name": "Meikro",
+    "category": "Tiny Bird Pokémon"
+  },
+  "corvisquire": {
+    "name": "Kranoviz",
+    "category": "Raven Pokémon"
+  },
+  "corviknight": {
+    "name": "Krarmor",
+    "category": "Raven Pokémon"
+  },
+  "blipbug": {
+    "name": "Sensect",
+    "category": "Larva Pokémon"
+  },
+  "dottler": {
+    "name": "Keradar",
+    "category": "Radome Pokémon"
+  },
+  "orbeetle": {
+    "name": "Maritellit",
+    "category": "Seven Spot Pokémon"
+  },
+  "nickit": {
+    "name": "Kleptifux",
+    "category": "Fox Pokémon"
+  },
+  "thievul": {
+    "name": "Gaunux",
+    "category": "Fox Pokémon"
+  },
+  "gossifleur": {
+    "name": "Cottini",
+    "category": "Flowering Pokémon"
+  },
+  "eldegoss": {
+    "name": "Cottomi",
+    "category": "Cotton Bloom Pokémon"
+  },
+  "wooloo": {
+    "name": "Wolly",
+    "category": "Sheep Pokémon"
+  },
+  "dubwool": {
+    "name": "Zwollock",
+    "category": "Sheep Pokémon"
+  },
+  "chewtle": {
+    "name": "Kamehaps",
+    "category": "Snapping Pokémon"
+  },
+  "drednaw": {
+    "name": "Kamalm",
+    "category": "Bite Pokémon"
+  },
+  "yamper": {
+    "name": "Voldi",
+    "category": "Puppy Pokémon"
+  },
+  "boltund": {
+    "name": "Bellektro",
+    "category": "Dog Pokémon"
+  },
+  "rolycoly": {
+    "name": "Klonkett",
+    "category": "Coal Pokémon"
+  },
+  "carkol": {
+    "name": "Wagong",
+    "category": "Coal Pokémon"
+  },
+  "coalossal": {
+    "name": "Montecarbo",
+    "category": "Coal Pokémon"
+  },
+  "applin": {
+    "name": "Knapfel",
+    "category": "Apple Core Pokémon"
+  },
+  "flapple": {
+    "name": "Drapfel",
+    "category": "Apple Wing Pokémon"
+  },
+  "appletun": {
+    "name": "Schlapfel",
+    "category": "Apple Nectar Pokémon"
+  },
+  "silicobra": {
+    "name": "Salanga",
+    "category": "Sand Snake Pokémon"
+  },
+  "sandaconda": {
+    "name": "Sanaconda",
+    "category": "Sand Snake Pokémon"
+  },
+  "cramorant": {
+    "name": "Urgl",
+    "category": "Gulp Pokémon"
+  },
+  "arrokuda": {
+    "name": "Pikuda",
+    "category": "Rush Pokémon"
+  },
+  "barraskewda": {
+    "name": "Barrakiefa",
+    "category": "Skewer Pokémon"
+  },
+  "toxel": {
+    "name": "Toxel",
+    "category": "Baby Pokémon"
+  },
+  "toxtricity": {
+    "name": "Riffex",
+    "category": "Punk Pokémon"
+  },
+  "sizzlipede": {
+    "name": "Thermopod",
+    "category": "Radiator Pokémon"
+  },
+  "centiskorch": {
+    "name": "Infernopod",
+    "category": "Radiator Pokémon"
+  },
+  "clobbopus": {
+    "name": "Klopptopus",
+    "category": "Tantrum Pokémon"
+  },
+  "grapploct": {
+    "name": "Kaocto",
+    "category": "Jujitsu Pokémon"
+  },
+  "sinistea": {
+    "name": "Fatalitee",
+    "category": "Black Tea Pokémon"
+  },
+  "polteageist": {
+    "name": "Mortipot",
+    "category": "Black Tea Pokémon"
+  },
+  "hatenna": {
+    "name": "Brimova",
+    "category": "Calm Pokémon"
+  },
+  "hattrem": {
+    "name": "Brimano",
+    "category": "Serene Pokémon"
+  },
+  "hatterene": {
+    "name": "Silembrim",
+    "category": "Silent Pokémon"
+  },
+  "impidimp": {
+    "name": "Bähmon",
+    "category": "Wily Pokémon"
+  },
+  "morgrem": {
+    "name": "Pelzebub",
+    "category": "Devious Pokémon"
+  },
+  "grimmsnarl": {
+    "name": "Olangaar",
+    "category": "Bulk Up Pokémon"
+  },
+  "obstagoon": {
+    "name": "Barrikadax",
+    "category": "Blocking Pokémon"
+  },
+  "perrserker": {
+    "name": "Mauzinger",
+    "category": "Viking Pokémon"
+  },
+  "cursola": {
+    "name": "Gorgasonn",
+    "category": "Coral Pokémon"
+  },
+  "sirfetchd": {
+    "name": "Lauchzelot",
+    "category": "Wild Duck Pokémon"
+  },
+  "mr_rime": {
+    "name": "Pantifrost",
+    "category": "Comedian Pokémon"
+  },
+  "runerigus": {
+    "name": "Oghnatoll",
+    "category": "Grudge Pokémon"
+  },
+  "milcery": {
+    "name": "Hokumil",
+    "category": "Cream Pokémon"
+  },
+  "alcremie": {
+    "name": "Pokusan",
+    "category": "Cream Pokémon"
+  },
+  "falinks": {
+    "name": "Legios",
+    "category": "Formation Pokémon"
+  },
+  "pincurchin": {
+    "name": "Britzigel",
+    "category": "Sea Urchin Pokémon"
+  },
+  "snom": {
+    "name": "Snomnom",
+    "category": "Worm Pokémon"
+  },
+  "frosmoth": {
+    "name": "Mottineva",
+    "category": "Frost Moth Pokémon"
+  },
+  "stonjourner": {
+    "name": "Humanolith",
+    "category": "Big Rock Pokémon"
+  },
+  "eiscue": {
+    "name": "Kubuin",
+    "category": "Penguin Pokémon"
+  },
+  "indeedee": {
+    "name": "Servol",
+    "category": "Emotion Pokémon"
+  },
+  "morpeko": {
+    "name": "Morpeko",
+    "category": "Two-Sided Pokémon"
+  },
+  "cufant": {
+    "name": "Kupfanti",
+    "category": "Copperderm Pokémon"
+  },
+  "copperajah": {
+    "name": "Patinaraja",
+    "category": "Copperderm Pokémon"
+  },
+  "dracozolt": {
+    "name": "Lectragon",
+    "category": "Fossil Pokémon"
+  },
+  "arctozolt": {
+    "name": "Lecryodon",
+    "category": "Fossil Pokémon"
+  },
+  "dracovish": {
+    "name": "Pescragon",
+    "category": "Fossil Pokémon"
+  },
+  "arctovish": {
+    "name": "Pescryodon",
+    "category": "Fossil Pokémon"
+  },
+  "duraludon": {
+    "name": "Duraludon",
+    "category": "Alloy Pokémon"
+  },
+  "dreepy": {
+    "name": "Grolldra",
+    "category": "Lingering Pokémon"
+  },
+  "drakloak": {
+    "name": "Phandra",
+    "category": "Caretaker Pokémon"
+  },
+  "dragapult": {
+    "name": "Katapuldra",
+    "category": "Stealth Pokémon"
+  },
+  "zacian": {
+    "name": "Zacian",
+    "category": "Warrior Pokémon"
+  },
+  "zamazenta": {
+    "name": "Zamazenta",
+    "category": "Warrior Pokémon"
+  },
+  "eternatus": {
+    "name": "Endynalos",
+    "category": "Gigantic Pokémon"
+  },
+  "kubfu": {
+    "name": "Dakuma",
+    "category": "Wushu Pokémon"
+  },
+  "urshifu": {
+    "name": "Wulaosu",
+    "category": "Wushu Pokémon"
+  },
+  "zarude": {
+    "name": "Zarude",
+    "category": "Rogue Monkey Pokémon"
+  },
+  "regieleki": {
+    "name": "Regieleki",
+    "category": "Electron Pokémon"
+  },
+  "regidrago": {
+    "name": "Regidrago",
+    "category": "Dragon Orb Pokémon"
+  },
+  "glastrier": {
+    "name": "Polaross",
+    "category": "Wild Horse Pokémon"
+  },
+  "spectrier": {
+    "name": "Phantoross",
+    "category": "Swift Horse Pokémon"
+  },
+  "calyrex": {
+    "name": "Coronospa",
+    "category": "King Pokémon"
+  },
+  "wyrdeer": {
+    "name": "Damythir",
+    "category": "Big Horn Pokémon"
+  },
+  "kleavor": {
+    "name": "Axantor",
+    "category": "Axe Pokémon"
+  },
+  "ursaluna": {
+    "name": "Ursaluna",
+    "category": "Peat Pokémon"
+  },
+  "basculegion": {
+    "name": "Salmagnis",
+    "category": "Big Fish Pokémon"
+  },
+  "sneasler": {
+    "name": "Snieboss",
+    "category": "Free Climb Pokémon"
+  },
+  "overqwil": {
+    "name": "Myriador",
+    "category": "Pin Cluster Pokémon"
+  },
+  "enamorus": {
+    "name": "Cupidos",
+    "category": "Love-Hate Pokémon"
+  },
+  "sprigatito": {
+    "name": "Felori",
+    "category": "Grass Cat Pokémon"
+  },
+  "floragato": {
+    "name": "Feliospa",
+    "category": "Grass Cat Pokémon"
+  },
+  "meowscarada": {
+    "name": "Maskagato",
+    "category": "Magician Pokémon"
+  },
+  "fuecoco": {
+    "name": "Krokel",
+    "category": "Fire Croc Pokémon"
+  },
+  "crocalor": {
+    "name": "Lokroko",
+    "category": "Fire Croc Pokémon"
+  },
+  "skeledirge": {
+    "name": "Skelokrok",
+    "category": "Singer Pokémon"
+  },
+  "quaxly": {
+    "name": "Kwaks",
+    "category": "Duckling Pokémon"
+  },
+  "quaxwell": {
+    "name": "Fuentente",
+    "category": "Practicing Pokémon"
+  },
+  "quaquaval": {
+    "name": "Bailonda",
+    "category": "Dancer Pokémon"
+  },
+  "lechonk": {
+    "name": "Ferkuli",
+    "category": "Hog Pokémon"
+  },
+  "oinkologne": {
+    "name": "Fragrunz",
+    "category": "Hog Pokémon"
+  },
+  "tarountula": {
+    "name": "Tarundel",
+    "category": "String Ball Pokémon"
+  },
+  "spidops": {
+    "name": "Spinsidias",
+    "category": "Trap Pokémon"
+  },
+  "nymble": {
+    "name": "Micrick",
+    "category": "Grasshopper Pokémon"
+  },
+  "lokix": {
+    "name": "Lextremo",
+    "category": "Grasshopper Pokémon"
+  },
+  "pawmi": {
+    "name": "Pamo",
+    "category": "Mouse Pokémon"
+  },
+  "pawmo": {
+    "name": "Pamamo",
+    "category": "Mouse Pokémon"
+  },
+  "pawmot": {
+    "name": "Pamomamo",
+    "category": "Hands-On Pokémon"
+  },
+  "tandemaus": {
+    "name": "Zwieps",
+    "category": "Couple Pokémon"
+  },
+  "maushold": {
+    "name": "Famieps",
+    "category": "Family Pokémon"
+  },
+  "fidough": {
+    "name": "Hefel",
+    "category": "Puppy Pokémon"
+  },
+  "dachsbun": {
+    "name": "Backel",
+    "category": "Dog Pokémon"
+  },
+  "smoliv": {
+    "name": "Olini",
+    "category": "Olive Pokémon"
+  },
+  "dolliv": {
+    "name": "Olivinio",
+    "category": "Olive Pokémon"
+  },
+  "arboliva": {
+    "name": "Olithena",
+    "category": "Olive Pokémon"
+  },
+  "squawkabilly": {
+    "name": "Krawalloro",
+    "category": "Parrot Pokémon"
+  },
+  "nacli": {
+    "name": "Geosali",
+    "category": "Rock Salt Pokémon"
+  },
+  "naclstack": {
+    "name": "Sedisal",
+    "category": "Rock Salt Pokémon"
+  },
+  "garganacl": {
+    "name": "Saltigant",
+    "category": "Rock Salt Pokémon"
+  },
+  "charcadet": {
+    "name": "Knarbon",
+    "category": "Fire Child Pokémon"
+  },
+  "armarouge": {
+    "name": "Crimanzo",
+    "category": "Fire Warrior Pokémon"
+  },
+  "ceruledge": {
+    "name": "Azugladis",
+    "category": "Fire Blades Pokémon"
+  },
+  "tadbulb": {
+    "name": "Blipp",
+    "category": "EleTadpole Pokémon"
+  },
+  "bellibolt": {
+    "name": "Wampitz",
+    "category": "EleFrog Pokémon"
+  },
+  "wattrel": {
+    "name": "Voltrel",
+    "category": "Storm Petrel Pokémon"
+  },
+  "kilowattrel": {
+    "name": "Voltrean",
+    "category": "Frigatebird Pokémon"
+  },
+  "maschiff": {
+    "name": "Mobtiff",
+    "category": "Rascal Pokémon"
+  },
+  "mabosstiff": {
+    "name": "Mastifioso",
+    "category": "Boss Pokémon"
+  },
+  "shroodle": {
+    "name": "Sproxi",
+    "category": "Toxic Mouse Pokémon"
+  },
+  "grafaiai": {
+    "name": "Affiti",
+    "category": "Toxic Monkey Pokémon"
+  },
+  "bramblin": {
+    "name": "Weherba",
+    "category": "Tumbleweed Pokémon"
+  },
+  "brambleghast": {
+    "name": "Horrerba",
+    "category": "Tumbleweed Pokémon"
+  },
+  "toedscool": {
+    "name": "Tentagra",
+    "category": "Woodear Pokémon"
+  },
+  "toedscruel": {
+    "name": "Tenterra",
+    "category": "Woodear Pokémon"
+  },
+  "klawf": {
+    "name": "Klibbe",
+    "category": "Ambush Pokémon"
+  },
+  "capsakid": {
+    "name": "Chilingel",
+    "category": "Spicy Pepper Pokémon"
+  },
+  "scovillain": {
+    "name": "Halupenjo",
+    "category": "Spicy Pepper Pokémon"
+  },
+  "rellor": {
+    "name": "Relluk",
+    "category": "Rolling Pokémon"
+  },
+  "rabsca": {
+    "name": "Skarabaks",
+    "category": "Rolling Pokémon"
+  },
+  "flittle": {
+    "name": "Flattutu",
+    "category": "Frill Pokémon"
+  },
+  "espathra": {
+    "name": "Psiopatra",
+    "category": "Ostrich Pokémon"
+  },
+  "tinkatink": {
+    "name": "Forgita",
+    "category": "Metalsmith Pokémon"
+  },
+  "tinkatuff": {
+    "name": "Tafforgita",
+    "category": "Hammer Pokémon"
+  },
+  "tinkaton": {
+    "name": "Granforgita",
+    "category": "Hammer Pokémon"
+  },
+  "wiglett": {
+    "name": "Schligda",
+    "category": "Garden Eel Pokémon"
+  },
+  "wugtrio": {
+    "name": "Schligdri",
+    "category": "Garden Eel Pokémon"
+  },
+  "bombirdier": {
+    "name": "Adebom",
+    "category": "Item Drop Pokémon"
+  },
+  "finizen": {
+    "name": "Normifin",
+    "category": "Dolphin Pokémon"
+  },
+  "palafin": {
+    "name": "Delfinator",
+    "category": "Dolphin Pokémon"
+  },
+  "varoom": {
+    "name": "Knattox",
+    "category": "Single-Cyl Pokémon"
+  },
+  "revavroom": {
+    "name": "Knattatox",
+    "category": "Multi-Cyl Pokémon"
+  },
+  "cyclizar": {
+    "name": "Mopex",
+    "category": "Mount Pokémon"
+  },
+  "orthworm": {
+    "name": "Schlurm",
+    "category": "Earthworm Pokémon"
+  },
+  "glimmet": {
+    "name": "Lumispross",
+    "category": "Ore Pokémon"
+  },
+  "glimmora": {
+    "name": "Lumiflora",
+    "category": "Ore Pokémon"
+  },
+  "greavard": {
+    "name": "Gruff",
+    "category": "Ghost Dog Pokémon"
+  },
+  "houndstone": {
+    "name": "Friedwuff",
+    "category": "Ghost Dog Pokémon"
+  },
+  "flamigo": {
+    "name": "Flaminkno",
+    "category": "Synchronize Pokémon"
+  },
+  "cetoddle": {
+    "name": "Flaniwal",
+    "category": "Terra Whale Pokémon"
+  },
+  "cetitan": {
+    "name": "Kolowal",
+    "category": "Terra Whale Pokémon"
+  },
+  "veluza": {
+    "name": "Agiluza",
+    "category": "Jettison Pokémon"
+  },
+  "dondozo": {
+    "name": "Heerashai",
+    "category": "Big Catfish Pokémon"
+  },
+  "tatsugiri": {
+    "name": "Nigiragi",
+    "category": "Mimicry Pokémon"
+  },
+  "annihilape": {
+    "name": "Epitaff",
+    "category": "Rage Monkey Pokémon"
+  },
+  "clodsire": {
+    "name": "Suelord",
+    "category": "Spiny Fish Pokémon"
+  },
+  "farigiraf": {
+    "name": "Farigiraf",
+    "category": "Long Neck Pokémon"
+  },
+  "dudunsparce": {
+    "name": "Dummimisel",
+    "category": "Land Snake Pokémon"
+  },
+  "kingambit": {
+    "name": "Gladimperio",
+    "category": "Big Blade Pokémon"
+  },
+  "great_tusk": {
+    "name": "Riesenzahn",
+    "category": "Paradox Pokémon"
+  },
+  "scream_tail": {
+    "name": "Brüllschweif",
+    "category": "Paradox Pokémon"
+  },
+  "brute_bonnet": {
+    "name": "Wutpilz",
+    "category": "Paradox Pokémon"
+  },
+  "flutter_mane": {
+    "name": "Flatterhaar",
+    "category": "Paradox Pokémon"
+  },
+  "slither_wing": {
+    "name": "Kriechflügel",
+    "category": "Paradox Pokémon"
+  },
+  "sandy_shocks": {
+    "name": "Sandfell",
+    "category": "Paradox Pokémon"
+  },
+  "iron_treads": {
+    "name": "Eisenrad",
+    "category": "Paradox Pokémon"
+  },
+  "iron_bundle": {
+    "name": "Eisenbündel",
+    "category": "Paradox Pokémon"
+  },
+  "iron_hands": {
+    "name": "Eisenhand",
+    "category": "Paradox Pokémon"
+  },
+  "iron_jugulis": {
+    "name": "Eisenhals",
+    "category": "Paradox Pokémon"
+  },
+  "iron_moth": {
+    "name": "Eisenfalter",
+    "category": "Paradox Pokémon"
+  },
+  "iron_thorns": {
+    "name": "Eisendorn",
+    "category": "Paradox Pokémon"
+  },
+  "frigibax": {
+    "name": "Frospino",
+    "category": "Ice Fin Pokémon"
+  },
+  "arctibax": {
+    "name": "Cryospino",
+    "category": "Ice Fin Pokémon"
+  },
+  "baxcalibur": {
+    "name": "Espinodon",
+    "category": "Ice Dragon Pokémon"
+  },
+  "gimmighoul": {
+    "name": "Gierspenst",
+    "category": "Coin Chest Pokémon"
+  },
+  "gholdengo": {
+    "name": "Monetigo",
+    "category": "Coin Entity Pokémon"
+  },
+  "wo_chien": {
+    "name": "Chongjian",
+    "category": "Ruinous Pokémon"
+  },
+  "chien_pao": {
+    "name": "Baojian",
+    "category": "Ruinous Pokémon"
+  },
+  "ting_lu": {
+    "name": "Dinglu",
+    "category": "Ruinous Pokémon"
+  },
+  "chi_yu": {
+    "name": "Yuyu",
+    "category": "Ruinous Pokémon"
+  },
+  "roaring_moon": {
+    "name": "Donnersichel",
+    "category": "Paradox Pokémon"
+  },
+  "iron_valiant": {
+    "name": "Eisenkrieger",
+    "category": "Paradox Pokémon"
+  },
+  "koraidon": {
+    "name": "Koraidon",
+    "category": "Paradox Pokémon"
+  },
+  "miraidon": {
+    "name": "Miraidon",
+    "category": "Paradox Pokémon"
+  },
+  "walking_wake": {
+    "name": "Windewoge",
+    "category": "Paradox Pokémon"
+  },
+  "iron_leaves": {
+    "name": "Eisenblatt",
+    "category": "Paradox Pokémon"
+  },
+  "dipplin": {
+    "name": "Sirapfel",
+    "category": "Candy Apple Pokémon"
+  },
+  "poltchageist": {
+    "name": "Mortcha",
+    "category": "Matcha Pokémon"
+  },
+  "sinistcha": {
+    "name": "Fatalitcha",
+    "category": "Matcha Pokémon"
+  },
+  "okidogi": {
+    "name": "Boninu",
+    "category": "Retainer Pokémon"
+  },
+  "munkidori": {
+    "name": "Benesaru",
+    "category": "Retainer Pokémon"
+  },
+  "fezandipiti": {
+    "name": "Beatori",
+    "category": "Retainer Pokémon"
+  },
+  "ogerpon": {
+    "name": "Ogerpon",
+    "category": "Mask Pokémon"
+  },
+  "archaludon": {
+    "name": "Briduradon",
+    "category": "Alloy Pokémon"
+  },
+  "hydrapple": {
+    "name": "Hydrapfel",
+    "category": "Apple Hydra Pokémon"
+  },
+  "gouging_fire": {
+    "name": "Keilflamme",
+    "category": "Paradox Pokémon"
+  },
+  "raging_bolt": {
+    "name": "Furienblitz",
+    "category": "Paradox Pokémon"
+  },
+  "iron_boulder": {
+    "name": "Eisenfels",
+    "category": "Paradox Pokémon"
+  },
+  "iron_crown": {
+    "name": "Eisenhaupt",
+    "category": "Paradox Pokémon"
+  },
+  "terapagos": {
+    "name": "Terapagos",
+    "category": "Tera Pokémon"
+  },
+  "pecharunt": {
+    "name": "Infamomo",
+    "category": "Subjugation Pokémon"
+  },
+  "alola_rattata": {
+    "name": "Rattfratz",
+    "category": "Mouse Pokémon"
+  },
+  "alola_raticate": {
+    "name": "Rattikarl",
+    "category": "Mouse Pokémon"
+  },
+  "alola_raichu": {
+    "name": "Raichu",
+    "category": "Mouse Pokémon"
+  },
+  "alola_sandshrew": {
+    "name": "Sandan",
+    "category": "Mouse Pokémon"
+  },
+  "alola_sandslash": {
+    "name": "Sandamer",
+    "category": "Mouse Pokémon"
+  },
+  "alola_vulpix": {
+    "name": "Vulpix",
+    "category": "Fox Pokémon"
+  },
+  "alola_ninetales": {
+    "name": "Vulnona",
+    "category": "Fox Pokémon"
+  },
+  "alola_diglett": {
+    "name": "Digda",
+    "category": "Mole Pokémon"
+  },
+  "alola_dugtrio": {
+    "name": "Digdri",
+    "category": "Mole Pokémon"
+  },
+  "alola_meowth": {
+    "name": "Mauzi",
+    "category": "Scratch Cat Pokémon"
+  },
+  "alola_persian": {
+    "name": "Snobilikat",
+    "category": "Classy Cat Pokémon"
+  },
+  "alola_geodude": {
+    "name": "Kleinstein",
+    "category": "Rock Pokémon"
+  },
+  "alola_graveler": {
+    "name": "Georok",
+    "category": "Rock Pokémon"
+  },
+  "alola_golem": {
+    "name": "Geowaz",
+    "category": "Megaton Pokémon"
+  },
+  "alola_grimer": {
+    "name": "Sleima",
+    "category": "Sludge Pokémon"
+  },
+  "alola_muk": {
+    "name": "Sleimok",
+    "category": "Sludge Pokémon"
+  },
+  "alola_exeggutor": {
+    "name": "Kokowei",
+    "category": "Coconut Pokémon"
+  },
+  "alola_marowak": {
+    "name": "Knogga",
+    "category": "Bone Keeper Pokémon"
+  },
+  "eternal_floette": {
+    "name": "Floette",
+    "category": "Single Bloom Pokémon"
+  },
+  "galar_meowth": {
+    "name": "Mauzi",
+    "category": "Scratch Cat Pokémon"
+  },
+  "galar_ponyta": {
+    "name": "Ponita",
+    "category": "Fire Horse Pokémon"
+  },
+  "galar_rapidash": {
+    "name": "Gallopa",
+    "category": "Fire Horse Pokémon"
+  },
+  "galar_slowpoke": {
+    "name": "Flegmon",
+    "category": "Dopey Pokémon"
+  },
+  "galar_slowbro": {
+    "name": "Lahmus",
+    "category": "Hermit Crab Pokémon"
+  },
+  "galar_farfetchd": {
+    "name": "Porenta",
+    "category": "Wild Duck Pokémon"
+  },
+  "galar_weezing": {
+    "name": "Smogmog",
+    "category": "Poison Gas Pokémon"
+  },
+  "galar_mr_mime": {
+    "name": "Pantimos",
+    "category": "Barrier Pokémon"
+  },
+  "galar_articuno": {
+    "name": "Arktos",
+    "category": "Freeze Pokémon"
+  },
+  "galar_zapdos": {
+    "name": "Zapdos",
+    "category": "Electric Pokémon"
+  },
+  "galar_moltres": {
+    "name": "Lavados",
+    "category": "Flame Pokémon"
+  },
+  "galar_slowking": {
+    "name": "Laschoking",
+    "category": "Royal Pokémon"
+  },
+  "galar_corsola": {
+    "name": "Corasonn",
+    "category": "Coral Pokémon"
+  },
+  "galar_zigzagoon": {
+    "name": "Zigzachs",
+    "category": "Tiny Raccoon Pokémon"
+  },
+  "galar_linoone": {
+    "name": "Geradaks",
+    "category": "Rushing Pokémon"
+  },
+  "galar_darumaka": {
+    "name": "Flampion",
+    "category": "Zen Charm Pokémon"
+  },
+  "galar_darmanitan": {
+    "name": "Flampivian",
+    "category": "Blazing Pokémon"
+  },
+  "galar_yamask": {
+    "name": "Makabaja",
+    "category": "Spirit Pokémon"
+  },
+  "galar_stunfisk": {
+    "name": "Flunschlik",
+    "category": "Trap Pokémon"
+  },
+  "hisui_growlithe": {
+    "name": "Fukano",
+    "category": "Puppy Pokémon"
+  },
+  "hisui_arcanine": {
+    "name": "Arkani",
+    "category": "Legendary Pokémon"
+  },
+  "hisui_voltorb": {
+    "name": "Voltobal",
+    "category": "Ball Pokémon"
+  },
+  "hisui_electrode": {
+    "name": "Lektrobal",
+    "category": "Ball Pokémon"
+  },
+  "hisui_typhlosion": {
+    "name": "Tornupto",
+    "category": "Volcano Pokémon"
+  },
+  "hisui_qwilfish": {
+    "name": "Baldorfish",
+    "category": "Balloon Pokémon"
+  },
+  "hisui_sneasel": {
+    "name": "Sniebel",
+    "category": "Sharp Claw Pokémon"
+  },
+  "hisui_samurott": {
+    "name": "Admurai",
+    "category": "Formidable Pokémon"
+  },
+  "hisui_lilligant": {
+    "name": "Dressella",
+    "category": "Flowering Pokémon"
+  },
+  "hisui_zorua": {
+    "name": "Zorua",
+    "category": "Tricky Fox Pokémon"
+  },
+  "hisui_zoroark": {
+    "name": "Zoroark",
+    "category": "Illusion Fox Pokémon"
+  },
+  "hisui_braviary": {
+    "name": "Washakwil",
+    "category": "Valiant Pokémon"
+  },
+  "hisui_sliggoo": {
+    "name": "Viscargot",
+    "category": "Soft Tissue Pokémon"
+  },
+  "hisui_goodra": {
+    "name": "Viscogon",
+    "category": "Dragon Pokémon"
+  },
+  "hisui_avalugg": {
+    "name": "Arktilas",
+    "category": "Iceberg Pokémon"
+  },
+  "hisui_decidueye": {
+    "name": "Silvarro",
+    "category": "Arrow Quill Pokémon"
+  },
+  "paldea_tauros": {
+    "name": "Tauros",
+    "category": "Wild Bull Pokémon"
+  },
+  "paldea_wooper": {
+    "name": "Felino",
+    "category": "Water Fish Pokémon"
+  },
+  "bloodmoon_ursaluna": {
+    "name": "Ursaluna",
+    "category": "Peat Pokémon"
+  }
 }
