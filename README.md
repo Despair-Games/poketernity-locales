@@ -2,7 +2,7 @@
 
 This repository contains the locales files for the [Pokéternity](https://github.com/despair-games/poketernity) project.
 
-### Languages
+## Languages
 
 | Code  | Language              | Status     |
 | ----- | --------------------- | ---------- |
