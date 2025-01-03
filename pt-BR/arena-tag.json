@@ -35,7 +35,6 @@
   "toxicSpikesActivateTrapPoison": "{{pokemonNameWithAffix}} absorveu os {{moveName}}!",
   "stealthRockOnAdd": "Pedras pontiagudas estão flutuando\nao redor de {{opponentDesc}}!",
   "stealthRockActivateTrap": "{{pokemonNameWithAffix}} foi atingido\npor pedras pontiagudas!",
-  "stickyWebActivateTrap": "{{pokemonName}} adversário foi pego por uma Sticky Web!",
   "trickRoomOnAdd": "{{pokemonNameWithAffix}} distorceu\nas dimensões!",
   "trickRoomOnRemove": "As dimensões distorcidas\nretornaram ao normal!",
   "gravityOnAdd": "A gravidade aumentou!",

@@ -35,7 +35,6 @@
   "toxicSpikesActivateTrapPoison": "{{pokemonNameWithAffix}} absorbiert die {{moveName}}!",
   "stealthRockOnAdd": "Um die {{opponentDesc}} schweben spitze Steine!",
   "stealthRockActivateTrap": "{{pokemonNameWithAffix}} wird von spitzen Steinen getroffen!!",
-  "stickyWebActivateTrap": "{{pokemonName}} ist im Klebenetz gefangen!",
   "trickRoomOnAdd": "{{pokemonNameWithAffix}} hat die Dimensionen verdreht!",
   "trickRoomOnRemove": "Die verdrehte Dimension ist wieder normal!",
   "gravityOnAdd": "Die Erdanziehung wurde verstärkt!",
