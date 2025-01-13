@@ -113,5 +113,7 @@
   "defaultConfirmMessage": "Are you sure?",
   "landscape": "Landscape",
   "portrait": "Portrait",
-  "configure": "Configure"
+  "configure": "Configure",
+  "saveAndClose": "Save & Close",
+  "orientation": "Orientation"
 }
