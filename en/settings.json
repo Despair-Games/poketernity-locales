@@ -114,5 +114,6 @@
   "landscape": "Landscape",
   "portrait": "Portrait",
   "configure": "Configure",
-  "saveAndClose": "Save & Close"
+  "saveAndClose": "Save & Close",
+  "orientation": "Orientation"
 }
