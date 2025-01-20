@@ -78,5 +78,7 @@
   "TypeImmuneDamageOverTimeLapseGRASS": "{{pokemonNameWithAffix}} is hurt by G-Max Vine Lash's ferocious beating!",
   "TypeImmuneDamageOverTimeLapseFIRE": "{{pokemonNameWithAffix}} is burning up within G-Max Wildfire's flames!",
   "TypeImmuneDamageOverTimeLapseWATER": "{{pokemonNameWithAffix}} is hurt by G-Max Cannonade's vortex!",
-  "TypeImmuneDamageOverTimeLapseROCK": "{{pokemonNameWithAffix}} is hurt by the rocks thrown out by G-Max Volcalith!"
+  "TypeImmuneDamageOverTimeLapseROCK": "{{pokemonNameWithAffix}} is hurt by the rocks thrown out by G-Max Volcalith!",
+  "sharpSteelOnAdd": "Sharp-pointed pieces of steel\nstarted floating around the opposing Pokemon!",
+  "sharpSteelActivateTrap": "The sharp steel bit into\n{{pokemonNameWithAffix}}!"
 }
