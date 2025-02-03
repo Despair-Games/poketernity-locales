@@ -2970,7 +2970,7 @@
   },
   "blue_red": {
     "encounter": {
-      "1": "Blue: Hey Red, let's show them what we're made of!\n$Red: ...\n$Blue: This is Pallet Town Power!"
+      "1": "Blue: Hey Red, let’s show them what we’re made of!\n$Red: ...\n$Blue: This is Pallet Town Power!"
     },
     "victory": {
       "1": "Blue: That was a great battle!\n$Red: ..."
@@ -2978,7 +2978,7 @@
   },
   "lance_clair": {
     "encounter": {
-      "1": "Lance: I am the Champion of the Pokémon League!\n$Clair: I am the Dragon Master!\n$Lance: Let's see if you can handle the draconic power!"
+      "1": "Lance: I am the Champion of the Pokémon League!\n$Clair: I am the Dragon Master!\n$Lance: Let’s see if you can handle the draconic power!"
     },
     "victory": {
       "1": "Lance: You are a strong Trainer!\n$Clair: I am impressed!"
@@ -2994,15 +2994,15 @@
   },
   "steven_wallace": {
     "encounter": {
-      "1": "Steven: Do you have any rare Pokémon?\n$Wallace: Steven... We are here for a battle, not to show off our Pokémon.\n$Steven: Oh... I see... Let's go then!"
+      "1": "Steven: Do you have any rare Pokémon?\n$Wallace: Steven... We are here for a battle, not to show off our Pokémon.\n$Steven: Oh... I see... Let’s go then!"
     },
     "victory": {
-      "1": "Steven: Now that we are done with the battle, let's show off our Pokémon!\n$Wallace: Steven..."
+      "1": "Steven: Now that we are done with the battle, let’s show off our Pokémon!\n$Wallace: Steven..."
     }
   },
   "cynthia_diantha": {
     "encounter": {
-      "1": "Cynthia: The best way to grow as a Trainer is to battle strong opponents.\n$Diantha: I agree. Let's see if you can handle our strength!"
+      "1": "Cynthia: The best way to grow as a Trainer is to battle strong opponents.\n$Diantha: I agree. Let’s see if you can handle our strength!"
     },
     "victory": {
       "1": "Cynthia: You seems to have a lot of potential.\n$Diantha: One day you might become a Champion too!"
@@ -3010,8 +3010,8 @@
   },
   "iris_alder": {
     "encounter": {
-      "1": "Iris: Welcome Challenger! I am THE Unova Champion!\n$Alder: Iris, aren't you a bit too excited?",
-      "1_female": "Iris: Welcome Challenger! I am THE Unova Champion!\n$Alder: Iris, aren't you a bit too excited?"
+      "1": "Iris: Welcome Challenger! I am THE Unova Champion!\n$Alder: Iris, aren’t you a bit too excited?",
+      "1_female": "Iris: Welcome Challenger! I am THE Unova Champion!\n$Alder: Iris, aren’t you a bit too excited?"
     },
     "victory": {
       "1": "Iris: A loss like this is not easy to take...\n$Alder: But we will only get stronger with every loss!"
@@ -3019,7 +3019,7 @@
   },
   "hau_kukui": {
     "encounter": {
-      "1": "Hau: Hey, let's have a battle!\n$Kukui: I'm in too! Let's see what you've got!"
+      "1": "Hau: Hey, let’s have a battle!\n$Kukui: I’m in too! Let’s see what you’ve got!"
     },
     "victory": {
       "1": "Hau: Wow you have some strong Pokémon!\n$Kukui: On a path to becoming a Pokémon Master!"
@@ -3027,15 +3027,15 @@
   },
   "leon_hop": {
     "encounter": {
-      "1": "Leon: It's Champ time!\n$Hop: My brother is the Champion! And one day I will be too!"
+      "1": "Leon: It’s Champ time!\n$Hop: My brother is the Champion! And one day I will be too!"
     },
     "victory": {
-      "1": "Leon: A sensational battle! You are worthy of becoming a Champion!\n$Hop: I'll get you next time!"
+      "1": "Leon: A sensational battle! You are worthy of becoming a Champion!\n$Hop: I’ll get you next time!"
     }
   },
   "geeta_nemona": {
     "encounter": {
-      "1": "Geeta: This final test is a battle against me, the Top Champion!\n$Nemona: And me, Champion of Paldea! Let's see if you can handle our power!"
+      "1": "Geeta: This final test is a battle against me, the Top Champion!\n$Nemona: And me, Champion of Paldea! Let’s see if you can handle our power!"
     },
     "victory": {
       "1": "Geeta: Such overwhelming power… Such amazing skill…\n$Nemona: This was fun! Lets battle again sometime!"
