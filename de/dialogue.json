@@ -2968,6 +2968,96 @@
       "1": "Wow, was für ein Kampf!\n$Es ist Zeit für dich, noch härter zu trainieren."
     }
   },
+  "blue_red": {
+    "encounter": {
+      "1": "Blau: Hey Rot, lass uns ihnen zeigen, was wir drauf haben!\n$Rot: ...\n$Blau: Das ist die Macht von Alabastia!"
+    },
+    "victory": {
+      "1": "Blau: Das war ein großartiger Kampf!\n$Rot: ..."
+    }
+  },
+  "lance_clair": {
+    "encounter": {
+      "1": "Siegfried: Ich bin der Champ der Pokémon-Liga!\n$Sandra: Ich bin die Drachenmeisterin!\n$Siegfried: Bist du bereit für die Macht der Drachen?"
+    },
+    "victory": {
+      "1": "Siegfried: Ich bin beeindruckt! Du hast die Macht der Drachen besiegt!\n$Sandra: Du hast wirklich ein großes Talent!"
+    }
+  },
+  "tate_liza": {
+    "encounter": {
+      "1": "Ben: Hehehe...Bist du überrascht?\n$Svenja: Wir sind zwei Arenaleiter auf einmal!\n$Ben: Wir sind Zwillinge!\n$Svenja: Wir müssen nicht reden um uns gegenseitig zu verstehen!\n$Ben: Die doppelte Kraft...\n$Svenja: Kannst du ihr standhalten?"
+    },
+    "victory": {
+      "1": "Ben: Was? Unsere Kombination war perfekt!\n$Svenja: Sieht so aus als müssten wir wohl mehr tranieren..."
+    }
+  },
+  "steven_wallace": {
+    "encounter": {
+      "1": "Troy: Hast du irgendwelche seltenen Pokémon?\n$Wassili: Troy... Wir sind hier um zu kämpfen und nicht um mit unseren Pokémon zu prahlen...\n$Troy: Oh... Wenn das so ist... Lass uns anfangen!"
+    },
+    "victory": {
+      "1": "Troy: Jetzt da wir mit Kämpfen fertig sind... Lass uns mit unsereren Pokémon prahlen!\n$Wassili: Troy..."
+    }
+  },
+  "cynthia_diantha": {
+    "encounter": {
+      "1": "Cynthia: Der beste Weg, um als Trainer zu wachsen, ist es, gegen starke Gegner zu kämpfen.\n$Diantha: Ich stimme zu. Lass uns sehen, ob du es mit uns aufnehmen kannst!"
+    },
+    "victory": {
+      "1": "Cynthia: Du hast wirklich ein großes Talent!\n$Diantha: Ich bin beeindruckt! Eines Tages bist vielleicht du der Champion!"
+    }
+  },
+  "iris_alder": {
+    "encounter": {
+      "1": "Lilia: Willkommen Herausforderer! Ich bin DER Champion von Einall!\n$Lauro: Lilia, bist du nicht etwas zu aufgeregt?",
+      "1_female": "Lilia: Willkommen Herausforderer! Ich bin DER Champion von Einall!\n$Lauro: Lilia, bist du nicht etwas zu aufgeregt?"
+    },
+    "victory": {
+      "1": "Lilia: Eine solche Niederlage ist nicht einfach zu verkraften...\n$Lauro: Aber wir wachsen an unseren Niederlagen und werden immer besser!"
+    }
+  },
+  "hau_kukui": {
+    "encounter": {
+      "1": "Tali: Hey, lass uns kämpfen!\n$Kukui: Ich bin auch dabei! Zeig uns was du drauf hast!"
+    },
+    "victory": {
+      "1": "Tali: Wow, du hast sehr starke Pokémon!\n$Kukui: Du bist auf dem Weg ein waschechter Pokémon-Meister zu werden!"
+    }
+  },
+  "leon_hop": {
+    "encounter": {
+      "1": "Delion: Es ist Champ-Time!\n$Hop: Mein Bruder ist der Champion! Und eines Tages werde ich es auch sein!"
+    },
+    "victory": {
+      "1": "Delion: Ein sensationeller Kampf! Du bist auf dem Weg ein Champion zu werden!\n$Hop: Beim nächsten Mal schaffe ich es!"
+    }
+  },
+  "geeta_nemona": {
+    "encounter": {
+      "1": "Sagaria: Dieser letzte Test ist ein Kampf gegen mich, den Top-Champ!\n$Nemila: Und mich, den Champion von Paldea! Mal sehen, ob du mit unserer Kraft umgehen kannst!"
+    },
+    "victory": {
+      "1": "Sagaria: So eine überwältigende Kraft… So unglaubliches Können…\n$Nemila: Das hat Spaß gemacht! Lass uns wieder kämpfen!"
+    }
+  },
+  "kieran_carmine": {
+    "encounter": {
+      "1": "Jo: Hana, schau mal. Ein neues Gesicht.\n$Hana: Bist du ein neuer Herausforderer? Wenn du an uns vorbei willst, musst du uns zuerst besiegen!\n$Jo: Hana, du bist zu direkt."
+    },
+    "victory": {
+      "1": "Jo: Wie haben wir verloren? Was ist dein Geheimnis?\n$Hana: Das war ein schöner Kampf. Hoffentlich sehen wir uns wieder!"
+    }
+  },
+  "marnie_piers": {
+    "encounter": {
+      "1": "Nezz: Bereit für ein Konzert?\n$Mary: Bruder...Sie sind hier um zu kämpfen, nicht um zu singen...",
+      "1_female": "Nezz: Bereit für ein Konzert?\n$Mary: Bruder...Sie sind hier um zu kämpfen, nicht um zu singen..."
+    },
+    "victory": {
+      "1": "Nezz: Das war mal ein großartiges Konzert!\n$Marnie: Bruder..."
+    }
+  },
   "rival": {
     "encounter": {
       "1": "@c{smile}Hey, ich habe dich gesucht! Ich weiß, dass du es nicht erwarten konntest loszugehen,\n$aber hättest ja wenigstens Tschüss sagen können...\n$@c{smile_eclosed}Du verfolgst also wirklich deinen Traum?\nIch kann es kaum glauben.\n$@c{serious_smile_fists}Da wir schon einmal hier sind, wie wäre es mit einem Kampf?\nImmerhin muss ich doch sicherstellen, dass du bereit bist.\n$@c{serious_mopen_fists}Halte dich nicht zurück, zeig mir alles was du hast!"
