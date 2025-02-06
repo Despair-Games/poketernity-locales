@@ -35,8 +35,6 @@
   "language": "Sprache",
   "change": "Ändern",
   "uiTheme": "UI Thema",
-  "default": "Standard",
-  "legacy": "Legacy",
   "windowType": "Fenster Typ",
   "moneyFormat": "Währungsformat",
   "damageNumbers": "Schadensnummern",

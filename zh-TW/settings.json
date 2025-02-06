@@ -31,8 +31,6 @@
   "language": "語言",
   "change": "選擇",
   "uiTheme": "界面風格",
-  "default": "默認",
-  "legacy": "經典",
   "windowType": "窗口類型",
   "moneyFormat": "金錢格式",
   "damageNumbers": "傷害數字",

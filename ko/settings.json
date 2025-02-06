@@ -35,8 +35,6 @@
   "language": "언어",
   "change": "변경",
   "uiTheme": "UI 테마",
-  "default": "기본",
-  "legacy": "레거시",
   "windowType": "윈도우 타입",
   "moneyFormat": "소지금 표시",
   "damageNumbers": "데미지 숫자 표시",

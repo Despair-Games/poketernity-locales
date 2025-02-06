@@ -35,8 +35,6 @@
   "language": "语言",
   "change": "选择",
   "uiTheme": "界面风格",
-  "default": "默认",
-  "legacy": "经典",
   "windowType": "窗口类型",
   "moneyFormat": "金钱格式",
   "damageNumbers": "伤害数字",
