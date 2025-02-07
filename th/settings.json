@@ -51,7 +51,6 @@
   "masterVolume": "ระดับเสียงหลัก",
   "bgmVolume": "ระดับเสียงเพลงพื้นหลัง",
   "seVolume": "ระดับเสียงเอฟเฟกต์",
-  "musicPreference": "การตั้งค่าดนตรี",
   "gamepadPleasePlug": "กรุณาเสียบ Gamepad หรือกดปุ่ม",
   "delete": "ลบ",
   "keyboardPleasePress": "กรุณากดปุ่มบน Keyboard ของคุณ",
