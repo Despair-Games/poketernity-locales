@@ -35,8 +35,6 @@
   "language": "Idioma",
   "change": "Mudar",
   "uiTheme": "Tema da Interface",
-  "default": "Padrão",
-  "legacy": "Legado",
   "windowType": "Estilo da Janela",
   "moneyFormat": "Formatação do Dinheiro",
   "damageNumbers": "Números de Dano",

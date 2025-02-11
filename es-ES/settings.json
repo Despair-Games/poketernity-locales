@@ -31,8 +31,6 @@
   "language": "Idioma",
   "change": "Cambiar",
   "uiTheme": "Color UI",
-  "default": "Predet.",
-  "legacy": "Clásico",
   "windowType": "Ventana",
   "moneyFormat": "Formato dinero",
   "damageNumbers": "Cifras de daño",

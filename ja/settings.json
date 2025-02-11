@@ -35,8 +35,6 @@
   "language": "言語",
   "change": "変更",
   "uiTheme": "UIテーマ",
-  "default": "デフォルト",
-  "legacy": "レガシー",
   "windowType": "ウィンドウタイプ",
   "moneyFormat": "お金の表示形式",
   "damageNumbers": "ダメージ表示",
