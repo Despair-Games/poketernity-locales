@@ -46,5 +46,6 @@
   "illNeverForgetYou": "I’ll never forget you, {{pokemonName}}!",
   "untilWeMeetAgain": "Until we meet again, {{pokemonName}}!",
   "sayonara": "Sayonara, {{pokemonName}}!",
+  "cannotReleasePokemon": "You can't release your only usable Pokemon!",
   "smellYaLater": "Smell ya later, {{pokemonName}}!"
 }
