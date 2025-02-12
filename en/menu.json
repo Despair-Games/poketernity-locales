@@ -10,7 +10,6 @@
   "username": "Username",
   "password": "Password",
   "login": "Login",
-  "loginBeta": "Login (Beta)",
   "orUse": "Or use",
   "register": "Register",
   "emptyUsername": "Username must not be empty",

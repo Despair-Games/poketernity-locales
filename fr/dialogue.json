@@ -184,7 +184,7 @@
   },
   "twins": {
     "encounter": {
-      "1": "Tiens-toi prêt, car quand on fait équipe,\nc'est deux fois plus les problèmes !",
+      "1": "Tiens-toi prêt, car quand on fait équipe,\nc’est deux fois plus les problèmes !",
       "2": "Deux âmes, une stratégie !\nVoyons si tu fais face à notre pouvoir gémellaire !",
       "3": "Tiens-toi prêt à suer, car la température est sur le point de doubler !",
       "3_female": "Tiens-toi prête à suer, car la température est sur le point de doubler !"
@@ -204,7 +204,7 @@
     "encounter": {
       "1": "Prépare-toi à manger la poussière !",
       "2": "Passe à la vitesse supérieure, sinon je vais te laisser sur le carreau !",
-      "3": "Allez, mouline plus vite !\nVoyons si t'arrives à tenir la cadence !"
+      "3": "Allez, mouline plus vite !\nVoyons si t’arrives à tenir la cadence !"
     },
     "victory": {
       "1": "Le terrain était mauvais pour moi.",
@@ -244,14 +244,14 @@
     "victory": {
       "1": "Non… C’est une blague, c’est ça ?\nMais comment c’est possible ?!",
       "2": "T’as du talent, je te l’accorde.",
-      "3": "Et voilà, j'ai encore perdu…"
+      "3": "Et voilà, j’ai encore perdu…"
     }
   },
   "jupiter": {
     "encounter": {
       "1": "Enchantée, Jupiter.\nAdmin de la Team Galaxie, à ton service.",
       "2": "Tout résistance est inutile.\nLa Team Galaxie prévaudra !",
-      "3": "T'arrêtes pas de trembler.\nDéjà peur ?"
+      "3": "T’arrêtes pas de trembler.\nDéjà peur ?"
     },
     "victory": {
       "1": "Comment oses-tu ?!",
@@ -409,8 +409,8 @@
       "2": "Ce manque de respect, j’hallucine ! T’es allé trop loin, le mioche !",
       "2_female": "Ce manque de respect, j’hallucine ! T’es allée trop loin, la mioche !",
       "3": "On est juste des gars et des meufs normaux, on voit un Pokémon on le prend !",
-      "4": "Pourquoi tu te la joue comme ça ? C'est avec tes dents que t’vas jouer frérot.",
-      "4_female": "Pourquoi tu te la joue comme ça ? C'est avec tes dents que t’vas jouer ma reus.",
+      "4": "Pourquoi tu te la joue comme ça ? C’est avec tes dents que t’vas jouer frérot.",
+      "4_female": "Pourquoi tu te la joue comme ça ? C’est avec tes dents que t’vas jouer ma reus.",
       "5": "Cousin, écoute-nous bien ! ♪\nSe taper dessus, ça sert à rien ! ♪\n$Tu t’incrustes chez nous, ça s’fait pas ! ♪\nMais on est sympa, on a un plan pour toi ! ♪",
       "5_female": "Cousine, écoute-nous bien ! ♪\nSe taper dessus, ça sert à rien ! ♪\n$Tu t’incrustes chez nous, ça s’fait pas ! ♪\nMais on est sympa, on a un plan pour toi ! ♪"
     },
@@ -433,7 +433,7 @@
       "1": "Tsk. T’es pas mauvais. J’te l’accorde.",
       "1_female": "Tsk. T’es pas mauvaise. J’te l’accorde.",
       "2": "Tsk. J’dois reconnaitre que t’en as dans le ventre.\n$Maintenant, j’comprends pourquoi mes gars n’arrêtent pas de se faire battre par toi.",
-      "3": "Tsk. J’crois que j'ai plus qu’à assumer ma défaite."
+      "3": "Tsk. J’crois que j’ai plus qu’à assumer ma défaite."
     }
   },
   "macro_grunt": {
@@ -478,7 +478,7 @@
       "5_female": "Quoi ? Toi aussi, t’es venue me casser les pieds ? C’est vraiment pas ma journée…"
     },
     "victory": {
-      "1": "Comment c'est ça peut être moi qui voit les étoiles ?!",
+      "1": "Comment c’est ça peut être moi qui voit les étoiles ?!",
       "2": "T’en as dans le ventre.\n$T’as peut-être ce qu’il faut pour te faire une place dans la constellation de la Team Star.",
       "2_female": "T’en as dans le ventre.\n$T’as peut-être ce qu’il faut pour te faire une place dans la constellation de la Team Star.",
       "3": "Ma défense était pourtant bonne…\nMais c’était pas assez visiblement !",
@@ -968,8 +968,8 @@
   },
   "janine": {
     "encounter": {
-      "1": "Je suis maitresse dans l’art des capacités Poison !\nÇa te dis de t'entrainer avec moi ?\n",
-      "2": "Mon père est persuadé que je peux m'en tirer seule !\nEt je vais lui prouver !",
+      "1": "Je suis maitresse dans l’art des capacités Poison !\nÇa te dis de t’entrainer avec moi ?\n",
+      "2": "Mon père est persuadé que je peux m’en tirer seule !\nEt je vais lui prouver !",
       "3": "Ma technique est presque aussi parfaite que celle\nde mon père ! Tu penses pouvoir suivre ?"
     },
     "victory": {
