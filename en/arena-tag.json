@@ -75,9 +75,9 @@
   "TypeImmuneDamageOverTimeOnAddEnemyFIRE": "The opposing Pokemon got surrounded by fire!",
   "TypeImmuneDamageOverTimeOnAddEnemyWATER": "The opposing Pokemon got caught in the vortex of water!",
   "TypeImmuneDamageOverTimeOnAddEnemyROCK": "The opposing Pokemon got surrounded by rocks!",
-  "TypeImmuneDamageOverTimeLapseGRASS": "{{pokemonNameWithAffix}} is hurt by G-Max Vine Lash's ferocious beating!",
-  "TypeImmuneDamageOverTimeLapseFIRE": "{{pokemonNameWithAffix}} is burning up within G-Max Wildfire's flames!",
-  "TypeImmuneDamageOverTimeLapseWATER": "{{pokemonNameWithAffix}} is hurt by G-Max Cannonade's vortex!",
+  "TypeImmuneDamageOverTimeLapseGRASS": "{{pokemonNameWithAffix}} is hurt by G-Max Vine Lash’s ferocious beating!",
+  "TypeImmuneDamageOverTimeLapseFIRE": "{{pokemonNameWithAffix}} is burning up within G-Max Wildfire’s flames!",
+  "TypeImmuneDamageOverTimeLapseWATER": "{{pokemonNameWithAffix}} is hurt by G-Max Cannonade’s vortex!",
   "TypeImmuneDamageOverTimeLapseROCK": "{{pokemonNameWithAffix}} is hurt by the rocks thrown out by G-Max Volcalith!",
   "sharpSteelOnAdd": "Sharp-pointed pieces of steel\nstarted floating around {{opponentDesc}}!",
   "sharpSteelActivateTrap": "The sharp steel bit into\n{{pokemonNameWithAffix}}!"
