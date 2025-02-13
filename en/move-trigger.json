@@ -81,5 +81,5 @@
   "rageIsBuilding": "{{pokemonName}}'s rage is building!",
   "splash": "But nothing happened!",
   "celebrate": "Congratulations {{pokemonName}}!",
-  "holdHands": "{{pokemonName held hands with {{targetPokemonName}}!"
+  "holdHands": "{{pokemonName}} held hands with {{targetPokemonName}}!"
 }
