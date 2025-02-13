@@ -78,5 +78,8 @@
   "instructingMove": "{{targetPokemonName}} followed {{userPokemonName}}’s instructions!",
   "lunarDanceRestore" : "{{pokemonName}} became cloaked in mystical moonlight!",
   "stealPositiveStats": "{{pokemonname}} stole the target’s boosted stats!",
-  "rageIsBuilding": "{{pokemonName}}'s rage is building!"
+  "rageIsBuilding": "{{pokemonName}}'s rage is building!",
+  "splash": "But nothing happened!",
+  "celebrate": "Congratulations {{pokemonName}}!",
+  "holdHands": "{{pokemonName held hands with {{targetPokemonName}}!"
 }
