@@ -19,13 +19,15 @@
   "fogStartMessage": "A thick fog emerged!",
   "fogLapseMessage": "The fog continues.",
   "fogClearMessage": "The fog disappeared.",
-  "heavyRainStartMessage": "A heavy downpour started!",
+  "heavyRainStartMessage": "A heavy rain began to fall!",
   "heavyRainLapseMessage": "The heavy downpour continues.",
   "heavyRainClearMessage": "The heavy rain stopped.",
-  "harshSunStartMessage": "The sunlight got hot!",
+  "heavyRainStopAttackMessage": "The Fire-type attack fizzled out in the heavy rain!",
+  "harshSunStartMessage": "The sunlight turned extremely harsh!",
   "harshSunLapseMessage": "The sun is scorching hot.",
   "harshSunClearMessage": "The harsh sunlight faded.",
-  "strongWindsStartMessage": "A heavy wind began!",
+  "harshSunStopAttackMessage": "The Water-type attack evaporated in the harsh sunlight!"
+  "strongWindsStartMessage": "Mysterious strong winds are protecting Flying-type Pokémon!",
   "strongWindsLapseMessage": "The wind blows intensely.",
   "strongWindsEffectMessage": "The mysterious air current weakened the attack!",
   "strongWindsClearMessage": "The heavy wind stopped."
