@@ -149,7 +149,7 @@
     "RARER_CANDY": { "name": "Rarer Candy" },
 
     "MEGA_BRACELET": { "name": "Mega Bracelet", "description": "Mega Stones become available." },
-    "DYNAMAX_BAND": { "name": "Dynamax Band", "description": "Max Mushrooms become available." },
+    "DYNAMAX_BAND": { "name": "Dynamax Band", "description": "Max Mushrooms become available. Dynamax Pokemon take 1/3 less damage." },
     "TERA_ORB": { "name": "Tera Orb", "description": "Tera Shards become available." },
 
     "MAP": { "name": "Map", "description": "Allows you to choose your destination at a crossroads." },
