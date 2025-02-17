@@ -154,10 +154,6 @@
       "name": "メガバングル",
       "description": "メガストーンが 得られる ように なる"
     },
-    "DYNAMAX_BAND": {
-      "name": "ダイマックスバンド",
-      "description": "ダイキノコが 得られる ように なる"
-    },
     "TERA_ORB": {
       "name": "テラスタルオーブ",
       "description": "テラピースが 得られる ように なる"
