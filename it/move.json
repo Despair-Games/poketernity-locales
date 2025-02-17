@@ -2971,10 +2971,6 @@
     "name": "Dynabarriera",
     "effect": "Questa mossa permette di eludere tutti gli attacchi. Se usata in successione può fallire."
   },
-  "dynamaxCannon": {
-    "name": "Cannone Dynamax",
-    "effect": "Il Pokémon attacca emettendo dal suo nucleo l'energia concentrata nel corpo. Se il bersaglio è overlivellato, i danni inflitti aumentano."
-  },
   "snipeShot": {
     "name": "Tiromirato",
     "effect": "Permette di attaccare il bersaglio ignorando gli effetti di mosse e abilità che alterano le mosse"
@@ -3118,14 +3114,6 @@
   "pyroBall": {
     "name": "Palla Infuocata",
     "effect": "l Pokémon attacca con una palla creata incendiando una piccola pietra. Può anche scottare il bersaglio."
-  },
-  "behemothBlade": {
-    "name": "Taglio Maestoso",
-    "effect": "Il Pokémon brandisce un'enorme spada e attacca vibrando un poderoso fendente."
-  },
-  "behemothBash": {
-    "name": "Colpo Maestoso",
-    "effect": "Il Pokémon trasforma il suo corpo in un robusto scudo e attacca caricando con forza."
   },
   "auraWheel": {
     "name": "Ruota d'Aura",
