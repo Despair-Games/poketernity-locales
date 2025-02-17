@@ -2971,10 +2971,6 @@
     "name": "Maxibarrera",
     "effect": "Frena todos los ataques, pero puede fallar si se usa repetidamente."
   },
-  "dynamaxCannon": {
-    "name": "Cañón Dinamax",
-    "effect": "El usuario ataca emitiendo un rayo desde su núcleo. Inflinge hasta el doble de daño si el objetivo tiene más niveles de lo normal."
-  },
   "snipeShot": {
     "name": "Disparo Certero",
     "effect": "Permite atacar al objetivo seleccionado ignorando las habilidades o movimientos que permiten a un Pokémon centrar la atención sobre sí."
@@ -3118,14 +3114,6 @@
   "pyroBall": {
     "name": "Balón Ígneo",
     "effect": "El usuario prende una pequeña piedra para crear una bola de fuego con la que ataca al objetivo. Puede causar quemaduras."
-  },
-  "behemothBlade": {
-    "name": "Tajo Supremo",
-    "effect": "El usuario se convierte en una espada gigante para rebanar con vigor al objetivo."
-  },
-  "behemothBash": {
-    "name": "Embate Supremo",
-    "effect": "El usuario se convierte en un escudo gigante para golpear con vigor al objetivo."
   },
   "auraWheel": {
     "name": "Rueda Aural",
