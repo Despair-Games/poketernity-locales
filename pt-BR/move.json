@@ -2927,10 +2927,6 @@
     "name": "Pika Papow",
     "effect": "Quanto mais o Pikachu ama seu Treinador, maior o poder do movimento. Nunca erra."
   },
-  "bouncyBubble": {
-    "name": "Bouncy Bubble",
-    "effect": "O usuário dispara bolhas de água contra o alvo. Em seguida, absorve água e restaura seus PS em metade do dano sofrido pelo alvo."
-  },
   "buzzyBuzz": {
     "name": "Buzzy Buzz",
     "effect": "O usuário dispara um choque de eletricidade para atacar o alvo. Isso também deixa o alvo paralisado."
