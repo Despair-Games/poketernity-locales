@@ -2971,6 +2971,10 @@
     "name": "Max Guard",
     "effect": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession."
   },
+  "dynamaxCannon": {
+    "name": "Dynamax Cannon",
+    "effect": "The user unleashes a strong beam from its core. This move deals twice the damage if the target is Dynamaxed."
+  },
   "snipeShot": {
     "name": "Snipe Shot",
     "effect": "The user ignores the effects of opposing Pokémon’s moves and Abilities that draw in moves, allowing this move to hit the chosen target."
