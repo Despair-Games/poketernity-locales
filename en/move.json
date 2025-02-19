@@ -2973,7 +2973,7 @@
   },
   "dynamaxCannon": {
     "name": "Dynamax Cannon",
-    "effect": "The user unleashes a strong beam from its core. Deals up to twice the damage if the target is overly leveled."
+    "effect": "The user unleashes a strong beam from its core. This move deals twice the damage if the target is Dynamaxed."
   },
   "snipeShot": {
     "name": "Snipe Shot",
@@ -3121,11 +3121,11 @@
   },
   "behemothBlade": {
     "name": "Behemoth Blade",
-    "effect": "The user wields a large, powerful sword using its whole body and cuts the target in a vigorous attack."
+    "effect": "The user wields a large, powerful sword using its whole body and cuts the target in a vigorous attack. This move deals twice the damage if the target is Dynamaxed."
   },
   "behemothBash": {
     "name": "Behemoth Bash",
-    "effect": "The user’s body becomes a firm shield and slams into the target fiercely."
+    "effect": "The user’s body becomes a firm shield and slams into the target fiercely. This move deals twice the damage if the target is Dynamaxed."
   },
   "auraWheel": {
     "name": "Aura Wheel",

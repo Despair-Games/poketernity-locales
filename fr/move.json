@@ -2971,10 +2971,6 @@
     "name": "Gardomax",
     "effect": "Le lanceur se protège de toutes les attaques. Peut échouer si utilisée plusieurs fois de suite."
   },
-  "dynamaxCannon": {
-    "name": "Canon Dynamax",
-    "effect": "Le lanceur attaque en libérant l’énergie concentrée dans son noyau. Inflige jusqu’à deux fois plus de dégâts si l’adversaire a un niveau très élevé."
-  },
   "snipeShot": {
     "name": "Tir de Précision",
     "effect": "Le lanceur parvient toujours à viser la cible voulue, en ignorant l’effet des talents et des capacités capables de détourner les attaques."
@@ -3118,14 +3114,6 @@
   "pyroBall": {
     "name": "Ballon Brulant",
     "effect": "Le lanceur attaque avec un ballon fait à partir d’un caillou enflammé. Peut aussi bruler la cible (10% de chances)."
-  },
-  "behemothBlade": {
-    "name": "Gladius Maximus",
-    "effect": "Le lanceur se transforme en une immense épée et pourfend sa cible."
-  },
-  "behemothBash": {
-    "name": "Aegis Maxima",
-    "effect": "Le lanceur se transforme en un immense bouclier et charge sa cible."
   },
   "auraWheel": {
     "name": "Roue Libre",
