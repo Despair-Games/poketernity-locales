@@ -90,7 +90,7 @@
   "grudgeLapse": "{{pokemonNameWithAffix}} lost all of {{moveName}}’s PP due to the grudge!",
   "groundedSmackDown": "{{pokemonNameWithAffix}} fell straight down!",
   "uproarOnAdd": "{{pokemonNameWithAffix}} caused an uproar!",
-  "uproarOnCureSleep": "The uproar woke {{pokemonNameWithAffix}}",
+  "uproarOnCureSleep": "The uproar woke {{pokemonNameWithAffix}}!",
   "uproarOnRemove": "{{pokemonNameWithAffix}} calmed down.",
   "uproarOnPreventSleep": "But the uproar kept {{pokemonNameWithAffix}} awake!"
 }
