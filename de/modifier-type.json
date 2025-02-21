@@ -156,7 +156,7 @@
     },
     "DYNAMAX_BAND": {
       "name": "Dynamax-Band",
-      "description": "Dyna-Pilze werden verfügbar."
+      "description": "Dyna-Pilze werden verfügbar. Erlaubt es deinem Pokémon eine Dynamaximierung durchzuführen. Es erhählt 1/3 weniger Schaden."
     },
     "TERA_ORB": {
       "name": "Terakristall-Orb",
