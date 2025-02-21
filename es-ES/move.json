@@ -2927,10 +2927,6 @@
     "name": "Pikatormenta",
     "effect": "Lanza una descarga eléctrica infalible que resulta más potente cuanto mayor es el cariño que siente Pikachu hacia su Entrenador."
   },
-  "bouncyBubble": {
-    "name": "Vapodrenaje",
-    "effect": "Ataca lanzando proyectiles de agua y recupera una cantidad de PS equivalente a la mitad del daño causado."
-  },
   "buzzyBuzz": {
     "name": "Joltioparálisis",
     "effect": "Lanza una potente descarga eléctrica sobre el rival y lo deja paralizado."
