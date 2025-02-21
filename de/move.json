@@ -2927,7 +2927,7 @@
     "name": "Pika-Flash",
     "effect": "Je größer das Vertrauen des Anwenders zu seinem Trainer ist, desto stärker fällt dieser Angriff aus. Diese Attacke trifft immer."
   },
-   "bouncyBubble": {
+  "bouncyBubble": {
     "name": "Blubbsauger",
     "effect": "Der Anwender greift mit Wasserblasen an. Seine KP werden um des vom Wasser angerichteten Schadens geheilt."
   },
