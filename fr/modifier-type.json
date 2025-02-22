@@ -385,38 +385,6 @@
       "name": "Poké Ball Dorée",
       "description": "Ajoute un choix d’objet à la boutique gratuite."
     },
-    "ENEMY_DAMAGE_BOOSTER": {
-      "name": "Jeton Dégâts",
-      "description": "Augmente les dégâts de 5%."
-    },
-    "ENEMY_DAMAGE_REDUCTION": {
-      "name": "Jeton Protection",
-      "description": "Diminue les dégâts reçus de 2,5%."
-    },
-    "ENEMY_HEAL": {
-      "name": "Jeton Soin",
-      "description": "Soigne 2% des PV max à chaque tour."
-    },
-    "ENEMY_ATTACK_POISON_CHANCE": {
-      "name": "Jeton Poison"
-    },
-    "ENEMY_ATTACK_PARALYZE_CHANCE": {
-      "name": "Jeton Paralysie"
-    },
-    "ENEMY_ATTACK_BURN_CHANCE": {
-      "name": "Jeton Brulure"
-    },
-    "ENEMY_STATUS_EFFECT_HEAL_CHANCE": {
-      "name": "Jeton Total Soin",
-      "description": "Ajoute 2,5% de chances à chaque tour de se soigner d’un problème de statut."
-    },
-    "ENEMY_ENDURE_CHANCE": {
-      "name": "Jeton Ténacité"
-    },
-    "ENEMY_FUSED_CHANCE": {
-      "name": "Jeton Fusion",
-      "description": "Ajoute 1% de chances qu’un Pokémon sauvage soit une fusion."
-    },
     "MYSTERY_ENCOUNTER_SHUCKLE_JUICE": {
       "name": "Jus de Caratroc"
     },

@@ -380,45 +380,7 @@
     "GOLDEN_POKEBALL": {
       "name": "黃金精靈球",
       "description": "在每場戰鬥結束後增加一個額外物品選項。"
-    },
-    "ENEMY_DAMAGE_BOOSTER": {
-      "name": "傷害硬幣",
-      "description": "增加5%造成傷害。"
-    },
-    "ENEMY_DAMAGE_REDUCTION": {
-      "name": "防禦硬幣",
-      "description": "減少2.5%承受傷害。"
-    },
-    "ENEMY_HEAL": {
-      "name": "恢復硬幣",
-      "description": "每回合恢復2%最大HP。"
-    },
-    "ENEMY_ATTACK_POISON_CHANCE": {
-      "name": "劇毒硬幣"
-    },
-    "ENEMY_ATTACK_PARALYZE_CHANCE": {
-      "name": "麻痹硬幣"
-    },
-    "ENEMY_ATTACK_BURN_CHANCE": {
-      "name": "灼燒硬幣"
-    },
-    "ENEMY_STATUS_EFFECT_HEAL_CHANCE": {
-      "name": "萬靈藥硬幣",
-      "description": "增加2.5%每回合治癒異常狀態的概率。"
-    },
-    "ENEMY_ENDURE_CHANCE": {
-      "name": "忍受硬幣"
-    },
-    "ENEMY_FUSED_CHANCE": {
-      "name": "融合硬幣",
-      "description": "增加1%野生融合寶可夢出現概率。"
-    },
-
-    "MYSTERY_ENCOUNTER_SHUCKLE_JUICE": { "name": "Shuckle Juice" },
-    "MYSTERY_ENCOUNTER_BLACK_SLUDGE": { "name": "Black Sludge", "description": "The stench is so powerful that shops will only sell you items at a steep cost increase." },
-    "MYSTERY_ENCOUNTER_MACHO_BRACE": { "name": "Macho Brace", "description": "Defeating a Pokémon grants the holder a Macho Brace stack. Each stack slightly boosts stats, with an extra bonus at max stacks." },
-    "MYSTERY_ENCOUNTER_OLD_GATEAU": { "name": "Old Gateau", "description": "Increases the holder's {{stats}} stats by {{statValue}}." },
-    "MYSTERY_ENCOUNTER_GOLDEN_BUG_NET": { "name": "Golden Bug Net", "description": "Imbues the owner with luck to find Bug Type Pokémon more often. Has a strange heft to it." }
+    }
   },
   "SpeciesBoosterItem": {
     "LIGHT_BALL": {

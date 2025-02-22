@@ -385,38 +385,6 @@
       "name": "ゴールドモンスターボール",
       "description": "バトル後に もう 一つの ご褒美の 選択肢を 加える"
     },
-    "ENEMY_DAMAGE_BOOSTER": {
-      "name": "ダメージトークン",
-      "description": "ダメージを 5% あげる"
-    },
-    "ENEMY_DAMAGE_REDUCTION": {
-      "name": "ぼうごトークン",
-      "description": "受けたダメージを 2.5% さげる"
-    },
-    "ENEMY_HEAL": {
-      "name": "かいふくトークン",
-      "description": "毎ターン 最大HPの 2%を 回復する"
-    },
-    "ENEMY_ATTACK_POISON_CHANCE": {
-      "name": "どくトークン"
-    },
-    "ENEMY_ATTACK_PARALYZE_CHANCE": {
-      "name": "まひトークン"
-    },
-    "ENEMY_ATTACK_BURN_CHANCE": {
-      "name": "やけどトークン"
-    },
-    "ENEMY_STATUS_EFFECT_HEAL_CHANCE": {
-      "name": "なんでもなおしトークン",
-      "description": "毎ターン 状態異常を 治せる 2.5%の可能性を 加える"
-    },
-    "ENEMY_ENDURE_CHANCE": {
-      "name": "こらえるトークン"
-    },
-    "ENEMY_FUSED_CHANCE": {
-      "name": "がったいトークン",
-      "description": "野生ポケモンは 吸収合体している 1%の可能性を 加える"
-    },
     "MYSTERY_ENCOUNTER_SHUCKLE_JUICE": {
       "name": "ツボツボジュース"
     },

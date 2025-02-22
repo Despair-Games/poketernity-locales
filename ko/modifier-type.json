@@ -385,38 +385,6 @@
       "name": "황금몬스터볼",
       "description": "전투 후 획득하는 아이템의 선택지가 하나 더 늘어난다."
     },
-    "ENEMY_DAMAGE_BOOSTER": {
-      "name": "데미지 토큰",
-      "description": "주는 데미지를 5% 증가시킨다."
-    },
-    "ENEMY_DAMAGE_REDUCTION": {
-      "name": "보호 토큰",
-      "description": "받는 데미지를 2.5% 감소시킨다."
-    },
-    "ENEMY_HEAL": {
-      "name": "회복 토큰",
-      "description": "매 턴 최대 체력의 2%를 회복한다."
-    },
-    "ENEMY_ATTACK_POISON_CHANCE": {
-      "name": "독 토큰"
-    },
-    "ENEMY_ATTACK_PARALYZE_CHANCE": {
-      "name": "마비 토큰"
-    },
-    "ENEMY_ATTACK_BURN_CHANCE": {
-      "name": "화상 토큰"
-    },
-    "ENEMY_STATUS_EFFECT_HEAL_CHANCE": {
-      "name": "만병통치 토큰",
-      "description": "매 턴 상태이상에서 회복될 확률이 2.5% 추가된다."
-    },
-    "ENEMY_ENDURE_CHANCE": {
-      "name": "버티기 토큰"
-    },
-    "ENEMY_FUSED_CHANCE": {
-      "name": "합체 토큰",
-      "description": "야생 포켓몬이 합체되어 등장할 확률이 1% 추가된다."
-    },
     "MYSTERY_ENCOUNTER_SHUCKLE_JUICE": {
       "name": "단단지주스"
     },
