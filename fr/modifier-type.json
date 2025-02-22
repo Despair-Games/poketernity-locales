@@ -375,9 +375,6 @@
       "name": "Scanner d’IV",
       "description": "Révèle la qualité de deux IV d’un Pokémon sauvage par scanner possédé. Les meilleurs IV sont révélés en priorité."
     },
-    "DNA_SPLICERS": {
-      "name": "Pointeau ADN"
-    },
     "MINI_BLACK_HOLE": {
       "name": "Mini Trou Noir"
     },

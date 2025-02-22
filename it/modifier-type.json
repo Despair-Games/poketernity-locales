@@ -375,9 +375,6 @@
       "name": "Scanner IV",
       "description": "Permette di scansionare gli IV dei Pokémon selvatici. Vengono rivelati 2 IV per ogni scanner. I migliori IV vengono mostrati per primi."
     },
-    "DNA_SPLICERS": {
-      "name": "Cuneo DNA"
-    },
     "MINI_BLACK_HOLE": {
       "name": "Piccolo buco nero"
     },

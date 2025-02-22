@@ -379,9 +379,6 @@
       "name": "IS-Scanner",
       "description": "Erlaubt es die IS-Werte von wilden Pokémon zu scannen.\n(2 IS-Werte pro Staplung. Die besten IS-Werte zuerst)."
     },
-    "DNA_SPLICERS": {
-      "name": "DNS-Keil"
-    },
     "MINI_BLACK_HOLE": {
       "name": "Mini schwarzes Loch"
     },

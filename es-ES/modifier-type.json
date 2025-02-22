@@ -375,9 +375,6 @@
       "name": "Escáner IV",
       "description": "Permite escanear los IVs de Pokémon salvajes. Se revelan 2 IVs por cada objeto.\nLos mejores IVs se muestran primero."
     },
-    "DNA_SPLICERS": {
-      "name": "Punta ADN"
-    },
     "MINI_BLACK_HOLE": {
       "name": "Mini Agujero Negro"
     },

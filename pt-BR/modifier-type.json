@@ -375,9 +375,6 @@
       "name": "Scanner de IVs",
       "description": "Permite escanear os IVs de Pokémon selvagens. 2 IVs são revelados por item. Os melhores IVs são mostrados primeiro."
     },
-    "DNA_SPLICERS": {
-      "name": "Splicer de DNA"
-    },
     "MINI_BLACK_HOLE": {
       "name": "Mini Buraco Negro"
     },

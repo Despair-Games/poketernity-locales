@@ -371,9 +371,6 @@
       "name": "個體值探測器",
       "description": "允許掃描野生寶可夢的個體值。 每個次顯示\n2個個體值. 最好的個體值優先顯示。"
     },
-    "DNA_SPLICERS": {
-      "name": "基因之楔"
-    },
     "MINI_BLACK_HOLE": {
       "name": "迷你黑洞"
     },
