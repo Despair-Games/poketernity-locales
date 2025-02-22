@@ -26,7 +26,6 @@
   "anyEffect": "Cela n’aura aucun effet.",
   "unpausedEvolutions": "{{pokemonName}} peut de nouveau évoluer.",
   "pausedEvolutions": "{{pokemonName}} ne peut plus évoluer.",
-  "unspliceConfirmation": "Voulez-vous vraiment séparer {{fusionName}}\nde {{pokemonName}} ? {{fusionName}} sera perdu.",
   "releaseConfirmation": "Voulez-vous relâcher {{pokemonName}} ?",
   "releaseInBattle": "Vous ne pouvez pas relâcher un Pokémon en combat !",
   "selectAMove": "Sélectionnez une capacité.",

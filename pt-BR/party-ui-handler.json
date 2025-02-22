@@ -26,7 +26,6 @@
   "anyEffect": "Isso não terá nenhum efeito.",
   "unpausedEvolutions": "Evoluções foram desativadas para {{pokemonName}}.",
   "pausedEvolutions": "Evoluções foram ativadas para {{pokemonName}}.",
-  "unspliceConfirmation": "Você realmente deseja desfazer a fusão de\n{{fusionName}} com {{pokemonName}}? {{fusionName}} será perdido.",
   "releaseConfirmation": "Você realmente deseja soltar {{pokemonName}}?",
   "releaseInBattle": "Você não pode soltar um Pokémon que está em batalha!",
   "selectAMove": "Selecione um movimento.",

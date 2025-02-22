@@ -26,7 +26,6 @@
   "anyEffect": "Non avrebbe alcun effetto.",
   "unpausedEvolutions": "{{pokemonName}} può di nuovo evolversi.",
   "pausedEvolutions": "Le evoluzioni sono state sospese per {{pokemonName}}.",
-  "unspliceConfirmation": "Vuoi davvero dividere {{fusionName}}\nda {{pokemonName}}? {{fusionName}} andrà perduto.",
   "releaseConfirmation": "Vuoi davvero liberare {{pokemonName}}?",
   "releaseInBattle": "Non puoi liberare un Pokémon che sta combattendo!",
   "selectAMove": "Scegli una mossa.",

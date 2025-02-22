@@ -24,7 +24,6 @@
   "tooManyItems": "¡{{pokemonName}} tiene\ndemasiado de este objeto!",
   "anyEffect": "No tendría ningún efecto.",
   "unpausedEvolutions": "Se reanudaron las evoluciones de {{pokemonName}}.",
-  "unspliceConfirmation": "¿Seguro que quiere separar a {{fusionName}}\nde {{pokemonName}}? {{fusionName}} se perderá.",
   "releaseConfirmation": "¿Quieres liberar a {{pokemonName}}?",
   "releaseInBattle": "¡No puedes liberar un Pokémon que está en batalla!",
   "selectAMove": "Selecciona un movimiento.",

@@ -26,7 +26,6 @@
   "anyEffect": "Das würde keine Wirkung zeigen.",
   "unpausedEvolutions": "Entwicklungen für {{pokemonName}} wurden wieder aktiviert.",
   "pausedEvolutions": "Entwicklung von {{pokemonName}} wurde pausiert.",
-  "unspliceConfirmation": "Willst du wirklich {{fusionName}} von {{pokemonName}} defusionieren? {{fusionName}} wird freigelassen.",
   "releaseConfirmation": "Möchtest du {{pokemonName}} wirklich freilassen?",
   "releaseInBattle": "Pokémon, die aktuell im Kampf sind, können nicht freigelassen werden.",
   "selectAMove": "Wähle eine Attacke.",
