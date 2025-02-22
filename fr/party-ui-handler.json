@@ -27,7 +27,6 @@
   "unpausedEvolutions": "{{pokemonName}} peut de nouveau évoluer.",
   "pausedEvolutions": "{{pokemonName}} ne peut plus évoluer.",
   "unspliceConfirmation": "Voulez-vous vraiment séparer {{fusionName}}\nde {{pokemonName}} ? {{fusionName}} sera perdu.",
-  "wasReverted": "{{fusionName}} est redevenu {{pokemonName}}.",
   "releaseConfirmation": "Voulez-vous relâcher {{pokemonName}} ?",
   "releaseInBattle": "Vous ne pouvez pas relâcher un Pokémon en combat !",
   "selectAMove": "Sélectionnez une capacité.",
