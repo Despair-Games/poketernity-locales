@@ -125,9 +125,6 @@
     "FormChangeItemModifierType": {
       "description": "Fa cambiare forma a determinati Pokémon."
     },
-    "FusePokemonModifierType": {
-      "description": "Combina due Pokémon (trasferisce i poteri, divide le statistiche e i tipi base, condivide il pool di mosse)."
-    },
     "TerastallizeModifierType": {
       "name": "Teralite {{teraType}}",
       "description": "Teracristallizza in {{teraType}} il possessore per massimo 10 battaglie."
@@ -378,47 +375,12 @@
       "name": "Scanner IV",
       "description": "Permette di scansionare gli IV dei Pokémon selvatici. Vengono rivelati 2 IV per ogni scanner. I migliori IV vengono mostrati per primi."
     },
-    "DNA_SPLICERS": {
-      "name": "Cuneo DNA"
-    },
     "MINI_BLACK_HOLE": {
       "name": "Piccolo buco nero"
     },
     "GOLDEN_POKEBALL": {
       "name": "Poké Ball dorata",
       "description": "Aggiunge 1 opzione di oggetto extra alla fine di ogni battaglia."
-    },
-    "ENEMY_DAMAGE_BOOSTER": {
-      "name": "Gettone del danno",
-      "description": "Aumenta i danni inflitti del 5%."
-    },
-    "ENEMY_DAMAGE_REDUCTION": {
-      "name": "Gettone della protezione",
-      "description": "Riduce i danni ricevuti del 2.5%."
-    },
-    "ENEMY_HEAL": {
-      "name": "Gettone del recupero",
-      "description": "Cura il 2% dei PS massimi ogni turno."
-    },
-    "ENEMY_ATTACK_POISON_CHANCE": {
-      "name": "Gettone del veleno"
-    },
-    "ENEMY_ATTACK_PARALYZE_CHANCE": {
-      "name": "Gettone della paralisi"
-    },
-    "ENEMY_ATTACK_BURN_CHANCE": {
-      "name": "Gettone della bruciatura"
-    },
-    "ENEMY_STATUS_EFFECT_HEAL_CHANCE": {
-      "name": "Gettone guarigione completa",
-      "description": "Aggiunge una probabilità del 2.5% a ogni turno di guarire da un problema di stato."
-    },
-    "ENEMY_ENDURE_CHANCE": {
-      "name": "Gettone di resistenza"
-    },
-    "ENEMY_FUSED_CHANCE": {
-      "name": "Gettone della fusione",
-      "description": "Aggiunge l'1% di possibilità che un Pokémon selvatico sia una fusione."
     },
     "MYSTERY_ENCOUNTER_SHUCKLE_JUICE": {
       "name": "Succo Shuckle"

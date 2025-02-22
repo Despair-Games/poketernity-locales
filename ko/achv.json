@@ -121,10 +121,6 @@
     "name": "숨겨진 타입",
     "description": "포켓몬을 스텔라 테라스탈"
   },
-  "SPLICE": {
-    "name": "끝없는 융합",
-    "description": "유전자쐐기로 두 포켓몬을 융합"
-  },
   "MINI_BLACK_HOLE": {
     "name": "도구가 가득한 구멍",
     "description": "미니 블랙홀 획득"

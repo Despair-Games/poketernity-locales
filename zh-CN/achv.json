@@ -121,10 +121,6 @@
     "name": "隐藏属性",
     "description": "星晶化一只宝可梦"
   },
-  "SPLICE": {
-    "name": "无限融合",
-    "description": "使用基因之楔将两只宝可梦\n融合在一起"
-  },
   "MINI_BLACK_HOLE": {
     "name": "一大洞的道具",
     "description": "获得一个迷你黑洞"
