@@ -125,9 +125,6 @@
     "FormChangeItemModifierType": {
       "description": "Fa cambiare forma a determinati Pokémon."
     },
-    "FusePokemonModifierType": {
-      "description": "Combina due Pokémon (trasferisce i poteri, divide le statistiche e i tipi base, condivide il pool di mosse)."
-    },
     "TerastallizeModifierType": {
       "name": "Teralite {{teraType}}",
       "description": "Teracristallizza in {{teraType}} il possessore per massimo 10 battaglie."

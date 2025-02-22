@@ -125,9 +125,6 @@
     "FormChangeItemModifierType": {
       "description": "Permet à certains Pokémon de changer de forme à son contact."
     },
-    "FusePokemonModifierType": {
-      "description": "Fusionne deux Pokémon (transfère le talent, sépare les stats de base et les types, partage les capacités)."
-    },
     "TerastallizeModifierType": {
       "name": "Téra-Éclat {{teraType}}",
       "description": "Téracristallise son porteur en type {{teraType}} pendant 10 combats."

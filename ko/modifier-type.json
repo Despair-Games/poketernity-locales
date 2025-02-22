@@ -125,9 +125,6 @@
     "FormChangeItemModifierType": {
       "description": "어느 특정 포켓몬을 폼 체인지시킨다."
     },
-    "FusePokemonModifierType": {
-      "description": "두 포켓몬을 결합시킨다. (특성 변환, 종족값과 타입 분배, 기술폭 공유)"
-    },
     "TerastallizeModifierType": {
       "name": "테라피스 {{teraType}}",
       "description": "지니게 하면 10번의 배틀 동안 {{teraType}} 테라스탈타입으로 테라스탈한다."

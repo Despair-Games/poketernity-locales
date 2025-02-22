@@ -125,9 +125,6 @@
     "FormChangeItemModifierType": {
       "description": "Erlaubt es bestimmten Pokémon ihre Form zu ändern."
     },
-    "FusePokemonModifierType": {
-      "description": "Fusioniert zwei Pokémon (überträgt die Fähigkeit, teilt Basiswerte und Typ auf, gemeinsamer Attackenpool)."
-    },
     "TerastallizeModifierType": {
       "name": "{{teraType}} Terra-Stück",
       "description": "{{teraType}} Terakristallisiert den Träger für bis zu 10 Kämpfe."

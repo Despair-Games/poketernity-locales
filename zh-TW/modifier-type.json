@@ -125,9 +125,6 @@
     "FormChangeItemModifierType": {
       "description": "使某些寶可夢更改形態。"
     },
-    "FusePokemonModifierType": {
-      "description": "融合兩隻寶可夢 (改變特性, 平分基礎點數\n和屬性, 共享招式池)。"
-    },
     "TerastallizeModifierType": {
       "name": "{{teraType}}太晶碎塊",
       "description": "持有者獲得{{teraType}}太晶化10場戰鬥。"
