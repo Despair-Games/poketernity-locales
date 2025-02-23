@@ -125,9 +125,6 @@
     "FormChangeItemModifierType": {
       "description": "Hace que ciertos Pokémon cambien de forma."
     },
-    "FusePokemonModifierType": {
-      "description": "Fusiona dos Pokémon (transfiere habilidades, divide estadísticas bases y tipos, comparte movimientos)."
-    },
     "TerastallizeModifierType": {
       "name": "Teralito {{teraType}}",
       "description": "Teracristaliza al portador al tipo {{teraType}} durante 10 combates."
@@ -378,47 +375,12 @@
       "name": "Escáner IV",
       "description": "Permite escanear los IVs de Pokémon salvajes. Se revelan 2 IVs por cada objeto.\nLos mejores IVs se muestran primero."
     },
-    "DNA_SPLICERS": {
-      "name": "Punta ADN"
-    },
     "MINI_BLACK_HOLE": {
       "name": "Mini Agujero Negro"
     },
     "GOLDEN_POKEBALL": {
       "name": "Poké Ball Dorada",
       "description": "Agrega 1 opción de objeto extra al final de cada combate."
-    },
-    "ENEMY_DAMAGE_BOOSTER": {
-      "name": "Ficha de Daño",
-      "description": "Aumenta el daño en un 5%."
-    },
-    "ENEMY_DAMAGE_REDUCTION": {
-      "name": "Ficha de Protección",
-      "description": "Reduce el daño recibido en un 2,5%."
-    },
-    "ENEMY_HEAL": {
-      "name": "Ficha de Curación",
-      "description": "Cura el 2% de los PS máximo en cada turno."
-    },
-    "ENEMY_ATTACK_POISON_CHANCE": {
-      "name": "Ficha Veneno"
-    },
-    "ENEMY_ATTACK_PARALYZE_CHANCE": {
-      "name": "Ficha Parálisis"
-    },
-    "ENEMY_ATTACK_BURN_CHANCE": {
-      "name": "Ficha Quemadura"
-    },
-    "ENEMY_STATUS_EFFECT_HEAL_CHANCE": {
-      "name": "Ficha Cura Total",
-      "description": "Agrega un 2,5% de probabilidad cada turno de curar un problema de estado."
-    },
-    "ENEMY_ENDURE_CHANCE": {
-      "name": "Ficha Aguante"
-    },
-    "ENEMY_FUSED_CHANCE": {
-      "name": "Ficha fusión",
-      "description": "Agrega un 1% de probabilidad de que un Pokémon salvaje sea una fusión."
     },
     "MYSTERY_ENCOUNTER_SHUCKLE_JUICE": {
       "name": "Jugo de Shuckle"

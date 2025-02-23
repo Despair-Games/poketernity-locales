@@ -121,10 +121,6 @@
     "name": "Der geheime Typ",
     "description": "Terrakristallisiere ein Pokémon zum Typen Stellar."
   },
-  "SPLICE": {
-    "name": "Unendliche Fusion",
-    "description": "Kombiniere zwei Pokémon mit einem DNS-Keil."
-  },
   "MINI_BLACK_HOLE": {
     "name": "Ein Loch voller Items",
     "description": "Erlange ein Mini-Schwarzes Loch."
