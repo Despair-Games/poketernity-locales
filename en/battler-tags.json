@@ -92,5 +92,6 @@
   "uproarOnAdd": "{{pokemonNameWithAffix}} caused an uproar!",
   "uproarOnCureSleep": "The uproar woke {{pokemonNameWithAffix}}!",
   "uproarOnRemove": "{{pokemonNameWithAffix}} calmed down.",
-  "uproarOnPreventSleep": "But the uproar kept {{pokemonNameWithAffix}} awake!"
+  "uproarOnPreventSleep": "But the uproar kept {{pokemonNameWithAffix}} awake!",
+  "quashOnAdd": "{{pokemonNameWithAffix}}'s move was postponed!"
 }
