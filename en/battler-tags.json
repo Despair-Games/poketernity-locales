@@ -93,5 +93,7 @@
   "uproarOnCureSleep": "The uproar woke {{pokemonNameWithAffix}}!",
   "uproarOnRemove": "{{pokemonNameWithAffix}} calmed down.",
   "uproarOnPreventSleep": "But the uproar kept {{pokemonNameWithAffix}} awake!",
+  "magicCoatOnAdd": "{{pokemonNameWithAffix}} shrouded itself with Magic Coat!",
+  "magicCoatOnApply": "{{pokemonNameWithAffix}}'s {{moveName}} was bounced back by Magic Coat!",
   "quashOnAdd": "{{pokemonNameWithAffix}}'s move was postponed!"
 }
