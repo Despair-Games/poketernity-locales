@@ -1,4 +1,4 @@
-## What are the changes introduced by this PR
+## What are the changes introduced by this PR?
 
 <!-- Tell what this PR does and why -->
 <!-- Specify which keys are being created, added or removed, if any -->
@@ -17,7 +17,7 @@
 
 - **If the PR also updates or removes key(s), please refer below to the process for these cases instead**
 - If not, this locale PR can be merged at any time as long as it has been approved
-- The main PR can then update the submodule by running the command `git submodule update --remote --recursive --force` and committing the change
+- The main PR can then update the submodule by running the command `npm run update-locales:remote` and committing the change
 
 </details>
 
@@ -29,7 +29,7 @@
 - This locale PR should **not** be merged until the main repo PR is ready to be merged itself
 - Once both the main repo PR and this PR have the needeed approvals:
   - Merge this locale PR
-  - In the main PR, update the submodule by running the command `git submodule update --remote --recursive --force` and committing the change
+  - In the main PR, update the submodule by running the command `npm run update-locales:remote` and committing the change
   - The main repo PR can now be merged
 
 </details>
