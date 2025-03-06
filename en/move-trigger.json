@@ -82,5 +82,5 @@
   "splash": "But nothing happened!",
   "celebrate": "Congratulations {{pokemonName}}!",
   "holdHands": "{{pokemonName}} held hands with {{targetPokemonName}}!",
-  "isMakingAnUproar": "{{pokemonName}} is making an uproar!"
+  "isMakingAnUproar": "{{pokemonNameWithAffix}} is making an uproar!"
 }
