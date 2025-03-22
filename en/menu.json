@@ -55,5 +55,11 @@
   "errorServerDown": "Oops! There was an issue contacting the server.\n\nYou may leave this window open,\nthe game will automatically reconnect.",
   "noSaves": "No save files on record!",
   "tooManySaves": "You have too many save files on record!",
-  "eventTimer": "Event Ends in: {{days}}d {{hours}}h {{mins}}m {{secs}}s"
+  "eventTimer": "Event Ends in: {{days}}d {{hours}}h {{mins}}m {{secs}}s",
+  "gameDataNotLoaded": "Your game data could not be loaded. It may be corrupted.",
+  "sessionDataNotLoaded": "Your session data could not be loaded. It may be corrupted.",
+  "gameDataOverwriteWarning": "Your game data will be overwritten and the page will reload. Proceed?",
+  "sessionDataOverwriteWarning": "Your session data will be overwritten and the page will reload. Proceed?",
+  "couldNotContactServer": "Could not contact the server. Your data could not be imported.",
+  "errorUpdating": "An error occurred while updating your data. Please contact the administrator."
 }
