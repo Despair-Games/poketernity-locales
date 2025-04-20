@@ -82,5 +82,7 @@
   "splash": "But nothing happened!",
   "celebrate": "Congratulations {{pokemonName}}!",
   "holdHands": "{{pokemonName}} held hands with {{targetPokemonName}}!",
-  "isMakingAnUproar": "{{pokemonNameWithAffix}} is making an uproar!"
+  "isMakingAnUproar": "{{pokemonNameWithAffix}} is making an uproar!",
+  "bideStoringEnergy": "{{pokemonNameWithAffix}} is storing energy!",
+  "bideUnleashedEnergy": "{{pokemonNameWithAffix}} unleashed its energy!"
 }
