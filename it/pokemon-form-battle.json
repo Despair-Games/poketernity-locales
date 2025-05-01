@@ -6,6 +6,7 @@
   "gigantamax": "GigaMax {{pokemonName}}",
   "eternamax": "EternaMax {{pokemonName}}",
   "megaChange": "{{preName}} si evolve\nin {{pokemonName}}!",
+  "primalChange": "{{pokemonName}} si è archeorisvegliato!\nÈ tornato alla sua forma originaria!",
   "gigantamaxChange": "{{preName}} si Gigamaxxizza\nin {{pokemonName}}!",
   "eternamaxChange": "{{preName}} si Dynamaxxa infinitamente\nin {{pokemonName}}!",
   "revertChange": "{{pokemonName}} è tornato\nalla sua forma originaria!",

@@ -6,6 +6,7 @@
   "gigantamax": "G-Max {{pokemonName}}",
   "eternamax": "E-Max {{pokemonName}}",
   "megaChange": "¡{{preName}} ha mega-evolucionado a {{pokemonName}}!",
+  "primalChange": "¡{{pokemonName}} ha experimentado una Regresión\nPrimigenia y ha recobrado su apariencia primitiva!",
   "gigantamaxChange": "¡{{preName}} ha gigamaxizado a {{pokemonName}}!",
   "eternamaxChange": "¡{{preName}} ha eternamaxizado a {{pokemonName}}!",
   "revertChange": "¡{{pokemonName}} ha revertido a su forma original!",

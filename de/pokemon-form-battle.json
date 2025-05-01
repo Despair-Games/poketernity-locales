@@ -6,6 +6,7 @@
   "gigantamax": "G-Dyna-{{pokemonName}}",
   "eternamax": "U-Dyna-{{pokemonName}}",
   "megaChange": "{{preName}} hat sich zu {{pokemonName}} mega-entwickelt!",
+  "primalChange": "{{pokemonName}} hat eine Protomorphose durchgeführt\nund seine urzeitliche Form zurückerlangt!",
   "gigantamaxChange": "{{preName}} hat sich zu {{pokemonName}} gigadynamaximiert!",
   "eternamaxChange": "{{preName}} hat sich zu {{pokemonName}} unendynamaximiert!",
   "revertChange": "{{pokemonName}} hat seine ursprüngliche Form zurückerlangt!",
