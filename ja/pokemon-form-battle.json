@@ -6,6 +6,7 @@
   "gigantamax": "キョダイ{{pokemonName}}",
   "eternamax": "E・{{pokemonName}}",
   "megaChange": "{{preName}}は\nメガ{{pokemonName}}に　メガシンカした！",
+  "primalChange": "{{pokemonName}}の　ゲンシカイキ！\n原始の姿を　取り戻した！",
   "gigantamaxChange": "{{preName}}は\nキョダイマックスした！",
   "eternamaxChange": "{{preName}}は\nムゲンダイマックスした！",
   "revertChange": "{{pokemonName}}は\n元の姿に　戻った！",

@@ -6,6 +6,7 @@
   "gigantamax": "G-Max {{pokemonName}}",
   "eternamax": "E-Max {{pokemonName}}",
   "megaChange": "{{preName}} Mega Evolved\ninto {{pokemonName}}!",
+  "primalChange": "{{pokemonName}}’s Primal Reversion!\nIt reverted to its primal form!",
   "gigantamaxChange": "{{preName}} Gigantamaxed\ninto {{pokemonName}}!",
   "eternamaxChange": "{{preName}} Eternamaxed\ninto {{pokemonName}}!",
   "revertChange": "{{pokemonName}} reverted\nto its original form!",
