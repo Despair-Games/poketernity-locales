@@ -1,5 +1,5 @@
 {
-  "moveFormatWithGMax": "{gMaxDescriptor} {moveName}",
+  "moveFormatWithGMax": "{{gMaxDescriptor}} {{moveName}}",
   "gMaxDescriptor": "G-Max",
   "pound": {
     "name": "Pound",
