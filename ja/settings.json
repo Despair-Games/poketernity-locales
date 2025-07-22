@@ -64,7 +64,6 @@
   "requireReload": "再読み込みが必要",
   "action": "決定",
   "back": "戻る",
-  "pressToBind": "押下でキーバインド",
   "pressButton": "ボタンを押してください",
   "buttonUp": "上",
   "buttonDown": "下",
