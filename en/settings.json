@@ -62,12 +62,18 @@
   "gamepadPleasePlug": "Please Plug in a Gamepad or Press a Button",
   "delete": "Delete",
   "keyboardPleasePress": "Please Press a Key on Your Keyboard",
-  "reset": "Reset",
+  "reset": "Reset All",
   "requireReload": "Reload Required",
   "action": "Action",
   "back": "Back",
-  "pressToBind": "Press to Bind",
+  "pressToBind": "Press Action to Assign",
   "pressButton": "Press a Button...",
+  "pressKey": "Press a Key...",
+  "buttonPressed": "Button to Assign:",
+  "keyPressed": "Key to Assign:",
+  "willSwapWith": "will swap with",
+  "confirmSwap": "Confirm Swap",
+  "confirmAssign": "Assign Key",
   "buttonUp": "Up",
   "buttonDown": "Down",
   "buttonLeft": "Left",
@@ -103,5 +109,6 @@
   "portrait": "Portrait",
   "configure": "Configure",
   "saveAndClose": "Save & Close",
-  "orientation": "Orientation"
+  "orientation": "Orientation",
+  "keyboardLayout": "Keyboard Layout"
 }
