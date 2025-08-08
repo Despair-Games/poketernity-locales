@@ -1,6 +1,5 @@
 {
-  "moveFormatWithGMax": "{{gMaxDescriptor}} {{moveName}}",
-  "gMaxDescriptor": "G-Max",
+  "moveFormatWithGMax": "G-Max {{moveName}}",
   "pound": {
     "name": "Pound",
     "effect": "The target is physically pounded with a long tail, a foreleg, or the like."
